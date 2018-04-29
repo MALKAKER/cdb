@@ -1,0 +1,2395 @@
+1A0O	Hetero 2-mer - AB	3CHY	Monomer	1FWP	Monomer
+1A22	Hetero 2-mer - AB	1HGU	Monomer	2AEW	Monomer
+1A2K	Hetero 5-mer - A3B2	1GY6	Homo 2-mer - A2	5CIQ	Monomer
+1A6E	Hetero 16-mer - A8B8	1ASX	Homo 2-mer - A2	1E0R	Homo 2-mer - A2
+1ACB	Hetero 2-mer - AB	2CGA	Homo 2-mer - A2	1EGL	Monomer
+1AGR	Hetero 2-mer - AB	1CIP	Monomer	1EZY	Monomer
+1AIP	Hetero 4-mer - A2B2	2C78	Monomer	1TFE	Homo 2-mer - A2
+1AK4	Hetero 2-mer - AB	5F66	Monomer	2JPR	Monomer
+1AM4	Hetero 2-mer - AB	1RGP	Monomer	2KB0	Monomer
+1AN1	Hetero 2-mer - AB	2A31	Monomer	2KMR	Monomer
+1ARO	Hetero 2-mer - AB	4RNP	Monomer	1LBA	Monomer
+1ATN	Hetero 2-mer - AB	2HF4	Monomer	3DNI	Homo 2-mer - A2
+1AVW	Hetero 2-mer - AB	2A31	Monomer	1AVU	Monomer
+1AVX	Hetero 2-mer - AB	2A31	Monomer	1AVU	Monomer
+1AVZ	Hetero 3-mer - A2B	1AVV	Homo 2-mer - A2	1SHF	Homo 4-mer - A4
+1AY7	Hetero 2-mer - AB	1LNI	Monomer	1BTB	Monomer
+1B27	Hetero 2-mer - AB	1A2P	Monomer	1A19	Homo 2-mer - A2
+1B2S	Hetero 2-mer - AB	1A2P	Monomer	1A19	Homo 2-mer - A2
+1B2U	Hetero 2-mer - AB	1A2P	Monomer	1A19	Homo 2-mer - A2
+1B3S	Hetero 2-mer - AB	2KF6	Monomer	1A19	Homo 2-mer - A2
+1B41	Hetero 2-mer - AB	1C2O	Homo 4-mer - A4	1FSC	Homo 2-mer - A2
+1B6C	Hetero 2-mer - AB	2PPN	Monomer	3KCF	Monomer
+1BDJ	Hetero 2-mer - AB	3CHY	Monomer	2A0B	Monomer
+1BI7	Hetero 4-mer - A2B2	5L2S	Monomer	2A5E	Monomer
+1BI8	Hetero 4-mer - A2B2	5L2S	Monomer	1AP7	Monomer
+1BKD	Hetero 8-mer - A4B4	1CTQ	Monomer	2II0	Monomer
+1BLX	Hetero 2-mer - AB	5L2S	Monomer	1AP7	Monomer
+1BML	Hetero 4-mer - A2B2	5UGG	Monomer	1QQR	Monomer
+1BP3	Hetero 2-mer - AB	1HGU	Monomer	2LFG	Monomer
+1BRB	Hetero 2-mer - AB	1DPO	Monomer	1BPI	Monomer
+1BRS	Hetero 2-mer - AB	1A2P	Monomer	1AB7	Monomer
+1BUH	Hetero 2-mer - AB	1JVP	Monomer	1DKT	Homo 2-mer - A2
+1BUI	Hetero 3-mer - A2B	5UGG	Monomer	2SAK	Homo 2-mer - A2
+1BVN	Hetero 2-mer - AB	1PIG	Monomer	1OK0	Monomer
+1BXI	Hetero 2-mer - AB	1IMQ	Monomer	1FSJ	Monomer
+1BZQ	Hetero 2-mer - AB	2E3W	Monomer	4PPT	Monomer
+1BZX	Hetero 2-mer - AB	1HJ8	Monomer	1BPI	Monomer
+1C0F	Hetero 2-mer - AB	5DD2	Monomer	2GWJ	Monomer
+1C0G	Hetero 2-mer - AB	5DD2	Monomer	3EKS	Monomer
+1C1Y	Hetero 2-mer - AB	3X1X	Monomer	1RFA	Monomer
+1CC0	Hetero 2-mer - AB	5C4M	Monomer	1FST	Monomer
+1CD9	Hetero 4-mer - A2B2	1BGE	Monomer	1GCF	Monomer
+1CGI	Hetero 2-mer - AB	2CGA	Homo 2-mer - A2	1HPT	Monomer
+1CGJ	Hetero 2-mer - AB	2CGA	Homo 2-mer - A2	1HPT	Monomer
+1CLV	Hetero 2-mer - AB	1JAE	Monomer	1QFD	Monomer
+1CN4	Hetero 3-mer - A2B	1ERN	Homo 2-mer - A2	1BUY	Monomer
+1CO7	Hetero 2-mer - AB	1DPO	Monomer	3WNY	Monomer
+1CSE	Hetero 2-mer - AB	3UNX	Monomer	1EGL	Monomer
+1CSO	Hetero 2-mer - AB	2QAA	Monomer	2GKR	Monomer
+1CT0	Hetero 2-mer - AB	2QAA	Monomer	2GKR	Monomer
+1CT2	Hetero 2-mer - AB	2QAA	Monomer	2GKR	Monomer
+1CT4	Hetero 2-mer - AB	2QAA	Monomer	2GKR	Monomer
+1D0D	Hetero 2-mer - AB	1TCP	Monomer	1BPI	Monomer
+1D4X	Hetero 2-mer - AB	3EKS	Monomer	5DD2	Monomer
+1D6R	Hetero 4-mer - A2B2	4I8H	Monomer	1K9B	Monomer
+1DEJ	Hetero 2-mer - AB	5DD2	Monomer	3EKS	Monomer
+1DFJ	Hetero 2-mer - AB	2E3W	Monomer	2BNH	Monomer
+1DJS	Hetero 4-mer - A2B2	3DAR	Monomer	2AXM	Homo 2-mer - A2
+1DKF	Hetero 2-mer - AB	1G5Y	Homo 4-mer - A4	1FD0	Monomer
+1DOA	Hetero 2-mer - AB	1A4R	Homo 2-mer - A2	1FST	Monomer
+1DS6	Hetero 2-mer - AB	2C2H	Monomer	5H1D	Monomer
+1DTD	Hetero 2-mer - AB	1AYE	Monomer	1ZFL	Monomer
+1E0O	Hetero 4-mer - A2B2	2AFG	Homo 4-mer - A4	3DAR	Monomer
+1E4K	Hetero 3-mer - A2B	3C2S	Homo 2-mer - A2	1E4J	Monomer
+1E50	Hetero 2-mer - AB	1LJM	Monomer	1CL3	Monomer
+1E6E	Hetero 2-mer - AB	1CJC	Monomer	1L6V	Monomer
+1E94	Homo 12-mer - A12	4G4E	Homo 12-mer - A12	1G41	Homo 6-mer - A6
+1E96	Hetero 2-mer - AB	2C2H	Monomer	1WM5	Monomer
+1E9H	Hetero 2-mer - AB	1JVP	Monomer	1VIN	Monomer
+1EAY	Hetero 2-mer - AB	3CHY	Monomer	1FWP	Monomer
+1EER	Hetero 3-mer - A2B	1BUY	Monomer	1ERN	Homo 2-mer - A2
+1EJM	Hetero 2-mer - AB	4I8H	Monomer	1LD5	Monomer
+1EQY	Hetero 2-mer - AB	5DD2	Monomer	2VYP	Monomer
+1ES7	Hetero 4-mer - A2B2	4MID	Homo 2-mer - A2	2K3G	Monomer
+1ESV	Hetero 2-mer - AB	5DD2	Monomer	2VYP	Monomer
+1ETH	Hetero 3-mer - A2B	1HPL	Monomer	1PCO	Monomer
+1EUI	Hetero 4-mer - A2B2	1FLZ	Monomer	1UGI	Monomer
+1EUV	Hetero 2-mer - AB	2HL9	Monomer	1L2N	Monomer
+1EV2	Hetero 8-mer - A4B4	1BFF	Monomer	3DAR	Monomer
+1EWY	Hetero 2-mer - AB	1OGJ	Monomer	1CZP	Monomer
+1EZS	Hetero 4-mer - A2B2	1ECY	Homo 2-mer - A2	1ANE	Homo 2-mer - A2
+1EZU	Hetero 4-mer - A2B2	1ECY	Homo 2-mer - A2	1ANE	Homo 2-mer - A2
+1F34	Hetero 2-mer - AB	1PSA	Homo 2-mer - A2	1F32	Monomer
+1F3V	Hetero 2-mer - AB	1F2H	Monomer	1CA4	Homo 3-mer - A3
+1F5R	Hetero 2-mer - AB	1DPO	Monomer	3AUC	Monomer
+1F6A	Hetero 3-mer - A2B	1F2Q	Monomer	1FP5	Homo 2-mer - A2
+1F6M	Hetero 4-mer - A2B2	1TRB	Homo 2-mer - A2	2TRX	Monomer
+1F7Z	Hetero 2-mer - AB	1TRN	Homo 2-mer - A2	3AUC	Monomer
+1F8U	Hetero 2-mer - AB	1Q84	Homo 2-mer - A2	1FSC	Homo 2-mer - A2
+1FAP	Hetero 2-mer - AB	2PPN	Monomer	1AUE	Monomer
+1FC2	Hetero 2-mer - AB	2SPZ	Monomer	1FC1	Homo 2-mer - A2
+1FCC	Hetero 4-mer - A2B2	4WI4	Homo 2-mer - A2	1MHX	Monomer
+1FFG	Hetero 2-mer - AB	3CHY	Monomer	1FWP	Monomer
+1FFS	Hetero 2-mer - AB	3CHY	Monomer	1FWP	Monomer
+1FFW	Hetero 2-mer - AB	3CHY	Monomer	1FWP	Monomer
+1FIN	Hetero 2-mer - AB	1JVP	Monomer	1VIN	Monomer
+1FLE	Hetero 2-mer - AB	5AVD	Monomer	2REL	Monomer
+1FLT	Hetero 4-mer - A2B2	1MKK	Homo 2-mer - A2	5ABD	Monomer
+1FQ1	Hetero 2-mer - AB	1FPZ	Monomer	1JVP	Monomer
+1FQK	Hetero 2-mer - AB	1TAD	Monomer	1FQI	Monomer
+1FR2	Hetero 2-mer - AB	1IMQ	Monomer	1FSJ	Monomer
+1FSS	Hetero 2-mer - AB	1EA5	Homo 2-mer - A2	1FSC	Homo 2-mer - A2
+1FVV	Hetero 2-mer - AB	1JVP	Monomer	1VIN	Monomer
+1FY8	Hetero 2-mer - AB	1TRN	Homo 2-mer - A2	1BPI	Monomer
+1G3I	Hetero 24-mer - A12B12	1G41	Homo 6-mer - A6	1JJW	Homo 12-mer - A12
+1G4A	Hetero 18-mer - A12B6	1DO0	Homo 6-mer - A6	4G4E	Homo 12-mer - A12
+1G4B	Hetero 24-mer - A12B12	1DO0	Homo 6-mer - A6	4G4E	Homo 12-mer - A12
+1G4U	Hetero 2-mer - AB	1G4W	Monomer	2W2V	Monomer
+1G4Y	Hetero 4-mer - A2B2	1KKD	Monomer	3IF7	Monomer
+1G6V	Hetero 2-mer - AB	3KS3	Monomer	1F2X	Monomer
+1G73	Hetero 2-mer - AB	1FEW	Homo 2-mer - A2	3G76	Monomer
+1GCQ	Hetero 3-mer - A2B	1GFD	Monomer	1GCP	Monomer
+1GHQ	Hetero 3-mer - A2B	1C3D	Monomer	1LY2	Monomer
+1GL1	Hetero 2-mer - AB	2CGA	Homo 2-mer - A2	1PMC	Monomer
+1GLA	Hetero 8-mer - A4B4	2F3G	Homo 2-mer - A2	1BU6	Homo 4-mer - A4
+1GLB	Hetero 8-mer - A4B4	2F3G	Homo 2-mer - A2	1BU6	Homo 4-mer - A4
+1GLC	Hetero 8-mer - A4B4	2F3G	Homo 2-mer - A2	1BU6	Homo 4-mer - A4
+1GLD	Hetero 8-mer - A4B4	2F3G	Homo 2-mer - A2	1BU6	Homo 4-mer - A4
+1GLE	Hetero 8-mer - A4B4	2F3G	Homo 2-mer - A2	1BU6	Homo 4-mer - A4
+1GPQ	Hetero 4-mer - A2B2	1XS0	Homo 2-mer - A2	4LZT	Monomer
+1GPW	Hetero 2-mer - AB	1THF	Homo 2-mer - A2	1K9V	Monomer
+1GRN	Hetero 2-mer - AB	1A4R	Homo 2-mer - A2	1RGP	Monomer
+1GUA	Hetero 2-mer - AB	3X1X	Monomer	1RFA	Monomer
+1GXD	Hetero 2-mer - AB	1CK7	Monomer	1BR9	Monomer
+1H1P	Hetero 2-mer - AB	3EZR	Monomer	1VIN	Monomer
+1H1Q	Hetero 2-mer - AB	3EZR	Monomer	1VIN	Monomer
+1H1R	Hetero 2-mer - AB	3EZR	Monomer	1VIN	Monomer
+1H1S	Hetero 2-mer - AB	3EZR	Monomer	1VIN	Monomer
+1H1V	Hetero 2-mer - AB	2FXU	Monomer	1NPH	Monomer
+1H59	Hetero 6-mer - A3B3	1IMX	Monomer	1BOE	Monomer
+1H9H	Hetero 2-mer - AB	2A31	Monomer	2M7T	Monomer
+1H9I	Hetero 2-mer - AB	2A31	Monomer	2M7T	Monomer
+1HCF	Hetero 4-mer - A2B2	1B98	Homo 2-mer - A2	1WWB	Monomer
+1HE1	Hetero 2-mer - AB	1HE9	Homo 2-mer - A2	2G0N	Monomer
+1HE8	Hetero 2-mer - AB	1E8Y	Monomer	1CTQ	Monomer
+1HH4	Hetero 2-mer - AB	2C2H	Monomer	1FST	Monomer
+1HLU	Hetero 2-mer - AB	2OAN	Homo 2-mer - A2	1PNE	Monomer
+1HQY	Hetero 18-mer - A12B6	4G4E	Homo 12-mer - A12	1G41	Homo 6-mer - A6
+1HT1	Hetero 24-mer - A12B12	4G4E	Homo 12-mer - A12	1G41	Homo 6-mer - A6
+1HT2	Homo 12-mer - A12	4G4E	Homo 12-mer - A12	1G41	Homo 6-mer - A6
+1HWG	Hetero 3-mer - A2B	1HGU	Monomer	2AEW	Monomer
+1HWH	Hetero 4-mer - A2B2	1HGU	Monomer	2AEW	Monomer
+1HYR	Hetero 3-mer - A2B	1MPU	Homo 2-mer - A2	1JE6	Monomer
+1HZZ	Hetero 3-mer - A2B	1L7D	Homo 2-mer - A2	1E3T	Monomer
+1I2M	Hetero 2-mer - AB	5CIQ	Monomer	1A12	Homo 3-mer - A3
+1I4D	Hetero 3-mer - A2B	1I49	Homo 2-mer - A2	2C2H	Monomer
+1I4E	Hetero 2-mer - AB	1P35	Homo 2-mer - A2	2K7Z	Monomer
+1I4L	Hetero 3-mer - A2B	1I49	Homo 2-mer - A2	2C2H	Monomer
+1I4O	Monomer	4HQ0	Homo 2-mer - A2	1C9Q	Monomer
+1I4T	Hetero 3-mer - A2B	1I49	Homo 2-mer - A2	2C2H	Monomer
+1I85	Hetero 4-mer - A2B2	1NCN	Monomer	1AH1	Monomer
+1I8L	Hetero 2-mer - AB	1DR9	Monomer	1AH1	Monomer
+1IB1	Hetero 4-mer - A2B2	1A4O	Homo 2-mer - A2	1KUX	Monomer
+1IBR	Hetero 2-mer - AB	5CIQ	Monomer	1GCJ	Homo 2-mer - A2
+1II4	Hetero 2-mer - AB	4OEE	Monomer	3DAR	Monomer
+1IIL	Hetero 2-mer - AB	4OEE	Monomer	3DAR	Monomer
+1IK9	Hetero 3-mer - A2B	5CJ0	Homo 2-mer - A2	2E2W	Monomer
+1IS7	Hetero 20-mer - A10B10	1FB1	Homo 10-mer - A10	1JG5	Homo 5-mer - A5
+1IS8	Hetero 20-mer - A10B10	1FB1	Homo 10-mer - A10	1JG5	Homo 5-mer - A5
+1IVO	Hetero 4-mer - A2B2	5LV6	Homo 2-mer - A2	2KV4	Monomer
+1J2J	Hetero 2-mer - AB	1O3Y	Monomer	1OXZ	Monomer
+1JCK	Hetero 4-mer - A2B2	1BEC	Homo 2-mer - A2	1CK1	Homo 2-mer - A2
+1JIW	Hetero 2-mer - AB	1AKL	Monomer	2RN4	Monomer
+1JK0	Hetero 2-mer - AB	1SMQ	Homo 2-mer - A2	1SMS	Homo 2-mer - A2
+1JK9	Hetero 2-mer - AB	1JCV	Homo 2-mer - A2	1QUP	Homo 2-mer - A2
+1JLT	AB	1VPI	Homo 2-mer - A2	1RGB	Homo 2-mer - A2
+1JMA	Hetero 2-mer - AB	4FHQ	Monomer	1L2G	Homo 4-mer - A4
+1JOW	Hetero 2-mer - AB	1BU2	Monomer	5L2S	Monomer
+1JST	Hetero 4-mer - A2B2	1JVP	Monomer	1VIN	Monomer
+1JTD	Hetero 2-mer - AB	1ERM	Monomer	3QI0	Monomer
+1JTG	Hetero 2-mer - AB	1BTL	Monomer	3GMU	Monomer
+1JWH	Hetero 4-mer - A2B2	3PE1	Monomer	2R6M	Homo 2-mer - A2
+1JZD	Hetero 3-mer - A2B	4I5Q	Homo 2-mer - A2	1L6P	Monomer
+1K28	Hetero 6-mer - A3B3	1PDL	Homo 3-mer - A3	1PDJ	Homo 3-mer - A3
+1K8R	Hetero 2-mer - AB	1CTQ	Monomer	1I35	Monomer
+1K90	Hetero 6-mer - A3B3	1K8T	Monomer	3IF7	Monomer
+1K93	Hetero 2-mer - AB	1K8T	Monomer	1DEG	Monomer
+1K9O	Hetero 2-mer - AB	1SEK	Homo 2-mer - A2	1DPO	Monomer
+1KAC	Hetero 6-mer - A3B3	1NOB	Homo 3-mer - A3	3J6M	Homo 60-mer - A60
+1KF9	Hetero 3-mer - A2B	1HUW	Homo 2-mer - A2	2AEW	Monomer
+1KGY	Hetero 4-mer - A2B2	1NUK	Monomer	2I85	Monomer
+1KI1	Hetero 2-mer - AB	2QRZ	Homo 2-mer - A2	3JV3	Monomer
+1KIU	Hetero 2-mer - AB	1BF8	Monomer	5AB1	Monomer
+1KKL	Hetero 12-mer - A6B6	2QMH	Homo 6-mer - A6	1SPH	Homo 2-mer - A2
+1KKM	Hetero 12-mer - A6B6	2QMH	Homo 6-mer - A6	1SPH	Homo 2-mer - A2
+1KLF	Hetero 2-mer - AB	1BF8	Monomer	5AB1	Monomer
+1KMC	Homo 2-mer - A2	4FDL	Homo 2-mer - A2	1C9Q	Monomer
+1KRL	Hetero 2-mer - AB	3PYJ	Monomer	2O9U	Monomer
+1KTZ	Hetero 4-mer - A2B2	1TGJ	Homo 2-mer - A2	1PLO	Monomer
+1KU6	Hetero 2-mer - AB	4B85	Homo 2-mer - A2	1FSC	Homo 2-mer - A2
+1KXP	Hetero 2-mer - AB	2FXU	Monomer	1KW2	Monomer
+1KYI	Hetero 24-mer - A12B12	1G41	Homo 6-mer - A6	1JJW	Homo 12-mer - A12
+1KZ7	Hetero 2-mer - AB	1RJ2	Monomer	2QRZ	Homo 2-mer - A2
+1KZG	Hetero 2-mer - AB	1RJ2	Monomer	2QRZ	Homo 2-mer - A2
+1L0X	Hetero 2-mer - AB	1BEC	Homo 2-mer - A2	1UUP	Homo 2-mer - A2
+1L0Y	Hetero 2-mer - AB	1BEC	Homo 2-mer - A2	1UUP	Homo 2-mer - A2
+1L6X	Hetero 2-mer - AB	4WI4	Homo 2-mer - A2	1ZDD	Monomer
+1LB1	Hetero 2-mer - AB	1RJ2	Monomer	3TVD	Monomer
+1LDT	Hetero 2-mer - AB	2A31	Monomer	2KMR	Monomer
+1LFD	Hetero 2-mer - AB	1LXD	Homo 2-mer - A2	1XCM	Monomer
+1LOT	Hetero 2-mer - AB	1KW2	Monomer	2FXU	Monomer
+1LP1	AB	2B88	Monomer	2SPZ	Monomer
+1LPA	Hetero 2-mer - AB	1PCO	Monomer	1HPL	Monomer
+1LPB	Hetero 2-mer - AB	1PCO	Monomer	1HPL	Monomer
+1LQG	Hetero 2-mer - AB	1LQJ	Monomer	1UGI	Monomer
+1LQM	Hetero 2-mer - AB	1LQJ	Monomer	1UGI	Monomer
+1LVC	Hetero 2-mer - AB	1K8T	Monomer	1PRW	Monomer
+1LW6	Hetero 2-mer - AB	1SUP	Monomer	1YPC	Monomer
+1LX5	Hetero 4-mer - A2B2	1LXI	Homo 2-mer - A2	1BTE	Homo 2-mer - A2
+1LZW	Hetero 2-mer - AB	3O2O	Homo 2-mer - A2	1K6K	Monomer
+1M10	Hetero 2-mer - AB	1AUQ	Monomer	1M0Z	Monomer
+1M9C	Hetero 2-mer - AB	5F66	Monomer	4NX4	Monomer
+1M9D	Hetero 2-mer - AB	5F66	Monomer	2PWO	Homo 2-mer - A2
+1M9E	Hetero 2-mer - AB	5TA4	Monomer	4NX4	Monomer
+1M9F	Hetero 2-mer - AB	5F66	Monomer	4NX4	Monomer
+1M9X	Hetero 2-mer - AB	5F66	Monomer	2PWO	Homo 2-mer - A2
+1M9Y	Hetero 2-mer - AB	5F66	Monomer	4NX4	Monomer
+1MA9	Hetero 2-mer - AB	1KW2	Monomer	2FXU	Monomer
+1MAH	Hetero 4-mer - A2B2	2HA2	Homo 2-mer - A2	1FSC	Homo 2-mer - A2
+1MBU	Hetero 2-mer - AB	1K6K	Monomer	3O2O	Homo 2-mer - A2
+1MBV	Hetero 2-mer - AB	1K6K	Monomer	3O2O	Homo 2-mer - A2
+1MBX	Hetero 2-mer - AB	1K6K	Monomer	3O2O	Homo 2-mer - A2
+1MCW	Hetero 2-mer - AB	1JVK	Homo 2-mer - A2	3MCG	Homo 4-mer - A4
+1MDU	Hetero 6-mer - A3B3	5DD2	Monomer	2VYP	Monomer
+1MEE	Hetero 2-mer - AB	3VYV	Monomer	1EGL	Monomer
+1MG9	Hetero 2-mer - AB	3O2O	Homo 2-mer - A2	1K6K	Monomer
+1ML0	Hetero 4-mer - A2B2	1MKF	Homo 2-mer - A2	3IFD	Homo 2-mer - A2
+1MQ8	Hetero 2-mer - AB	1P53	Monomer	1MJN	Monomer
+1MZ8	Hetero 2-mer - AB	1UNK	Homo 4-mer - A4	1M08	Homo 2-mer - A2
+1N8S	Hetero 2-mer - AB	1HPL	Monomer	1PCO	Monomer
+1NBF	Hetero 2-mer - AB	1NB8	Monomer	5NVG	Monomer
+1NF3	Hetero 2-mer - AB	1AJE	Monomer	2LC6	Monomer
+1NLV	Hetero 2-mer - AB	3EKS	Monomer	5DD2	Monomer
+1NM1	Hetero 2-mer - AB	3EKS	Monomer	5DD2	Monomer
+1NM5	Hetero 3-mer - A2B	1L7D	Homo 2-mer - A2	1E3T	Monomer
+1NMD	Hetero 2-mer - AB	3EKS	Monomer	5DD2	Monomer
+1NMU	Hetero 2-mer - AB	5B3X	Monomer	1CN7	Monomer
+1NOC	Homo 3-mer - A3	1NOS	Monomer	1Q23	Homo 3-mer - A3
+1NSG	Hetero 2-mer - AB	2PPN	Monomer	1AUE	Monomer
+1NVU	Hetero 3-mer - A2B	1LF5	Monomer	2II0	Monomer
+1NVW	Hetero 3-mer - A2B	1CTQ	Monomer	2II0	Monomer
+1NVX	Hetero 3-mer - A2B	1LF5	Monomer	2II0	Monomer
+1NW9	Hetero 2-mer - AB	4KMP	Monomer	2AR9	Homo 2-mer - A2
+1OC0	Hetero 2-mer - AB	4IC0	Monomer	1SSU	Monomer
+1OFH	Hetero 18-mer - A12B6	1IM2	Homo 6-mer - A6	1JJW	Homo 12-mer - A12
+1OFI	Hetero 18-mer - A12B6	1IM2	Homo 6-mer - A6	1JJW	Homo 12-mer - A12
+1OFU	Hetero 4-mer - A2B2	2VAW	Monomer	1OFT	Homo 4-mer - A4
+1OGU	Hetero 2-mer - AB	3EZR	Monomer	1VIN	Monomer
+1OI9	Hetero 2-mer - AB	3EZR	Monomer	1VIN	Monomer
+1OIU	Hetero 2-mer - AB	3EZR	Monomer	1VIN	Monomer
+1OIY	Hetero 2-mer - AB	3EZR	Monomer	1VIN	Monomer
+1OKK	Hetero 2-mer - AB	1NG1	Monomer	2Q9C	Monomer
+1OPH	Hetero 2-mer - AB	1OO8	Monomer	1UTQ	Monomer
+1OQD	Hetero 108-mer - A60B48	1JH5	Homo 10-mer - A10	2KN1	Monomer
+1OQE	Hetero 108-mer - A60B48	1JH5	Homo 10-mer - A10	1OSX	Monomer
+1OQO	Hetero 2-mer - AB	3V95	Homo 2-mer - A2	1ZDD	Monomer
+1OQS	AB	1VPI	Homo 2-mer - A2	1RGB	Homo 2-mer - A2
+1OQX	Hetero 2-mer - AB	3V95	Homo 2-mer - A2	1ZDD	Monomer
+1ORY	Hetero 2-mer - AB	1ORJ	Monomer	4IWB	Monomer
+1OW3	Hetero 2-mer - AB	1RGP	Monomer	5C4M	Monomer
+1OYV	Hetero 3-mer - A2B	3UNX	Monomer	1PJU	Monomer
+1P2I	Hetero 2-mer - AB	4I8H	Monomer	1BPI	Monomer
+1P2J	Hetero 2-mer - AB	4I8H	Monomer	1BPI	Monomer
+1P2K	Hetero 2-mer - AB	4I8H	Monomer	1BPI	Monomer
+1P2M	Hetero 2-mer - AB	2CGA	Homo 2-mer - A2	1BPI	Monomer
+1P2N	Hetero 2-mer - AB	2CGA	Homo 2-mer - A2	1BPI	Monomer
+1P2O	Hetero 2-mer - AB	2CGA	Homo 2-mer - A2	1BPI	Monomer
+1P2Q	Hetero 2-mer - AB	2CGA	Homo 2-mer - A2	1BPI	Monomer
+1P3Q	Hetero 3-mer - A2B	1MN3	Monomer	5NVG	Monomer
+1P5E	Hetero 2-mer - AB	4FKL	Monomer	1VIN	Monomer
+1P69	Hetero 2-mer - AB	1NOB	Homo 3-mer - A3	3J6M	Homo 60-mer - A60
+1P6A	Hetero 2-mer - AB	1NOB	Homo 3-mer - A3	3J6M	Homo 60-mer - A60
+1P8Z	Hetero 2-mer - AB	5DD2	Monomer	2VYP	Monomer
+1PGR	Hetero 4-mer - A2B2	1BGE	Monomer	1GCF	Monomer
+1PK0	Hetero 6-mer - A3B3	1K8T	Monomer	3IF7	Monomer
+1PK1	Hetero 2-mer - AB	1KW4	Monomer	1PK3	Monomer
+1PKD	Hetero 2-mer - AB	1JVP	Monomer	1VIN	Monomer
+1PPF	Hetero 2-mer - AB	5ABW	Monomer	1TUS	Monomer
+1PTJ	Hetero 3-mer - A2B	1L7D	Homo 2-mer - A2	1PNO	Monomer
+1PVH	Hetero 2-mer - AB	1BQU	Homo 2-mer - A2	1EMR	Monomer
+1PXV	Hetero 2-mer - AB	1X9Y	Monomer	1NYC	Monomer
+1QA9	Hetero 2-mer - AB	1GYA	Monomer	1CI5	Monomer
+1QAB	Hetero 6-mer - A4B2	2PAB	Homo 2-mer - A2	1RBP	Monomer
+1QAV	Hetero 2-mer - AB	1Z86	Monomer	1QAU	Monomer
+1QBK	Hetero 2-mer - AB	2QMR	Monomer	5CIQ	Monomer
+1QTY	Hetero 4-mer - A2B2	3QTK	Homo 2-mer - A2	1QSZ	Monomer
+1QUN	Hetero 2-mer - AB	1BF8	Monomer	5AB1	Monomer
+1QX7	Homo 2-mer - A2	3IF7	Monomer	1KKD	Monomer
+1R0R	Hetero 2-mer - AB	3UNX	Monomer	2GKR	Monomer
+1R6O	Hetero 2-mer - AB	1K6K	Monomer	3O2O	Homo 2-mer - A2
+1R6Q	Hetero 2-mer - AB	1K6K	Monomer	3O2O	Homo 2-mer - A2
+1R8Q	Hetero 2-mer - AB	1RRG	Homo 2-mer - A2	1R8M	Monomer
+1R8S	Hetero 2-mer - AB	1U81	Monomer	1R8M	Monomer
+1REW	Hetero 4-mer - A2B2	3BMP	Homo 2-mer - A2	2K3G	Monomer
+1RGI	Hetero 2-mer - AB	2FGH	Homo 2-mer - A2	2VYP	Monomer
+1RJ9	Hetero 2-mer - AB	2Q9C	Monomer	2C03	Monomer
+1RLB	Hetero 6-mer - A4B2	2PAB	Homo 2-mer - A2	2WQ9	Monomer
+1RV6	Hetero 4-mer - A2B2	1FZV	Homo 2-mer - A2	1QSZ	Monomer
+1S1Q	Hetero 2-mer - AB	1KPQ	Monomer	5NVG	Monomer
+1S26	Hetero 2-mer - AB	1K8T	Monomer	3IF7	Monomer
+1S3S	Hetero 9-mer - A6B3	1E32	Homo 6-mer - A6	1JRU	Monomer
+1S6V	Hetero 2-mer - AB	1Z53	Monomer	3TYI	Monomer
+1S9D	Hetero 2-mer - AB	1U81	Monomer	1R8M	Monomer
+1SBB	Hetero 4-mer - A2B2	1BEC	Homo 2-mer - A2	1SE4	Monomer
+1SBN	Hetero 2-mer - AB	1SUP	Monomer	1EGL	Monomer
+1SGD	Hetero 2-mer - AB	2QAA	Monomer	2GKR	Monomer
+1SGE	Hetero 2-mer - AB	2QAA	Monomer	2GKR	Monomer
+1SGH	Hetero 2-mer - AB	1GC7	Monomer	2KRG	Monomer
+1SGN	Hetero 2-mer - AB	2QAA	Monomer	2GKR	Monomer
+1SGP	Hetero 2-mer - AB	2QAA	Monomer	2GKR	Monomer
+1SGQ	Hetero 2-mer - AB	2QAA	Monomer	2GKR	Monomer
+1SGR	Hetero 2-mer - AB	2QAA	Monomer	2GKR	Monomer
+1SGY	Hetero 2-mer - AB	2QAA	Monomer	2GKR	Monomer
+1SHW	Hetero 2-mer - AB	1SHX	Monomer	1NUK	Monomer
+1SHY	Hetero 2-mer - AB	1SI5	Monomer	1SSL	Monomer
+1SIB	Hetero 2-mer - AB	1SUP	Monomer	1EGL	Monomer
+1SK6	Hetero 2-mer - AB	1K8T	Monomer	3IF7	Monomer
+1SLU	Hetero 4-mer - A2B2	1ECY	Homo 2-mer - A2	1ANE	Homo 2-mer - A2
+1SLV	Hetero 4-mer - A2B2	1ECY	Homo 2-mer - A2	1ANE	Homo 2-mer - A2
+1SLW	Hetero 4-mer - A2B2	1ECY	Homo 2-mer - A2	1DPO	Monomer
+1SLX	Hetero 4-mer - A2B2	1ECY	Homo 2-mer - A2	1ANE	Homo 2-mer - A2
+1SQ0	Hetero 2-mer - AB	4C29	Monomer	1P9A	Monomer
+1STF	Hetero 2-mer - AB	9PAP	Monomer	2OCT	Homo 4-mer - A4
+1SVX	Hetero 2-mer - AB	4J7W	Monomer	3JYR	Monomer
+1SYX	Hetero 2-mer - AB	1QGV	Monomer	1GYF	Monomer
+1T44	Hetero 2-mer - AB	5DD2	Monomer	2GWJ	Monomer
+1T6B	Hetero 2-mer - AB	4H2A	Monomer	1SHU	Monomer
+1T6G	Hetero 2-mer - AB	1T6E	Monomer	1BK1	Monomer
+1T7C	Hetero 2-mer - AB	2CGA	Homo 2-mer - A2	1BPI	Monomer
+1T83	Hetero 3-mer - A2B	1FC1	Homo 2-mer - A2	1E4J	Monomer
+1T89	Hetero 3-mer - A2B	1FC1	Homo 2-mer - A2	1E4J	Monomer
+1T8L	Hetero 2-mer - AB	2CGA	Homo 2-mer - A2	1BPI	Monomer
+1T8M	Hetero 2-mer - AB	2CGA	Homo 2-mer - A2	1BPI	Monomer
+1T8N	Hetero 2-mer - AB	2CGA	Homo 2-mer - A2	1BPI	Monomer
+1T8O	Hetero 2-mer - AB	2CGA	Homo 2-mer - A2	1BPI	Monomer
+1TAB	Hetero 4-mer - A2B2	4I8H	Monomer	2BBI	Monomer
+1TAW	Hetero 4-mer - A2B2	4I8H	Monomer	1AAP	Homo 2-mer - A2
+1TE1	Hetero 2-mer - AB	1OM0	Monomer	5HXV	Monomer
+1TEC	Hetero 2-mer - AB	1THM	Monomer	1EGL	Monomer
+1TF0	Hetero 2-mer - AB	1BKE	Monomer	1PRB	Monomer
+1TFX	Hetero 2-mer - AB	2A31	Monomer	1ADZ	Monomer
+1TGZ	Hetero 2-mer - AB	1TH0	Monomer	5GHD	Monomer
+1TM1	Hetero 2-mer - AB	1SUP	Monomer	1YPC	Monomer
+1TM3	Hetero 2-mer - AB	1SUP	Monomer	1YPC	Monomer
+1TM4	Hetero 2-mer - AB	1SUP	Monomer	1YPC	Monomer
+1TM5	Hetero 2-mer - AB	1SUP	Monomer	1YPC	Monomer
+1TM7	Hetero 2-mer - AB	1SUP	Monomer	1YPC	Monomer
+1TMG	Hetero 2-mer - AB	1SUP	Monomer	1YPC	Monomer
+1TMQ	Hetero 2-mer - AB	1JAE	Monomer	1BIP	Monomer
+1TO1	Hetero 2-mer - AB	1SUP	Monomer	1YPC	Monomer
+1TO2	Hetero 2-mer - AB	1SUP	Monomer	1YPC	Monomer
+1TPA	Hetero 2-mer - AB	4I8H	Monomer	1BPI	Monomer
+1TX4	Hetero 2-mer - AB	1RGP	Monomer	1DPF	Monomer
+1TX6	Hetero 3-mer - A2B	2A31	Monomer	2FJ8	Monomer
+1TXQ	Hetero 4-mer - A2B2	2HKN	Homo 2-mer - A2	5JVU	Homo 2-mer - A2
+1U28	Hetero 3-mer - A2B	1L7D	Homo 2-mer - A2	1E3T	Monomer
+1U2D	Hetero 3-mer - A2B	1L7D	Homo 2-mer - A2	1E3T	Monomer
+1U2G	Hetero 3-mer - A2B	1L7D	Homo 2-mer - A2	1E3T	Monomer
+1U5I	Hetero 2-mer - AB	1MDW	Monomer	1DVI	Homo 2-mer - A2
+1U74	Hetero 2-mer - AB	1CCP	Monomer	1YIC	Monomer
+1U75	Hetero 3-mer - A2B	1CCP	Monomer	3WUI	Homo 2-mer - A2
+1U7F	A2B	1MJS	Monomer	1YGS	Homo 3-mer - A3
+1U7V	A2B	1MJS	Monomer	1YGS	Homo 3-mer - A3
+1UAD	Hetero 2-mer - AB	2KE5	Monomer	1HK6	Monomer
+1UB4	Hetero 6-mer - A4B2	3NFC	Homo 2-mer - A2	2MRN	Homo 2-mer - A2
+1UDI	Hetero 2-mer - AB	1UDH	Monomer	1UGI	Monomer
+1UEA	Hetero 2-mer - AB	1HY7	Monomer	1D2B	Monomer
+1UGH	Hetero 2-mer - AB	3FCI	Monomer	1UGI	Monomer
+1UJZ	Hetero 2-mer - AB	1UNK	Homo 4-mer - A4	1M08	Homo 2-mer - A2
+1UKV	Hetero 2-mer - AB	3CPI	Monomer	1YZN	Monomer
+1UL1	Hetero 6-mer - A3B3	5FV7	Monomer	3VKX	Homo 3-mer - A3
+1US7	Hetero 2-mer - AB	2IWX	Monomer	2W0G	Monomer
+1UUG	Hetero 2-mer - AB	1LQJ	Monomer	1UGI	Monomer
+1UUZ	Hetero 2-mer - AB	4PS6	Monomer	4LZT	Monomer
+1UZX	Hetero 2-mer - AB	3R3Q	Monomer	5NVG	Monomer
+1V5I	Hetero 2-mer - AB	1SUP	Monomer	1ITP	Monomer
+2B5L	Hetero 2-mer - AB	2B5M	Monomer	5A9G	Homo 2-mer - A2
+2BCG	Hetero 2-mer - AB	3CPI	Monomer	1YZN	Monomer
+2BCN	Hetero 3-mer - A2B	1CCP	Monomer	1YIC	Monomer
+2BCX	Hetero 2-mer - AB	3IF7	Monomer	5J8V	Homo 4-mer - A4
+2BF8	Hetero 2-mer - AB	2BEP	Monomer	5GHD	Monomer
+2BKH	Hetero 2-mer - AB	4E7Z	Monomer	1OOJ	Monomer
+2BKI	Hetero 3-mer - A2B	4E7Z	Monomer	1PRW	Monomer
+2BKK	Hetero 2-mer - AB	3Q2J	Homo 2-mer - A2	4J7W	Monomer
+2BKR	Hetero 2-mer - AB	2BKQ	Homo 2-mer - A2	1NDD	Monomer
+2BKU	Hetero 2-mer - AB	1BYU	Homo 2-mer - A2	3ND2	Monomer
+2BKY	Homo 4-mer - A4	1Y9X	Homo 2-mer - A2	1UDV	Homo 2-mer - A2
+2BKZ	Hetero 2-mer - AB	3EZR	Monomer	1VIN	Monomer
+2BO9	Hetero 4-mer - A2B2	2BOA	Monomer	1WNH	Monomer
+2BOV	Hetero 2-mer - AB	2KE5	Monomer	2C8A	Monomer
+2BPM	Hetero 2-mer - AB	3EZR	Monomer	1VIN	Monomer
+2BQ1	Hetero 4-mer - A2B2	1PEQ	Homo 2-mer - A2	1R2F	Homo 2-mer - A2
+2BTF	Hetero 2-mer - AB	2OAN	Homo 2-mer - A2	1PNE	Monomer
+2C0L	Hetero 2-mer - AB	2C0M	Monomer	1QND	Monomer
+2C4G	Hetero 2-mer - AB	3EZR	Monomer	1VIN	Monomer
+2C5L	Hetero 2-mer - AB	3KKM	Monomer	2BYF	Monomer
+2C5N	Hetero 2-mer - AB	1JVP	Monomer	1VIN	Monomer
+2C5O	Hetero 2-mer - AB	1JVP	Monomer	1VIN	Monomer
+2C5X	Hetero 2-mer - AB	1JVP	Monomer	1VIN	Monomer
+2C6T	Hetero 2-mer - AB	1JVP	Monomer	1VIN	Monomer
+2CFH	Hetero 2-mer - AB	2PWN	Homo 2-mer - A2	2BJN	Homo 2-mer - A2
+2CH4	Hetero 2-mer - AB	1B3Q	Homo 2-mer - A2	1K0S	Monomer
+2CJM	Hetero 2-mer - AB	1JVP	Monomer	1VIN	Monomer
+2CJS	Hetero 3-mer - A2B	2CJT	Homo 2-mer - A2	2A20	Monomer
+2CKH	Hetero 2-mer - AB	2CKG	Monomer	1WM2	Homo 3-mer - A3
+2CNW	Hetero 2-mer - AB	1NG1	Monomer	2IYL	Monomer
+2DE5	Hetero 6-mer - A3B3	1WW9	Homo 3-mer - A3	1VCK	Monomer
+2DE6	Hetero 6-mer - A3B3	1WW9	Homo 3-mer - A3	1VCK	Monomer
+2DE7	Hetero 6-mer - A3B3	1WW9	Homo 3-mer - A3	1VCK	Monomer
+2DFK	Hetero 2-mer - AB	4MT6	Monomer	1AJE	Monomer
+2E2D	Hetero 2-mer - AB	1ZTQ	Monomer	1BR9	Monomer
+2E33	Hetero 2-mer - AB	2RJ2	Monomer	2E3W	Monomer
+2E9W	Hetero 4-mer - A2B2	2EC8	Monomer	1EXZ	Homo 2-mer - A2
+2EHB	Hetero 2-mer - AB	1V1G	Homo 2-mer - A2	4D28	Homo 2-mer - A2
+2EKE	Hetero 2-mer - AB	2GJD	Homo 4-mer - A4	1L2N	Monomer
+2GJ7	Hetero 4-mer - A2B2	5DVO	Homo 2-mer - A2	2GIY	Homo 2-mer - A2
+2GKV	Hetero 2-mer - AB	2QAA	Monomer	2GKT	Monomer
+2GOL	Hetero 2-mer - AB	1HIW	Homo 3-mer - A3	4NX4	Monomer
+2GOX	Hetero 2-mer - AB	1C3D	Monomer	2GOM	Homo 2-mer - A2
+2GRX	Hetero 2-mer - AB	1QFG	Monomer	1XX3	Monomer
+2GSK	Hetero 2-mer - AB	2GUF	Monomer	1IHR	Homo 2-mer - A2
+2GTP	Hetero 2-mer - AB	5JS8	Monomer	2BV1	Monomer
+2EQB	Hetero 3-mer - A2B	4Z8Y	Monomer	2E7S	Homo 2-mer - A2
+2ERH	Hetero 2-mer - AB	1UNK	Homo 4-mer - A4	1M08	Homo 2-mer - A2
+2EUF	Hetero 2-mer - AB	1BU2	Monomer	5L2S	Monomer
+2F2C	Hetero 2-mer - AB	1BU2	Monomer	5L2S	Monomer
+2F3C	Hetero 2-mer - AB	4I8H	Monomer	1KMA	Monomer
+2F5Z	Hetero 3-mer - A2B	1ZMD	Homo 2-mer - A2	2F60	Monomer
+2F93	Hetero 4-mer - A2B2	2KSY	Monomer	2RM8	Monomer
+2F95	Hetero 4-mer - A2B2	2KSY	Monomer	2RM8	Monomer
+2FAP	Hetero 2-mer - AB	2PPN	Monomer	1AUE	Monomer
+2FCW	Hetero 2-mer - AB	2FTU	Monomer	2LGP	Monomer
+2FHS	Hetero 6-mer - A4B2	1C14	Homo 4-mer - A4	1L0H	Monomer
+2FI3	Hetero 2-mer - AB	4I8H	Monomer	1BPI	Monomer
+2FI4	Hetero 2-mer - AB	4I8H	Monomer	1BPI	Monomer
+2FI5	Hetero 2-mer - AB	4I8H	Monomer	1BPI	Monomer
+2FJU	Hetero 2-mer - AB	2G0N	Monomer	2ZKM	Monomer
+2FMM	Hetero 10-mer - A8B2	1UTU	Homo 2-mer - A2	3I3C	Monomer
+2FR8	Hetero 3-mer - A2B	1L7D	Homo 2-mer - A2	1E3T	Monomer
+2FRD	Hetero 3-mer - A2B	1L7D	Homo 2-mer - A2	1E3T	Monomer
+2FSV	Hetero 3-mer - A2B	1L7D	Homo 2-mer - A2	1E3T	Monomer
+2FTK	Hetero 4-mer - A2B2	1IXM	Homo 2-mer - A2	1SRR	Homo 2-mer - A2
+2FTL	Hetero 2-mer - AB	4I8H	Monomer	1BPI	Monomer
+2FTM	Hetero 2-mer - AB	4I8H	Monomer	8PTI	Monomer
+2FU5	Hetero 2-mer - AB	1HXR	Monomer	4LHW	Monomer
+2FUN	Hetero 2-mer - AB	1I3S	Monomer	2K7Z	Monomer
+2G2U	Hetero 2-mer - AB	2ZD8	Monomer	3GMU	Monomer
+2G2W	Hetero 2-mer - AB	1N9B	Monomer	3GMU	Monomer
+2G45	Hetero 2-mer - AB	2G43	Monomer	5NVG	Monomer
+2G47	Monomer	2JG4	Monomer	2M9S	Monomer
+2G48	Monomer	2JG4	Monomer	2KB8	Monomer
+2G4D	Hetero 2-mer - AB	2CKG	Monomer	5GHD	Monomer
+2G54	Monomer	2JG4	Monomer	1HO0	Monomer
+2G56	Monomer	2JG4	Monomer	1HO0	Monomer
+2G77	Hetero 2-mer - AB	1FKM	Monomer	1Z06	Monomer
+2G9X	Hetero 2-mer - AB	4FKL	Monomer	1VIN	Monomer
+2GA9	Hetero 2-mer - AB	3MCT	Homo 2-mer - A2	3OWG	Monomer
+2GAF	Hetero 2-mer - AB	3MCT	Homo 2-mer - A2	3OWG	Monomer
+1W1I	Hetero 4-mer - A2B2	3EIO	Homo 2-mer - A2	1VFL	Monomer
+1WDW	Hetero 4-mer - A2B2	1GEQ	Monomer	1V8Z	Homo 2-mer - A2
+1WPL	Hetero 20-mer - A10B10	1FB1	Homo 10-mer - A10	1JG5	Homo 5-mer - A5
+1WQ1	Hetero 2-mer - AB	1CTQ	Monomer	1WER	Monomer
+1WRD	Hetero 2-mer - AB	2N9D	Monomer	5NVG	Monomer
+1WTH	Hetero 6-mer - A3B3	1PDL	Homo 3-mer - A3	1PDJ	Homo 3-mer - A3
+1WWW	Hetero 4-mer - A2B2	4EAX	Homo 2-mer - A2	4CRP	Monomer
+1X75	Hetero 4-mer - A2B2	1AB4	Homo 2-mer - A2	3VUB	Homo 2-mer - A2
+1X86	Hetero 2-mer - AB	1TXD	Monomer	5C4M	Monomer
+1XD3	Hetero 2-mer - AB	1UCH	Monomer	5NVG	Monomer
+1XFU	Hetero 2-mer - AB	1K8T	Monomer	1PRW	Monomer
+1XFV	Hetero 2-mer - AB	1K8T	Monomer	1PRW	Monomer
+1XFW	Hetero 2-mer - AB	1K8T	Monomer	1PRW	Monomer
+1XFX	Hetero 2-mer - AB	1K8T	Monomer	1PRW	Monomer
+1XFY	Hetero 2-mer - AB	1K8T	Monomer	1PRW	Monomer
+1XFZ	Hetero 2-mer - AB	1K8T	Monomer	1PRW	Monomer
+1XLT	Hetero 3-mer - A2B	1L7D	Homo 2-mer - A2	1PNO	Monomer
+1XO2	Hetero 2-mer - AB	1BU2	Monomer	5L2S	Monomer
+1XT9	Hetero 2-mer - AB	2BKQ	Homo 2-mer - A2	1NDD	Monomer
+1XU1	Hetero 6-mer - A3B3	1U5X	Homo 3-mer - A3	1XUT	Monomer
+1XU2	Hetero 6-mer - A3B3	1U5X	Homo 3-mer - A3	2KN1	Monomer
+1XX9	Hetero 4-mer - A2B2	5EXN	Monomer	1ECY	Homo 2-mer - A2
+1XXD	Hetero 4-mer - A2B2	4CRG	Homo 3-mer - A3	1ECY	Homo 2-mer - A2
+1XXF	Hetero 4-mer - A2B2	4CRG	Homo 3-mer - A3	1ECY	Homo 2-mer - A2
+1Y0V	Hetero 2-mer - AB	1K8T	Monomer	1AHR	Monomer
+1Y1K	Hetero 2-mer - AB	1SUP	Monomer	1YPC	Monomer
+1Y33	Hetero 2-mer - AB	1SUP	Monomer	1YPC	Monomer
+1Y34	Hetero 2-mer - AB	1SUP	Monomer	1YPC	Monomer
+1Y3B	Hetero 2-mer - AB	1SUP	Monomer	1YPC	Monomer
+1Y3C	Hetero 2-mer - AB	1SUP	Monomer	1YPC	Monomer
+1Y3D	Hetero 2-mer - AB	1SUP	Monomer	1YPC	Monomer
+1Y3F	Hetero 2-mer - AB	1SUP	Monomer	1YPC	Monomer
+1Y48	Hetero 2-mer - AB	1SUP	Monomer	1YPC	Monomer
+1Y4A	Hetero 2-mer - AB	1SUP	Monomer	1YPC	Monomer
+1Y4D	Hetero 2-mer - AB	1SUP	Monomer	1YPC	Monomer
+1Y4H	Hetero 2-mer - AB	1X9Y	Monomer	1QWX	Monomer
+1Y64	Hetero 2-mer - AB	2FXU	Monomer	1UX5	Homo 2-mer - A2
+1YAG	Hetero 2-mer - AB	3EKS	Monomer	5DD2	Monomer
+1YI5	Hetero 10-mer - A5B5	3ZDH	Homo 5-mer - A5	4AEA	Homo 2-mer - A2
+1YKT	Hetero 2-mer - AB	1DPO	Monomer	1UUA	Monomer
+1YLC	Hetero 2-mer - AB	1DPO	Monomer	1UUA	Monomer
+1YLD	Hetero 2-mer - AB	1DPO	Monomer	1UUA	Monomer
+1YU6	Hetero 2-mer - AB	3UNX	Monomer	1TUS	Monomer
+1YVN	Hetero 2-mer - AB	3EKS	Monomer	5DD2	Monomer
+1YYF	Hetero 24-mer - A12B12	1DO0	Homo 6-mer - A6	2Z3B	Homo 12-mer - A12
+1Z0K	Hetero 2-mer - AB	1YU9	Monomer	1YZM	Monomer
+1Z2C	Hetero 4-mer - A2B2	5C4M	Monomer	2BNX	Homo 2-mer - A2
+1Z5Y	Hetero 2-mer - AB	3PFU	Monomer	2B1K	Monomer
+1ZBX	Hetero 2-mer - AB	1M4Z	Homo 2-mer - A2	1Z1A	Monomer
+1ZHH	Hetero 2-mer - AB	4YR7	Monomer	2HJE	Monomer
+1ZHI	Hetero 2-mer - AB	1M4Z	Homo 2-mer - A2	1Z1A	Monomer
+1ZJD	Hetero 2-mer - AB	1ZLR	Monomer	1AAP	Homo 2-mer - A2
+1ZLH	Hetero 2-mer - AB	3I1U	Monomer	2K2X	Monomer
+1ZLI	Hetero 2-mer - AB	2JEW	Monomer	2K2X	Monomer
+1ZM2	Hetero 2-mer - AB	1N0U	Monomer	1AER	Homo 4-mer - A4
+1ZM3	Hetero 2-mer - AB	1N0U	Monomer	1AER	Homo 4-mer - A4
+1ZM4	Hetero 2-mer - AB	1N0U	Monomer	1AER	Homo 4-mer - A4
+1ZM9	Hetero 2-mer - AB	1N0U	Monomer	1AER	Homo 4-mer - A4
+1ZY8	Hetero 3-mer - A2B	1ZMD	Homo 2-mer - A2	2DNC	Monomer
+2A19	Hetero 3-mer - A2B	1Q46	Monomer	3UIU	Monomer
+2A1A	Hetero 4-mer - A2B2	1Q46	Monomer	3UIU	Monomer
+2A42	Hetero 2-mer - AB	2FXU	Monomer	3DNI	Homo 2-mer - A2
+2A5T	AB	1PB7	Monomer	2A5S	Monomer
+2A5Y	Hetero 3-mer - A2B	1OHU	Monomer	3LQQ	Homo 8-mer - A8
+2A78	Hetero 2-mer - AB	2KE5	Monomer	2C8A	Monomer
+2A9K	Hetero 2-mer - AB	2KE5	Monomer	2C8A	Monomer
+2ABZ	Hetero 6-mer - A4B2	3I1U	Monomer	1ZFL	Monomer
+2AQ1	Hetero 2-mer - AB	2APW	Monomer	3BVM	Monomer
+2AQ2	Hetero 2-mer - AB	2APF	Monomer	3BVM	Monomer
+2AQ3	Hetero 8-mer - A4B4	2APF	Monomer	3BVM	Monomer
+2ARP	Hetero 4-mer - A2B2	2ARV	Homo 2-mer - A2	1LR9	Monomer
+2AYO	Hetero 2-mer - AB	2AYN	Homo 3-mer - A3	5NVG	Monomer
+2B0Z	Hetero 2-mer - AB	1Z53	Monomer	1YCC	Homo 2-mer - A2
+2B10	Hetero 2-mer - AB	1Z53	Monomer	1YCC	Homo 2-mer - A2
+2B11	Hetero 2-mer - AB	1Z53	Monomer	1YCC	Homo 2-mer - A2
+2B12	Hetero 2-mer - AB	1Z53	Monomer	1YCC	Homo 2-mer - A2
+2B42	Hetero 2-mer - AB	1T6E	Monomer	1XNB	Monomer
+2B4S	Hetero 4-mer - A2B2	2F71	Monomer	4IBM	Monomer
+2PTT	Hetero 2-mer - AB	2PTV	Monomer	2PTU	Monomer
+2QB0	Hetero 2-mer - AB	2QB1	Monomer	4IAP	Monomer
+2QCS	Hetero 2-mer - AB	1RE8	Monomer	1RL3	Monomer
+2QJ9	Hetero 4-mer - A2B2	4MID	Homo 2-mer - A2	2K3G	Monomer
+2QJA	Hetero 4-mer - A2B2	4MID	Homo 2-mer - A2	2K3G	Monomer
+2QJB	Hetero 4-mer - A2B2	4MID	Homo 2-mer - A2	2K3G	Monomer
+2QWN	Hetero 2-mer - AB	2QWL	Monomer	1NZ6	Monomer
+2QWO	Hetero 2-mer - AB	2QWL	Monomer	1NZ6	Monomer
+2QWP	Hetero 2-mer - AB	2QWL	Monomer	1NZ6	Monomer
+2QWQ	Hetero 2-mer - AB	2QWL	Monomer	1NZ6	Monomer
+2QWR	Hetero 2-mer - AB	2QWL	Monomer	1NZ6	Monomer
+2QYI	Hetero 4-mer - A2B2	4I8H	Monomer	4WBC	Monomer
+2R6A	Hetero 9-mer - A6B3	2R6D	Homo 6-mer - A6	1Z8S	Monomer
+2R6C	Hetero 18-mer - A12B6	2R6D	Homo 6-mer - A6	1Z8S	Monomer
+2R9P	Hetero 4-mer - A2B2	5TP0	Monomer	1BPI	Monomer
+2RA3	Hetero 4-mer - A2B2	1TRN	Homo 2-mer - A2	1BPI	Monomer
+2RD0	Hetero 2-mer - AB	4C0T	Monomer	4YKN	Monomer
+2RD7	Hetero 2-mer - AB	2QQH	Monomer	1LF7	Monomer
+2REX	Hetero 2-mer - AB	2JPH	Monomer	2CLS	Monomer
+2RHK	Hetero 4-mer - A2B2	2KKZ	Monomer	2D9N	Monomer
+2RII	Hetero 4-mer - A2B2	1QQ2	Homo 2-mer - A2	1XW3	Monomer
+2SEC	Hetero 2-mer - AB	3UNX	Monomer	1EGL	Monomer
+2SGD	Hetero 2-mer - AB	2QAA	Monomer	2GKR	Monomer
+2SGE	Hetero 2-mer - AB	2QAA	Monomer	2GKR	Monomer
+2SGF	Hetero 2-mer - AB	2QAA	Monomer	2GKR	Monomer
+2SGP	Hetero 2-mer - AB	2QAA	Monomer	2GKR	Monomer
+2SGQ	Hetero 2-mer - AB	2QAA	Monomer	2GKR	Monomer
+2SIC	Hetero 4-mer - A2B2	1SUP	Monomer	3SSI	Homo 2-mer - A2
+2SNI	Hetero 2-mer - AB	1SUP	Monomer	2CI2	Homo 6-mer - A6
+2TEC	Hetero 2-mer - AB	1THM	Monomer	1EGL	Monomer
+2TGP	Hetero 2-mer - AB	1BTY	Monomer	1BPI	Monomer
+2TLD	Hetero 2-mer - AB	4I8H	Monomer	3SSI	Homo 2-mer - A2
+2TPI	Hetero 2-mer - AB	1BTY	Monomer	1BPI	Monomer
+2UUG	Hetero 2-mer - AB	4EUG	Monomer	1UGI	Monomer
+2UUY	Hetero 2-mer - AB	4I8H	Monomer	2UUX	Monomer
+2UXX	Hetero 2-mer - AB	2HKO	Monomer	4UMI	Homo 3-mer - A3
+2UY6	Hetero 3-mer - A2B	3DPA	Monomer	5FLU	Homo 13-mer - A13
+2UY7	Hetero 2-mer - AB	3DPA	Monomer	5FLU	Homo 13-mer - A13
+2UYZ	Hetero 2-mer - AB	5F6E	Monomer	5GHD	Monomer
+2UZB	Hetero 2-mer - AB	1JVP	Monomer	1VIN	Monomer
+2UZD	Hetero 2-mer - AB	1JVP	Monomer	1VIN	Monomer
+2UZE	Hetero 2-mer - AB	1JVP	Monomer	1VIN	Monomer
+2UZL	Hetero 2-mer - AB	1JVP	Monomer	1VIN	Monomer
+2UZX	Hetero 2-mer - AB	2WQU	Monomer	1SSL	Monomer
+2UZY	Hetero 2-mer - AB	2WQU	Monomer	1SSL	Monomer
+2V1C	Hetero 6-mer - A4B2	1VDD	Homo 4-mer - A4	1U5K	Homo 2-mer - A2
+2V22	Hetero 4-mer - A2B2	1JVP	Monomer	1VIN	Monomer
+2V4H	Hetero 8-mer - A4B4	3FX0	Homo 2-mer - A2	2JAB	Monomer
+2V4Z	Hetero 2-mer - AB	1CIP	Monomer	2AF0	Monomer
+2V55	Hetero 2-mer - AB	3V8S	Homo 2-mer - A2	1GWN	Monomer
+2V5P	Hetero 2-mer - AB	2V5O	Monomer	5L3L	Monomer
+2V5Q	Hetero 2-mer - AB	2YAC	Homo 2-mer - A2	2BKG	Monomer
+2V8S	Hetero 2-mer - AB	2QY7	Monomer	2QYW	Monomer
+2V9T	Hetero 2-mer - AB	2V9R	Monomer	2V9S	Monomer
+2VAS	Hetero 2-mer - AB	4PFO	Monomer	1OOJ	Monomer
+2VB6	Hetero 2-mer - AB	4PFO	Monomer	1OOJ	Monomer
+2VCP	Monomer	2FXU	Monomer	1T84	Monomer
+2VDB	Hetero 2-mer - AB	1BKE	Monomer	1PRB	Monomer
+2VLN	Hetero 2-mer - AB	1IMQ	Monomer	1FSJ	Monomer
+2VLO	Hetero 2-mer - AB	1IMQ	Monomer	1FSJ	Monomer
+2VLP	Hetero 2-mer - AB	1IMQ	Monomer	1FSJ	Monomer
+2VLQ	Hetero 2-mer - AB	1IMQ	Monomer	1FSJ	Monomer
+2VRR	Hetero 2-mer - AB	5F6E	Monomer	5GHD	Monomer
+2VRW	Hetero 2-mer - AB	2W2V	Monomer	1F5X	Monomer
+2VSK	Hetero 2-mer - AB	2X9M	Homo 2-mer - A2	2I85	Monomer
+2VSM	Hetero 2-mer - AB	2VWD	Monomer	2I85	Monomer
+2VU8	Hetero 2-mer - AB	1PQ7	Monomer	1WO9	Monomer
+2W19	Hetero 8-mer - A4B4	5CKV	Homo 4-mer - A4	2VKL	Homo 2-mer - A2
+2W1A	Hetero 8-mer - A4B4	5CKV	Homo 4-mer - A4	2VKL	Homo 2-mer - A2
+2W80	Hetero 2-mer - AB	3GAW	Monomer	2KC0	Monomer
+2W81	Hetero 2-mer - AB	3GAW	Monomer	2KC0	Monomer
+2W9L	Hetero 24-mer - A12B12	3J6M	Homo 60-mer - A60	2J2J	Homo 3-mer - A3
+2WAX	Hetero 2-mer - AB	4CT5	Monomer	3D3J	Homo 2-mer - A2
+2WAY	Hetero 2-mer - AB	4CT5	Monomer	3D3J	Homo 2-mer - A2
+2WBL	Hetero 4-mer - A2B2	2NTX	Homo 2-mer - A2	3BWD	Monomer
+2WBW	Hetero 2-mer - AB	4XQA	Homo 3-mer - A3	1EAJ	Homo 2-mer - A2
+2WDT	Hetero 2-mer - AB	2WE6	Monomer	5NVG	Monomer
+2WEL	Hetero 2-mer - AB	2V7O	Monomer	1PRW	Monomer
+2WFX	Hetero 2-mer - AB	3N1R	Monomer	2WFT	Monomer
+2WG3	Hetero 2-mer - AB	2WFQ	Monomer	2WFT	Monomer
+2WG4	Hetero 2-mer - AB	3N1R	Monomer	2WFT	Monomer
+2WIH	Hetero 2-mer - AB	3EZR	Monomer	1VIN	Monomer
+2WIP	Hetero 2-mer - AB	3EZR	Monomer	1VIN	Monomer
+2WJZ	Hetero 2-mer - AB	1THF	Homo 2-mer - A2	1K9V	Monomer
+2WK3	Monomer	4GSF	Monomer	5KK3	A18
+2WO2	Hetero 2-mer - AB	2WO1	Monomer	2I85	Monomer
+2WPA	Hetero 2-mer - AB	3EZR	Monomer	1VIN	Monomer
+2WPT	Hetero 2-mer - AB	2NO8	Monomer	1FSJ	Monomer
+2WQA	Hetero 6-mer - A4B2	4D7B	Homo 4-mer - A4	2WR6	Monomer
+2WQZ	Hetero 2-mer - AB	3BE8	Homo 2-mer - A2	3BOD	Monomer
+2WWX	Hetero 2-mer - AB	3NKV	Monomer	3JZ9	Monomer
+2WXV	Hetero 2-mer - AB	3EZR	Monomer	1VIN	Monomer
+2WY7	Hetero 2-mer - AB	1C3D	Monomer	2JVH	Monomer
+2WY8	Hetero 2-mer - AB	1C3D	Monomer	2JVH	Monomer
+2X0B	Hetero 2-mer - AB	4AMT	Homo 2-mer - A2	2WXW	Monomer
+2X0G	Hetero 2-mer - AB	2XUU	Monomer	3IF7	Monomer
+2X2D	Hetero 2-mer - AB	5F66	Monomer	4NX4	Monomer
+2X51	Hetero 2-mer - AB	4PFO	Monomer	1OOJ	Monomer
+2X83	Hetero 2-mer - AB	4NX4	Monomer	5T9Z	Monomer
+2X8B	Hetero 2-mer - AB	1Q84	Homo 2-mer - A2	1FSC	Homo 2-mer - A2
+2X9A	Hetero 2-mer - AB	2X9B	Monomer	3QDP	Monomer
+2XAC	Hetero 4-mer - A2B2	2C7W	Homo 2-mer - A2	5ABD	Monomer
+2XB6	Hetero 2-mer - AB	3BE8	Homo 2-mer - A2	3BOD	Monomer
+2XBB	Hetero 2-mer - AB	2XBF	Monomer	5NVG	Monomer
+2GWF	Hetero 2-mer - AB	1WHB	Monomer	2OGB	Monomer
+2GY7	Hetero 2-mer - AB	1Z3S	Monomer	2GY5	Monomer
+2GYK	Hetero 2-mer - AB	1IMQ	Monomer	1FSJ	Monomer
+2GZD	Hetero 4-mer - A2B2	5EZ5	Homo 2-mer - A2	2K6S	Homo 2-mer - A2
+2GZE	Hetero 2-mer - AB	1IMQ	Monomer	1FSJ	Monomer
+2GZF	Hetero 2-mer - AB	1IMQ	Monomer	1FSJ	Monomer
+2GZG	Hetero 2-mer - AB	1IMQ	Monomer	1FSJ	Monomer
+2GZH	Hetero 4-mer - A2B2	5EZ5	Homo 2-mer - A2	2K6S	Homo 2-mer - A2
+2GZI	Hetero 2-mer - AB	1IMQ	Monomer	1FSJ	Monomer
+2GZJ	Hetero 2-mer - AB	1IMQ	Monomer	1FSJ	Monomer
+2H1L	Hetero 12-mer - A6B6	1N25	Homo 6-mer - A6	2FEJ	Monomer
+2H7V	Hetero 2-mer - AB	2P2L	Homo 3-mer - A3	2H7O	Monomer
+2HDI	Hetero 2-mer - AB	2HDF	Monomer	1CII	Monomer
+2HJ9	Hetero 4-mer - A2B2	1JX6	Monomer	2HJE	Monomer
+2HKQ	Hetero 4-mer - A2B2	1WU9	Homo 2-mer - A2	2HKN	Homo 2-mer - A2
+2HL5	Hetero 4-mer - A2B2	1WU9	Homo 2-mer - A2	2HKN	Homo 2-mer - A2
+2HQS	Hetero 2-mer - AB	4PWZ	Monomer	1OAP	Monomer
+2HRK	Hetero 2-mer - AB	2HRA	Monomer	2HQT	Monomer
+2HSM	Hetero 2-mer - AB	2HRA	Monomer	2HQT	Monomer
+2I25	Hetero 2-mer - AB	2I24	Monomer	4LZT	Monomer
+2I26	Hetero 2-mer - AB	2I27	Monomer	4LZT	Monomer
+2I2R	Hetero 8-mer - A4B4	1S1G	Homo 4-mer - A4	1S1E	Monomer
+2I40	Hetero 2-mer - AB	1JVP	Monomer	1VIN	Monomer
+2I9B	Hetero 2-mer - AB	2I9A	Monomer	3U74	Monomer
+2IDO	Hetero 2-mer - AB	1J54	Monomer	1SE7	Monomer
+2IFG	Hetero 4-mer - A2B2	1HE7	Homo 2-mer - A2	4EAX	Homo 2-mer - A2
+2IHB	Hetero 2-mer - AB	5JS8	Monomer	2DLR	Monomer
+2IK8	Hetero 2-mer - AB	5JS8	Monomer	3C7L	Monomer
+2IO0	Hetero 2-mer - AB	1TH0	Monomer	2AWT	Monomer
+2IOU	Hetero 8-mer - A6B2	1YU0	Homo 3-mer - A3	1DAB	Monomer
+2IW5	Hetero 2-mer - AB	2HKO	Monomer	4UMI	Homo 3-mer - A3
+2IW6	Hetero 2-mer - AB	3EZR	Monomer	1VIN	Monomer
+2IW8	Hetero 2-mer - AB	3EZR	Monomer	1VIN	Monomer
+2IW9	Hetero 2-mer - AB	3EZR	Monomer	1VIN	Monomer
+2IY1	Hetero 2-mer - AB	2IYC	Homo 2-mer - A2	2MW5	Monomer
+2IYD	Hetero 2-mer - AB	2IYC	Homo 2-mer - A2	1WM2	Homo 3-mer - A3
+2J0T	Hetero 2-mer - AB	1HFC	Monomer	1D2B	Monomer
+2J12	Hetero 6-mer - A3B3	4XQA	Homo 3-mer - A3	1EAJ	Homo 2-mer - A2
+2J1K	Hetero 6-mer - A3B3	1EAJ	Homo 2-mer - A2	2J2J	Homo 3-mer - A3
+2J4U	Hetero 4-mer - A3B	2J1N	Homo 3-mer - A3	1I6Q	Monomer
+2J59	Hetero 2-mer - AB	1O3Y	Monomer	2DHJ	Monomer
+2J7P	Hetero 2-mer - AB	1NG1	Monomer	2IYL	Monomer
+2JAZ	Hetero 8-mer - A4B4	1UNK	Homo 4-mer - A4	1M08	Homo 2-mer - A2
+2JB0	Hetero 8-mer - A4B4	1UNK	Homo 4-mer - A4	1M08	Homo 2-mer - A2
+2JBG	Hetero 8-mer - A4B4	1UNK	Homo 4-mer - A4	1M08	Homo 2-mer - A2
+2JGZ	Hetero 2-mer - AB	1JVP	Monomer	2B9R	Monomer
+2JJS	Hetero 2-mer - AB	2UV3	Homo 2-mer - A2	2VSC	Homo 2-mer - A2
+2JJT	Hetero 2-mer - AB	2UV3	Homo 2-mer - A2	2VSC	Homo 2-mer - A2
+2NGR	Hetero 2-mer - AB	1A4R	Homo 2-mer - A2	1RGP	Monomer
+2NPT	Hetero 2-mer - AB	1WI0	Monomer	2CU1	Monomer
+2NQD	Hetero 2-mer - AB	2NNR	Monomer	3OF9	Monomer
+2NS1	Hetero 6-mer - A3B3	1XQF	Homo 3-mer - A3	1GNK	Homo 3-mer - A3
+2NTY	Hetero 4-mer - A2B2	2NTX	Homo 2-mer - A2	3BWD	Monomer
+2NU0	Hetero 2-mer - AB	2QAA	Monomer	2GKR	Monomer
+2NU1	Hetero 2-mer - AB	2QAA	Monomer	2GKR	Monomer
+2NU2	Hetero 2-mer - AB	2QAA	Monomer	2GKR	Monomer
+2NU3	Hetero 2-mer - AB	2QAA	Monomer	2GKR	Monomer
+2NU4	Hetero 2-mer - AB	2QAA	Monomer	2GKR	Monomer
+2NUU	Hetero 6-mer - A3B3	1XQF	Homo 3-mer - A3	1GNK	Homo 3-mer - A3
+2NV2	Hetero 24-mer - A12B12	4WXZ	Homo 12-mer - A12	2NV0	Monomer
+2NXN	Hetero 2-mer - AB	2NXC	Monomer	2KLM	Monomer
+2NYZ	Hetero 4-mer - A2B2	1MKF	Homo 2-mer - A2	2JP1	Homo 2-mer - A2
+2NZ0	Hetero 8-mer - A4B4	1S1E	Monomer	1S1G	Homo 4-mer - A4
+2NZ1	Hetero 4-mer - A2B2	1MKF	Homo 2-mer - A2	3IFD	Homo 2-mer - A2
+2NZ8	Hetero 2-mer - AB	2G0N	Monomer	1NTY	Monomer
+2O25	Hetero 2-mer - AB	1YLA	Homo 2-mer - A2	1A3S	Monomer
+2O2V	Hetero 2-mer - AB	1WI0	Monomer	2PPH	Monomer
+2O39	Hetero 6-mer - A3B3	3F0Y	Homo 3-mer - A3	1CKL	Monomer
+2O3B	Hetero 2-mer - AB	1ZM8	Monomer	1KTU	Monomer
+2O8V	Hetero 4-mer - A2B2	1SUR	Homo 2-mer - A2	3DYR	Monomer
+2OCF	Hetero 4-mer - A2B2	3ERT	Homo 2-mer - A2	1FNF	Monomer
+2OCY	Hetero 3-mer - A2B	2E7S	Homo 2-mer - A2	4Z8Y	Monomer
+2ODE	Hetero 2-mer - AB	1CIP	Monomer	2IHD	Monomer
+2ONL	Hetero 2-mer - AB	3ZYA	Monomer	1NXK	Monomer
+2OO5	Hetero 3-mer - A2B	1L7D	Homo 2-mer - A2	1PNO	Monomer
+2OOB	Hetero 2-mer - AB	2OOA	Monomer	5NVG	Monomer
+2OOR	Hetero 3-mer - A2B	1L7D	Homo 2-mer - A2	1PNO	Monomer
+2OT3	Hetero 2-mer - AB	1TXU	Monomer	1Z0I	Monomer
+2OUL	Hetero 2-mer - AB	3BPF	Monomer	2NNR	Monomer
+2OV2	Hetero 2-mer - AB	2G0N	Monomer	4FIE	Monomer
+2OXQ	Hetero 4-mer - A2B2	3TGD	Monomer	2F42	Homo 2-mer - A2
+2OZA	Hetero 2-mer - AB	3GOK	Homo 12-mer - A12	3P7B	Monomer
+2OZN	Hetero 2-mer - AB	2O4E	Monomer	2JNK	Monomer
+2P42	Hetero 2-mer - AB	2E3W	Monomer	4PPT	Monomer
+2P43	Hetero 2-mer - AB	2E3W	Monomer	4PPT	Monomer
+2P44	Hetero 2-mer - AB	2E3W	Monomer	4PPT	Monomer
+2P45	Hetero 2-mer - AB	2E3W	Monomer	4PPT	Monomer
+2P46	Hetero 2-mer - AB	2E3W	Monomer	4PPT	Monomer
+2P47	Hetero 2-mer - AB	2E3W	Monomer	4PPT	Monomer
+2P48	Hetero 2-mer - AB	2E3W	Monomer	4PPT	Monomer
+2P49	Hetero 2-mer - AB	2E3W	Monomer	4PPT	Monomer
+2P4A	Hetero 2-mer - AB	2E3W	Monomer	4PPT	Monomer
+2PCB	Hetero 2-mer - AB	1CCP	Monomer	3WUI	Homo 2-mer - A2
+2PCC	Hetero 2-mer - AB	1CCP	Monomer	1YCC	Homo 2-mer - A2
+2PE6	Hetero 2-mer - AB	1A3S	Monomer	2MW5	Monomer
+2POP	Hetero 4-mer - A2B2	2POM	Monomer	2POI	Homo 2-mer - A2
+2PTC	Hetero 2-mer - AB	4I8H	Monomer	1BPI	Monomer
+3C4O	Hetero 2-mer - AB	2ZD8	Monomer	3GMU	Monomer
+3C4P	Hetero 2-mer - AB	2ZD8	Monomer	3GMU	Monomer
+3C7N	Hetero 2-mer - AB	2QXL	Homo 2-mer - A2	4FL9	Monomer
+3C9A	Hetero 2-mer - AB	3CGU	Homo 2-mer - A2	3CA7	Monomer
+3CBJ	Hetero 2-mer - AB	1GMY	Monomer	2NNR	Monomer
+3CBK	Hetero 2-mer - AB	1GMY	Monomer	2NNR	Monomer
+3CH5	Hetero 8-mer - A4B4	5CIQ	Monomer	2K0C	Monomer
+3CI5	Hetero 2-mer - AB	3EKS	Monomer	5DD2	Monomer
+3CIP	Hetero 2-mer - AB	3EKS	Monomer	5DD2	Monomer
+3CJB	Hetero 2-mer - AB	2VYP	Monomer	5DD2	Monomer
+3CJK	Monomer	3IWL	Monomer	1KVJ	Monomer
+3CJQ	Hetero 2-mer - AB	2NXC	Monomer	2KLM	Monomer
+3CJR	Hetero 2-mer - AB	2NXC	Monomer	2KLM	Monomer
+3CJS	Hetero 2-mer - AB	2ZBR	Monomer	2KLM	Monomer
+3CJT	Hetero 2-mer - AB	2NXC	Monomer	2KLM	Monomer
+3CPH	Hetero 2-mer - AB	3CPI	Monomer	1G17	Homo 2-mer - A2
+3CPJ	Hetero 2-mer - AB	3CPI	Monomer	3RWO	Monomer
+3CQX	Hetero 4-mer - A2B2	1HPM	Monomer	3D0T	Homo 2-mer - A2
+3CRK	Hetero 4-mer - A2B2	1JM6	Homo 2-mer - A2	1FYC	Monomer
+3CRL	Hetero 4-mer - A2B2	1JM6	Homo 2-mer - A2	1FYC	Monomer
+3CSL	Hetero 2-mer - AB	2M5J	Monomer	1DK0	Monomer
+3CSN	Hetero 2-mer - AB	2M5J	Monomer	1DK0	Monomer
+3CU1	Hetero 4-mer - A2B2	3CAF	Homo 2-mer - A2	1DZC	Monomer
+3CX6	Hetero 2-mer - AB	1ZCB	Monomer	1HTJ	Monomer
+3CX7	Hetero 2-mer - AB	1ZCB	Monomer	1HTJ	Monomer
+3CX8	Hetero 2-mer - AB	1ZCB	Monomer	1HTJ	Monomer
+3CZU	Hetero 2-mer - AB	3C8X	Homo 2-mer - A2	4M4X	Homo 2-mer - A2
+3D1M	Hetero 2-mer - AB	3N1O	Monomer	1X4Y	Monomer
+3D2E	Hetero 2-mer - AB	2QXL	Homo 2-mer - A2	1S3X	Monomer
+3D2F	Hetero 2-mer - AB	2QXL	Homo 2-mer - A2	1S3X	Monomer
+3D48	Hetero 2-mer - AB	2Q98	Monomer	2LFG	Monomer
+3D4U	Hetero 2-mer - AB	3DGV	Homo 2-mer - A2	2K2X	Monomer
+3D5O	Hetero 6-mer - A5B	4AVS	Homo 5-mer - A5	1FCG	Homo 2-mer - A2
+3D5R	Hetero 2-mer - AB	1C3D	Monomer	2GOM	Homo 2-mer - A2
+3D5S	Hetero 2-mer - AB	1C3D	Monomer	2GOM	Homo 2-mer - A2
+3D65	Hetero 2-mer - AB	3BYB	Homo 3-mer - A3	4I8H	Monomer
+3D7T	Hetero 2-mer - AB	1BYG	Monomer	2OIQ	Monomer
+3D7U	Hetero 2-mer - AB	1BYG	Monomer	4LGH	Monomer
+3DA7	Hetero 2-mer - AB	1A2P	Monomer	1A19	Homo 2-mer - A2
+3DAW	Hetero 2-mer - AB	2VYP	Monomer	2D8B	Monomer
+3DDP	Hetero 2-mer - AB	4FKL	Monomer	1VIN	Monomer
+3DDQ	Hetero 2-mer - AB	4FKL	Monomer	1VIN	Monomer
+3DDR	Hetero 2-mer - AB	2M5J	Monomer	1DK0	Monomer
+3DGE	Hetero 4-mer - A2B2	2C2A	Homo 2-mer - A2	3GL9	Monomer
+3DOG	Hetero 2-mer - AB	4FKL	Monomer	1VIN	Monomer
+3DWG	Hetero 3-mer - A2B	5I6D	Homo 2-mer - A2	3DWM	Monomer
+3DXC	Hetero 2-mer - AB	5NQH	Homo 2-mer - A2	2LP1	Monomer
+3DXD	Hetero 2-mer - AB	5NQH	Homo 2-mer - A2	2LP1	Monomer
+3DXE	Hetero 2-mer - AB	5NQH	Homo 2-mer - A2	2LP1	Monomer
+3E1Z	Hetero 2-mer - AB	2NNR	Monomer	1PPN	Monomer
+3E4Z	Monomer	4GSF	Monomer	5L3L	Monomer
+3E50	Monomer	2JG4	Monomer	4TGF	Monomer
+3E95	Hetero 3-mer - A2B	2R0J	Monomer	2Q0V	Monomer
+3EA5	Hetero 2-mer - AB	5CIQ	Monomer	3ND2	Monomer
+3EB6	Hetero 4-mer - A2B2	3EB5	Homo 2-mer - A2	2ESK	Monomer
+3EG5	Hetero 4-mer - A2B2	2KB0	Monomer	2BNX	Homo 2-mer - A2
+3EGG	Hetero 2-mer - AB	1JK7	Monomer	2G5M	Monomer
+3EGV	Hetero 2-mer - AB	2NXC	Monomer	2KLM	Monomer
+3EID	Hetero 2-mer - AB	1JVP	Monomer	1VIN	Monomer
+3EIQ	Hetero 3-mer - A2B	2G9N	Monomer	3EIJ	Monomer
+3EJ1	Hetero 2-mer - AB	1JVP	Monomer	1VIN	Monomer
+3ENH	Hetero 2-mer - AB	3EN9	Monomer	2K8Y	Monomer
+3EOC	Hetero 2-mer - AB	1JVP	Monomer	1VIN	Monomer
+3EOY	Hetero 6-mer - A3B3	2OJ5	Homo 3-mer - A3	1NBQ	Homo 2-mer - A2
+3ETB	Hetero 2-mer - AB	3ESV	Monomer	3INO	Homo 2-mer - A2
+3EZQ	Hetero 4-mer - A2B2	1DDF	Monomer	1E41	Monomer
+3F1N	Hetero 2-mer - AB	1P97	Monomer	2HV1	Homo 2-mer - A2
+3F1O	Hetero 2-mer - AB	1P97	Monomer	2HV1	Homo 2-mer - A2
+3F1P	AB	1P97	Monomer	2HV1	Homo 2-mer - A2
+3F5X	Hetero 8-mer - A4B4	1JVP	Monomer	1VIN	Monomer
+3F7P	Hetero 2-mer - AB	1SH6	Monomer	3F7R	Monomer
+3F9K	Hetero 3-mer - A2B	1E0E	Homo 2-mer - A2	2MTN	Monomer
+3FAP	Hetero 2-mer - AB	2PPN	Monomer	1AUE	Monomer
+3FF8	Hetero 4-mer - A2B2	2O72	Homo 2-mer - A2	3FF9	Homo 2-mer - A2
+3FFK	Hetero 2-mer - AB	3FFN	Monomer	2VYP	Monomer
+3FHC	Hetero 2-mer - AB	2OIT	Monomer	3EWS	Monomer
+3FHI	Hetero 2-mer - AB	1RE8	Monomer	3PNA	Monomer
+3FM8	Hetero 2-mer - AB	5TPX	Monomer	3LJU	Monomer
+3FMO	Hetero 2-mer - AB	2OIT	Monomer	3EWS	Monomer
+3FMP	Hetero 2-mer - AB	2OIT	Monomer	3EWS	Monomer
+3FN1	Hetero 2-mer - AB	2LQ7	Monomer	2EDI	Monomer
+3FP6	Hetero 2-mer - AB	1ANE	Homo 2-mer - A2	1BPI	Monomer
+3FP8	Hetero 2-mer - AB	1DPO	Monomer	1BPI	Monomer
+3FPU	Hetero 2-mer - AB	3FPR	Monomer	5COR	Homo 5-mer - A5
+3FXI	Hetero 4-mer - A2B2	2Z63	Monomer	2E56	Monomer
+3G3A	Hetero 2-mer - AB	3G39	Monomer	4LZT	Monomer
+3G3B	Hetero 2-mer - AB	3G39	Monomer	4LZT	Monomer
+3G7Z	Hetero 4-mer - A2B2	3VUB	Homo 2-mer - A2	2ADN	Homo 2-mer - A2
+3G9W	Hetero 2-mer - AB	1MIX	Monomer	3T9K	Monomer
+3GB8	Hetero 2-mer - AB	4BSN	Monomer	1XK5	Monomer
+3GC3	Hetero 2-mer - AB	1G4M	Monomer	2XZG	Monomer
+3GEW	Hetero 2-mer - AB	3F65	Monomer	2J6G	Homo 2-mer - A2
+3GFU	Hetero 2-mer - AB	3F65	Monomer	2J6G	Homo 2-mer - A2
+2XGY	Hetero 2-mer - AB	2XGU	Homo 2-mer - A2	2X25	Monomer
+2XQR	Hetero 2-mer - AB	2OXB	Monomer	2CJ4	Monomer
+2XQW	Hetero 3-mer - A2B	1C3D	Monomer	3KXV	Homo 4-mer - A4
+2XSZ	Hetero 6-mer - A3B3	2C9O	Homo 6-mer - A6	3UK6	Homo 6-mer - A6
+2XT1	Hetero 4-mer - A2B2	3LRY	Homo 2-mer - A2	2XXC	Homo 2-mer - A2
+2XTT	Hetero 2-mer - AB	1KJ0	Monomer	4I8H	Monomer
+2XV6	Hetero 2-mer - AB	2ONT	Homo 2-mer - A2	2XXC	Homo 2-mer - A2
+2XZ0	Homo 2-mer - A2	1OQ9	Homo 2-mer - A2	2FVF	Monomer
+2XZ1	Hetero 4-mer - A2B2	1OQ9	Homo 2-mer - A2	2FVF	Monomer
+2Y1R	Monomer	2Y1Q	Monomer	3JTP	Monomer
+2Y7Q	Hetero 3-mer - A2B	1F2Q	Monomer	1O0V	Homo 2-mer - A2
+2YHO	Hetero 2-mer - AB	2YHN	Homo 2-mer - A2	2ESK	Monomer
+2YVJ	Hetero 3-mer - A2B	2GQW	Homo 2-mer - A2	2E4Q	Monomer
+2Z0D	Hetero 2-mer - AB	2CY7	Monomer	1UGM	Monomer
+2Z0E	Hetero 2-mer - AB	2CY7	Monomer	5DCN	Monomer
+2Z35	AB	1AC6	Homo 2-mer - A2	2APB	Monomer
+2Z65	Monomer	2Z62	Monomer	2E56	Monomer
+2Z6B	Hetero 6-mer - A3B3	1PDL	Homo 3-mer - A3	1PDJ	Homo 3-mer - A3
+2Z8V	Hetero 2-mer - AB	4R1B	Monomer	1VES	Monomer
+2Z8W	Hetero 2-mer - AB	4R1B	Monomer	1VES	Monomer
+2ZA4	Hetero 2-mer - AB	1A2P	Monomer	1A19	Homo 2-mer - A2
+2ZAE	Hetero 2-mer - AB	1V76	Monomer	1X0T	Monomer
+2ZHX	Monomer	4WPK	Monomer	1UGI	Monomer
+2ZIT	Hetero 2-mer - AB	1N0U	Monomer	1AER	Homo 4-mer - A4
+2ZP8	Hetero 30-mer - A18B12	1QAW	Homo 11-mer - A11	2BX9	Homo 12-mer - A12
+2ZP9	Hetero 27-mer - A15B12	2ZCZ	Homo 12-mer - A12	2BX9	Homo 12-mer - A12
+2ZU0	Hetero 4-mer - A2B2	1VH4	Homo 2-mer - A2	2D3W	Homo 4-mer - A4
+2ZU6	Hetero 3-mer - A2B	2G9N	Monomer	3EIJ	Monomer
+2ZVN	Hetero 4-mer - A2B2	3AXC	Monomer	3FX0	Homo 2-mer - A2
+2ZVO	Hetero 4-mer - A2B2	3AXC	Monomer	3FX0	Homo 2-mer - A2
+2ZZP	Hetero 2-mer - AB	2CY7	Monomer	5DCN	Monomer
+3A0R	Hetero 4-mer - A2B2	3A0Z	Monomer	3A10	Monomer
+3A1P	Hetero 2-mer - AB	2DYI	Monomer	1QKH	Monomer
+3A2F	Hetero 2-mer - AB	4AHC	Monomer	1IZ5	Monomer
+3A33	Hetero 4-mer - A2B2	1Z2U	Monomer	5NVG	Monomer
+3A4S	Monomer	1A3S	Monomer	3A4R	Monomer
+3A4U	Hetero 2-mer - AB	1GV9	Monomer	2VRG	Monomer
+3A5L	Hetero 2-mer - AB	5DD2	Monomer	3EKS	Monomer
+3A5M	Hetero 2-mer - AB	5DD2	Monomer	3EKS	Monomer
+3A5N	Hetero 2-mer - AB	5DD2	Monomer	3EKS	Monomer
+3A5O	Hetero 2-mer - AB	5DD2	Monomer	3EKS	Monomer
+3A7A	Hetero 2-mer - AB	3A7R	Monomer	3A7L	Monomer
+3A7Q	Hetero 2-mer - AB	2E26	Monomer	5B4Y	Monomer
+3A8I	Hetero 2-mer - AB	1VLO	Monomer	3AB9	Monomer
+3A8J	Hetero 2-mer - AB	1VLO	Monomer	3AB9	Monomer
+3A8K	Hetero 2-mer - AB	1VLO	Monomer	3AB9	Monomer
+3AAD	Hetero 3-mer - A2B	1EQF	Monomer	1TEY	Monomer
+3AB3	Hetero 2-mer - AB	1ZCB	Monomer	1IAP	Monomer
+3AL8	Hetero 4-mer - A2B2	3AFC	Homo 2-mer - A2	3AL9	Homo 2-mer - A2
+3AV0	Hetero 2-mer - AB	3AUZ	Monomer	3AUY	Homo 2-mer - A2
+3AY4	Hetero 3-mer - A2B	4W4N	Homo 2-mer - A2	1E4J	Monomer
+3B08	Hetero 2-mer - AB	2W9N	Monomer	2CRC	Monomer
+3B0A	Hetero 2-mer - AB	2W9N	Monomer	2CRC	Monomer
+3B3Q	Hetero 4-mer - A2B2	3BIX	Homo 2-mer - A2	3MW2	Monomer
+3B4V	Hetero 4-mer - A2B2	2ARV	Homo 2-mer - A2	2KCX	Monomer
+3B78	Hetero 2-mer - AB	1N0U	Monomer	1AER	Homo 4-mer - A4
+3B82	Hetero 2-mer - AB	1N0U	Monomer	1AER	Homo 4-mer - A4
+3B8H	Hetero 2-mer - AB	1N0U	Monomer	1AER	Homo 4-mer - A4
+3BEG	Hetero 2-mer - AB	5MY8	Monomer	2O3D	Monomer
+3BH6	Hetero 2-mer - AB	1FZQ	Monomer	2BX6	Monomer
+3BH7	Hetero 2-mer - AB	1FZQ	Monomer	2BX6	Monomer
+3BHT	Hetero 2-mer - AB	3EZR	Monomer	1VIN	Monomer
+3BHU	Hetero 2-mer - AB	3EZR	Monomer	1VIN	Monomer
+3BHV	Hetero 2-mer - AB	3EZR	Monomer	1VIN	Monomer
+3BIK	Hetero 2-mer - AB	4Z18	Homo 2-mer - A2	1NPU	Monomer
+3BIW	Hetero 4-mer - A2B2	3BIX	Homo 2-mer - A2	2R1D	Monomer
+3BJI	Hetero 2-mer - AB	3KY9	Monomer	2G0N	Monomer
+3BK3	Hetero 4-mer - A2B2	3BMP	Homo 2-mer - A2	2MBK	Monomer
+3BN3	Hetero 2-mer - AB	1MQ9	Monomer	4OIB	Monomer
+3BP5	Hetero 2-mer - AB	1NPU	Monomer	3BOV	Monomer
+3BP6	Hetero 2-mer - AB	1NPU	Monomer	3BOV	Monomer
+3BRW	Monomer	1SRQ	Homo 2-mer - A2	3X1X	Monomer
+3BS5	Hetero 2-mer - AB	3BS7	Monomer	2EAN	Monomer
+3BTD	Hetero 2-mer - AB	4I8H	Monomer	1BPI	Monomer
+3BTE	Hetero 2-mer - AB	4I8H	Monomer	1BPI	Monomer
+3BTF	Hetero 2-mer - AB	4I8H	Monomer	1BPI	Monomer
+3BTG	Hetero 2-mer - AB	4I8H	Monomer	1BPI	Monomer
+3BTH	Hetero 2-mer - AB	4I8H	Monomer	1BPI	Monomer
+3BTK	Hetero 2-mer - AB	4I8H	Monomer	1BPI	Monomer
+3BTM	Hetero 2-mer - AB	4I8H	Monomer	1BPI	Monomer
+3BTQ	Hetero 2-mer - AB	4I8H	Monomer	1BPI	Monomer
+3BTT	Hetero 2-mer - AB	4I8H	Monomer	1BPI	Monomer
+3BTW	Hetero 2-mer - AB	4I8H	Monomer	1BPI	Monomer
+3BUZ	Hetero 2-mer - AB	1GIQ	Monomer	2FXU	Monomer
+3BX7	Hetero 4-mer - A2B2	1AH1	Monomer	3BX8	Monomer
+3BYT	Hetero 2-mer - AB	2APB	Monomer	1UNS	Monomer
+3BYY	Hetero 2-mer - AB	2APB	Monomer	3BVM	Monomer
+3BZD	Hetero 2-mer - AB	2APB	Monomer	3BVM	Monomer
+3C05	AB	4M4C	Monomer	1L3X	Monomer
+3LQC	Hetero 2-mer - AB	1XNT	Monomer	3V7L	Monomer
+3LTF	Hetero 4-mer - A2B2	3I2T	Homo 2-mer - A2	3CA7	Monomer
+3LTG	Hetero 3-mer - A2B	3I2T	Homo 2-mer - A2	3CA7	Monomer
+3LVJ	Hetero 4-mer - A2B2	3LVM	Homo 2-mer - A2	1DCJ	Monomer
+3LVK	Hetero 4-mer - A2B2	3LVM	Homo 2-mer - A2	1DCJ	Monomer
+3LVL	Hetero 4-mer - A2B2	3LVM	Homo 2-mer - A2	2L4X	Monomer
+3LW8	Hetero 2-mer - AB	1KMQ	Monomer	3LYQ	Monomer
+3LWN	Hetero 2-mer - AB	1KMQ	Monomer	3LYQ	Monomer
+3LXR	Hetero 2-mer - AB	1KMQ	Monomer	3LYQ	Monomer
+3M0A	Hetero 4-mer - A3B	3M06	Homo 3-mer - A3	3M1D	Monomer
+3M18	Hetero 2-mer - AB	3M19	Monomer	4LZT	Monomer
+3M62	Hetero 2-mer - AB	2QIZ	Monomer	2NBU	Monomer
+3M63	Hetero 2-mer - AB	2QIZ	Monomer	2BWF	Monomer
+3M7F	Hetero 2-mer - AB	1NRV	Homo 2-mer - A2	3B7Y	Monomer
+3M7Q	Hetero 2-mer - AB	4I8H	Monomer	3OFW	Monomer
+3MBW	Hetero 4-mer - A2B2	5FOF	Monomer	4M4X	Homo 2-mer - A2
+3MC0	Hetero 2-mer - AB	2APB	Monomer	1XXG	Monomer
+3MDB	Hetero 2-mer - AB	5TPX	Monomer	3LJU	Monomer
+3ME2	Hetero 6-mer - A3B3	1JTZ	Homo 3-mer - A3	3ME4	Homo 2-mer - A2
+3MHV	Hetero 4-mer - A2B2	2QPA	Monomer	2RKL	Homo 2-mer - A2
+3MI8	Hetero 6-mer - A3B3	2RJL	Homo 3-mer - A3	3MHD	Monomer
+3MJ7	Hetero 2-mer - AB	3MJ6	Monomer	3J6O	Homo 60-mer - A60
+3MX0	Hetero 2-mer - AB	2X10	Monomer	1SHX	Monomer
+3MY5	Hetero 2-mer - AB	3EZR	Monomer	1VIN	Monomer
+3MZG	Hetero 2-mer - AB	2Q98	Monomer	2LFG	Monomer
+3N06	Hetero 2-mer - AB	2Q98	Monomer	2LFG	Monomer
+3N0P	Hetero 2-mer - AB	2Q98	Monomer	2LFG	Monomer
+3N1F	Hetero 2-mer - AB	3N1O	Monomer	1X4Y	Monomer
+3N1G	Hetero 2-mer - AB	2WFQ	Monomer	1X4Y	Monomer
+3N1M	Hetero 2-mer - AB	3N1O	Monomer	1X4Y	Monomer
+3N1P	Hetero 2-mer - AB	3N1O	Monomer	1X4Y	Monomer
+3N1Q	Hetero 2-mer - AB	2WFQ	Monomer	1X4Y	Monomer
+3N39	Hetero 4-mer - A2B2	3N37	Homo 2-mer - A2	4IS7	Homo 2-mer - A2
+3N3A	Hetero 4-mer - A2B2	3N37	Homo 2-mer - A2	4IS7	Homo 2-mer - A2
+3N3B	Hetero 4-mer - A2B2	3N37	Homo 2-mer - A2	4IS7	Homo 2-mer - A2
+3N3K	Hetero 2-mer - AB	2GFO	Monomer	3NOB	Homo 2-mer - A2
+3N4I	Hetero 2-mer - AB	1N9B	Monomer	3GMU	Monomer
+3N9U	Hetero 4-mer - A2B2	2CL3	Homo 2-mer - A2	3P0C	Monomer
+3NC1	Hetero 2-mer - AB	3RAN	Monomer	4BSN	Monomer
+3NCB	Hetero 2-mer - AB	2Q98	Monomer	2LFG	Monomer
+3NCC	Hetero 2-mer - AB	2Q98	Monomer	2LFG	Monomer
+3NCE	Hetero 2-mer - AB	2Q98	Monomer	2LFG	Monomer
+3NCF	Hetero 2-mer - AB	2Q98	Monomer	2LFG	Monomer
+3NE5	Hetero 9-mer - A6B3	3OOC	Homo 2-mer - A2	3K07	Homo 3-mer - A3
+3NMN	Hetero 2-mer - AB	3KAY	Homo 2-mer - A2	3UJK	Monomer
+3NMV	Hetero 2-mer - AB	3NMP	Homo 2-mer - A2	3UJK	Monomer
+3NOC	Hetero 5-mer - A3B2	1T9X	Monomer	4DUI	Monomer
+3NOG	Hetero 5-mer - A3B2	1T9X	Monomer	4DUI	Monomer
+3O5T	Hetero 6-mer - A3B3	3G9D	Monomer	4CO3	Homo 3-mer - A3
+3O65	Hetero 2-mer - AB	2AGA	Monomer	5NVG	Monomer
+3O8E	Hetero 6-mer - A3B3	3EXV	Homo 3-mer - A3	1CKL	Monomer
+3OAK	Hetero 2-mer - AB	3O8Z	Monomer	3PSI	Monomer
+3OED	Hetero 2-mer - AB	1C3D	Monomer	1LY2	Monomer
+3OFI	Monomer	4GSF	Monomer	5NVG	Monomer
+3OJ2	Hetero 2-mer - AB	1RML	Monomer	3DAR	Monomer
+3OJ3	Hetero 2-mer - AB	3NOB	Homo 2-mer - A2	2EQE	Monomer
+3OJM	Hetero 2-mer - AB	1RML	Monomer	3DAR	Monomer
+3OKY	Hetero 4-mer - A2B2	3OKT	Monomer	3OKW	Homo 2-mer - A2
+3ONA	Hetero 2-mer - AB	3ON9	Monomer	1B2T	Monomer
+3ONL	Hetero 3-mer - A2B	3ONK	Monomer	3ONJ	Monomer
+3OSL	Hetero 2-mer - AB	3DGV	Homo 2-mer - A2	2K2X	Monomer
+3OUN	Hetero 2-mer - AB	3PO8	Monomer	3UQC	Homo 2-mer - A2
+3OUR	Hetero 2-mer - AB	4I4C	Monomer	2F3G	Homo 2-mer - A2
+3OWE	Hetero 2-mer - AB	2APX	Monomer	1XXG	Monomer
+3OXU	Hetero 2-mer - AB	1C3D	Monomer	2BZM	Monomer
+3P83	Hetero 6-mer - A3B3	1RWZ	Homo 3-mer - A3	1I39	Monomer
+3P8M	Hetero 4-mer - A2B2	1PWK	Monomer	3I5C	Homo 2-mer - A2
+3P92	Hetero 2-mer - AB	5TP0	Monomer	1BPI	Monomer
+3P95	Hetero 2-mer - AB	5TP0	Monomer	1BPI	Monomer
+3P9W	Hetero 2-mer - AB	4KZN	Homo 2-mer - A2	3B9V	Monomer
+3PB1	Hetero 2-mer - AB	4IC0	Monomer	2O8U	Monomer
+3PC8	Hetero 4-mer - A2B2	1CDZ	Monomer	3PC7	Homo 2-mer - A2
+3PCR	Hetero 2-mer - AB	3Q1C	Monomer	3N5C	Monomer
+3PHD	Hetero 6-mer - A4B2	5B8D	Monomer	5NVG	Monomer
+3PHW	Hetero 2-mer - AB	3PHU	Monomer	5NVG	Monomer
+3PHX	Hetero 2-mer - AB	3PHU	Monomer	2HJ8	Monomer
+3PIN	Hetero 2-mer - AB	2HSY	Monomer	3PIL	Monomer
+3PK1	Hetero 2-mer - AB	2F3L	Monomer	4S0O	Homo 2-mer - A2
+3PL7	Hetero 2-mer - AB	3QKD	Monomer	4S0O	Homo 2-mer - A2
+3PNL	Hetero 4-mer - A2B2	3PNO	Homo 2-mer - A2	2BTD	Monomer
+3PT2	Hetero 2-mer - AB	3PHU	Monomer	5NVG	Monomer
+3PTF	Hetero 2-mer - AB	3TGD	Monomer	3NOB	Homo 2-mer - A2
+3PV6	Hetero 2-mer - AB	3PV7	Monomer	3NOI	Homo 2-mer - A2
+3PVB	Hetero 2-mer - AB	4AE6	Monomer	3PNA	Monomer
+3Q35	Hetero 4-mer - A2B2	2RIM	Monomer	3DM7	Homo 2-mer - A2
+3Q3J	Hetero 8-mer - A4B4	4E74	Homo 2-mer - A2	2CLS	Monomer
+3Q4F	Hetero 4-mer - A2B2	2R9A	Homo 2-mer - A2	5DUY	Monomer
+3GJ3	Hetero 2-mer - AB	3GJ0	Monomer	2GQE	Monomer
+3GJ7	Hetero 2-mer - AB	3GJ0	Monomer	2K0C	Monomer
+3GJN	Monomer	1IMQ	Monomer	3ZFK	Monomer
+3GKL	Hetero 2-mer - AB	3ZFK	Monomer	1IMQ	Monomer
+3GMW	Hetero 2-mer - AB	1ERM	Monomer	3GMV	Monomer
+3GN4	Hetero 3-mer - A2B	4DBR	Monomer	1OOJ	Monomer
+3GQI	Hetero 2-mer - AB	3GQL	Monomer	4FBN	Monomer
+3GXU	Hetero 2-mer - AB	3CKH	Monomer	2I85	Monomer
+3GYM	Hetero 2-mer - AB	3GYL	Monomer	1BPI	Monomer
+3GZ2	Homo 2-mer - A2	3GYZ	Homo 2-mer - A2	3U0C	Monomer
+3H2U	Hetero 2-mer - AB	1QKR	Monomer	3SMZ	Monomer
+3H2V	Hetero 2-mer - AB	1QKR	Monomer	1WI6	Monomer
+3H3B	Hetero 2-mer - AB	2A91	Monomer	2GJJ	Monomer
+3H44	Homo 2-mer - A2	4GSF	Monomer	5COR	Homo 5-mer - A5
+3H7W	Hetero 2-mer - AB	1P97	Monomer	2HV1	Homo 2-mer - A2
+3H82	AB	2HV1	Homo 2-mer - A2	1P97	Monomer
+3H9R	Hetero 2-mer - AB	3Q4U	Homo 2-mer - A2	2PPN	Monomer
+3HG0	Hetero 4-mer - A3B	3EJC	Homo 3-mer - A3	2JAB	Monomer
+3HGZ	Monomer	3P7L	Homo 2-mer - A2	2KB8	Monomer
+3HHM	Hetero 2-mer - AB	5DXT	Monomer	4YKN	Monomer
+3HHR	Hetero 3-mer - A2B	1HGU	Monomer	2AEW	Monomer
+3HHW	Hetero 20-mer - A10B10	2K47	Monomer	2QVJ	Homo 10-mer - A10
+3HIZ	Hetero 2-mer - AB	4C0T	Monomer	4YKN	Monomer
+3HO5	Monomer	3HO3	Monomer	3N1O	Monomer
+3HPG	Hetero 8-mer - A4B4	5T3A	Homo 2-mer - A2	2MTN	Monomer
+3HPH	Hetero 8-mer - A4B4	5T3A	Homo 2-mer - A2	2MTN	Monomer
+3HPW	Hetero 3-mer - A2B	3VUB	Homo 2-mer - A2	2ADN	Homo 2-mer - A2
+3HVQ	Hetero 4-mer - A2B2	1JK7	Monomer	2FN5	Monomer
+3HY2	Hetero 4-mer - A2B2	1QQ2	Homo 2-mer - A2	1XW3	Monomer
+3I29	Hetero 2-mer - AB	4I8H	Monomer	1XG6	Monomer
+3IDB	Hetero 2-mer - AB	1RE8	Monomer	4JVA	Monomer
+3IDC	Hetero 2-mer - AB	1RE8	Monomer	4JVA	Monomer
+3IFW	Hetero 2-mer - AB	4JKJ	Monomer	5NVG	Monomer
+3IHP	Hetero 2-mer - AB	2G43	Monomer	5NVG	Monomer
+3II6	Hetero 3-mer - A2B	1FU1	Homo 4-mer - A4	2E2W	Monomer
+3INB	Hetero 4-mer - A2B2	2RKC	Monomer	1CKL	Monomer
+3JRQ	Hetero 2-mer - AB	3UJK	Monomer	3KAY	Homo 2-mer - A2
+3JZA	Hetero 2-mer - AB	3NKV	Monomer	3JZ9	Monomer
+3K1I	Hetero 2-mer - AB	3IQC	Monomer	3K1H	Monomer
+3K51	Hetero 6-mer - A3B3	2RJL	Homo 3-mer - A3	3MHD	Monomer
+3K6S	Hetero 2-mer - AB	1N3Y	Monomer	5E6W	Monomer
+3K71	Hetero 2-mer - AB	1N3Y	Monomer	5E6W	Monomer
+3K72	Hetero 2-mer - AB	1N3Y	Monomer	5E6W	Monomer
+3K74	Hetero 2-mer - AB	4PTH	Monomer	1IEH	Monomer
+3K75	Hetero 2-mer - AB	1XNT	Monomer	1RPL	Monomer
+3K9M	Hetero 2-mer - AB	1CTE	Homo 2-mer - A2	1N9J	Homo 2-mer - A2
+3K9O	Hetero 2-mer - AB	1YLA	Homo 2-mer - A2	2KX0	Monomer
+3K9P	Hetero 2-mer - AB	4L7V	Monomer	3NOB	Homo 2-mer - A2
+3KAS	Hetero 4-mer - A2B2	1CX8	Homo 2-mer - A2	2WFO	Monomer
+3KBT	Hetero 2-mer - AB	3F57	Monomer	3F59	Monomer
+3KBU	Hetero 2-mer - AB	3F57	Monomer	3F59	Monomer
+3KDJ	Hetero 2-mer - AB	3NEF	Monomer	3UJK	Monomer
+3KFQ	Hetero 2-mer - AB	1FH0	Monomer	1N9J	Homo 2-mer - A2
+3KH2	Hetero 4-mer - A2B2	3DD9	Homo 2-mer - A2	3HRY	Homo 2-mer - A2
+3KKA	Monomer	3HIL	Monomer	2E8N	Monomer
+3KLD	Hetero 2-mer - AB	3JXA	Monomer	3JXG	Monomer
+3KLS	Hetero 2-mer - AB	3CU7	Monomer	1V1O	Homo 2-mer - A2
+3KSE	Hetero 2-mer - AB	2XU3	Monomer	1N9J	Homo 2-mer - A2
+3KUC	Hetero 2-mer - AB	3X1X	Monomer	1RFA	Monomer
+3KUD	Hetero 2-mer - AB	1CTQ	Monomer	1RFA	Monomer
+3KVF	Hetero 2-mer - AB	3IRT	Monomer	5NVG	Monomer
+3KW5	Hetero 2-mer - AB	2ETL	Monomer	5NVG	Monomer
+3KXC	Hetero 2-mer - AB	2PWN	Homo 2-mer - A2	2BJN	Homo 2-mer - A2
+3L0I	Hetero 2-mer - AB	3L0M	Monomer	2FOL	Monomer
+3L1Z	Hetero 2-mer - AB	3L1Y	Monomer	3L1X	Monomer
+3L33	Hetero 2-mer - AB	5TP0	Monomer	1AAP	Homo 2-mer - A2
+3L3T	Hetero 2-mer - AB	5TP0	Monomer	1AAP	Homo 2-mer - A2
+3L4F	Hetero 4-mer - A3B	2W6B	Homo 3-mer - A3	1Q3O	Homo 2-mer - A2
+3L89	Hetero 6-mer - A3B3	3L88	Homo 3-mer - A3	1CKL	Monomer
+3L9J	Hetero 2-mer - AB	1TN3	Monomer	2AZ5	Homo 4-mer - A4
+3LB8	Hetero 2-mer - AB	1Q1R	Monomer	1OQQ	Monomer
+3LCB	Hetero 2-mer - AB	3EPS	Monomer	1PB3	Homo 2-mer - A2
+3LCP	Hetero 2-mer - AB	1GV9	Monomer	2VRG	Monomer
+3LMS	Hetero 2-mer - AB	3D67	Monomer	2K2X	Monomer
+3ULA	Hetero 2-mer - AB	3UL8	Monomer	2E56	Monomer
+3ULQ	Hetero 2-mer - AB	4I9E	Homo 2-mer - A2	2KRF	Homo 2-mer - A2
+3UOU	Hetero 2-mer - AB	3HGP	Monomer	1SHP	Monomer
+3UUS	Hetero 8-mer - A4B4	1RLR	Monomer	1MXR	Homo 2-mer - A2
+3UUX	Hetero 2-mer - AB	3O48	Monomer	2XU6	Homo 2-mer - A2
+3UVV	Hetero 2-mer - AB	3D57	Homo 2-mer - A2	4N8R	Homo 4-mer - A4
+3UWX	Hetero 4-mer - A2B2	2R6F	Homo 2-mer - A2	1T5L	Monomer
+3UYO	Hetero 2-mer - AB	2ECD	Monomer	1TTG	Monomer
+3UYP	Hetero 2-mer - AB	1MOE	Homo 2-mer - A2	2H0P	Monomer
+3UZE	Hetero 2-mer - AB	1MOE	Homo 2-mer - A2	1UZG	Homo 2-mer - A2
+3UZQ	Hetero 2-mer - AB	1MOE	Homo 2-mer - A2	3IRC	Monomer
+3UZV	Hetero 2-mer - AB	2JSF	Monomer	1MOE	Homo 2-mer - A2
+3V2U	Hetero 4-mer - A2B2	3BTV	Homo 2-mer - A2	3V5R	Homo 2-mer - A2
+3V96	Hetero 2-mer - AB	1D2B	Monomer	1Q3A	Homo 2-mer - A2
+3VE1	Hetero 2-mer - AB	3VE2	Homo 4-mer - A4	4H0W	Monomer
+3VEQ	Hetero 2-mer - AB	4I8H	Monomer	4WBC	Monomer
+3VF0	Hetero 2-mer - AB	1TR2	Monomer	3SMZ	Monomer
+3VH3	Hetero 4-mer - A2B2	3T7E	Homo 2-mer - A2	2KQ7	Monomer
+3VH4	Hetero 4-mer - A2B2	3T7E	Homo 2-mer - A2	2KQ7	Monomer
+3VKF	Hetero 4-mer - A2B2	3BIX	Homo 2-mer - A2	1C4R	Monomer
+3VMG	Hetero 6-mer - A3B3	1WW9	Homo 3-mer - A3	1VCK	Monomer
+3VMH	Hetero 6-mer - A3B3	1WW9	Homo 3-mer - A3	1VCK	Monomer
+3VMI	Hetero 6-mer - A3B3	1WW9	Homo 3-mer - A3	1VCK	Monomer
+3VU3	Hetero 28-mer - A24B4	3TTV	Homo 4-mer - A4	3QHS	Homo 6-mer - A6
+3VUW	Hetero 2-mer - AB	5NVG	Monomer	2EQF	Monomer
+3VUX	Hetero 2-mer - AB	5NVG	Monomer	2EQF	Monomer
+3VUY	Hetero 2-mer - AB	5NVG	Monomer	2EQF	Monomer
+3VVW	Hetero 2-mer - AB	3VVV	Homo 2-mer - A2	2NCN	Monomer
+3VX7	Hetero 2-mer - AB	3VX6	Monomer	2LPU	Monomer
+3VYR	Hetero 2-mer - AB	2Z1C	Monomer	2Z1D	Monomer
+3W03	Homo 2-mer - A2	2QM4	Homo 2-mer - A2	1FU1	Homo 4-mer - A4
+3W3D	Hetero 2-mer - AB	2HF4	Monomer	3DNI	Homo 2-mer - A2
+3W3Z	Hetero 2-mer - AB	3W3T	Monomer	1QG4	Monomer
+3W5U	Hetero 2-mer - AB	1GAW	Monomer	3B2F	Monomer
+3W9C	Hetero 2-mer - AB	4L4E	Monomer	1XLQ	Monomer
+3WDG	Hetero 2-mer - AB	3WDF	Monomer	2KCD	Monomer
+3WHL	Hetero 2-mer - AB	3WHK	Monomer	3WHJ	Monomer
+3WHT	Hetero 2-mer - AB	1GV9	Monomer	2VRG	Monomer
+3WHU	Hetero 2-mer - AB	1GV9	Monomer	2VRG	Monomer
+3WJJ	Hetero 3-mer - A2B	4Q74	Homo 2-mer - A2	1FCG	Homo 2-mer - A2
+3WJL	Hetero 3-mer - A2B	4Q74	Homo 2-mer - A2	1FCG	Homo 2-mer - A2
+3WKT	Hetero 2-mer - AB	3ES9	Monomer	1J02	Monomer
+3WNX	Hetero 2-mer - AB	1GV9	Monomer	2VRG	Monomer
+3WQB	Hetero 2-mer - AB	3HJR	Monomer	2MK4	Monomer
+3WRX	Hetero 2-mer - AB	3WRW	Homo 2-mer - A2	3VKW	Monomer
+3WRY	Hetero 2-mer - AB	3WRW	Homo 2-mer - A2	3VKW	Monomer
+3WWN	Hetero 4-mer - A2B2	3U6U	Homo 2-mer - A2	3WWL	Monomer
+3WXE	Hetero 2-mer - AB	2VHF	Monomer	2W9N	Monomer
+3WXF	Hetero 2-mer - AB	2VHF	Monomer	2W9N	Monomer
+3ZDM	Hetero 6-mer - A4B2	2LXB	Homo 2-mer - A2	4GOC	Monomer
+3ZEF	Hetero 2-mer - AB	3SBS	Monomer	3SBG	Monomer
+3ZHP	Hetero 2-mer - AB	1UPL	Monomer	2XIK	Monomer
+3ZL7	Hetero 2-mer - AB	3ZKG	Monomer	3H0H	Monomer
+3ZNH	Hetero 2-mer - AB	3PHU	Monomer	5NVG	Monomer
+3ZNZ	Hetero 2-mer - AB	3ZNV	Monomer	2W9N	Monomer
+3ZO0	Hetero 4-mer - A2B2	5VAA	Homo 2-mer - A2	2VOK	Homo 2-mer - A2
+3ZO5	Hetero 2-mer - AB	1TH0	Monomer	1U4A	Monomer
+3ZOQ	Hetero 3-mer - A2B	3ZOR	Monomer	2LE2	Homo 2-mer - A2
+3ZR4	Hetero 2-mer - AB	1THF	Homo 2-mer - A2	1K9V	Monomer
+3ZU7	Hetero 2-mer - AB	5HD4	Monomer	4DUI	Monomer
+3ZUV	Hetero 2-mer - AB	3QYZ	Monomer	2JAB	Monomer
+3ZYI	Hetero 2-mer - AB	2DL9	Monomer	3ZYG	Monomer
+4A49	Hetero 2-mer - AB	2K4D	Monomer	1W4U	Monomer
+4A55	Hetero 2-mer - AB	5DXT	Monomer	4YKN	Monomer
+4ADF	Hetero 12-mer - A6B6	2CH8	Homo 6-mer - A6	3UF2	Homo 2-mer - A2
+4ADQ	Hetero 12-mer - A6B6	2CH8	Homo 6-mer - A6	3UF5	Homo 2-mer - A2
+4ADS	Hetero 24-mer - A12B12	4ADT	Homo 12-mer - A12	2ABW	Monomer
+4AFQ	Hetero 2-mer - AB	4KP0	Monomer	3H0H	Monomer
+4AFS	Hetero 2-mer - AB	4KP0	Monomer	3H0H	Monomer
+4AFU	Hetero 2-mer - AB	4KP0	Monomer	3H0H	Monomer
+4AFZ	Hetero 2-mer - AB	4KP0	Monomer	3H0H	Monomer
+4AG1	Hetero 2-mer - AB	4KP0	Monomer	3H0H	Monomer
+4AG2	Hetero 2-mer - AB	4KP0	Monomer	3H0H	Monomer
+4AN7	Hetero 2-mer - AB	1BTY	Monomer	4AN6	Homo 2-mer - A2
+4AP2	Hetero 2-mer - AB	4JYJ	Homo 6-mer - A6	2MYM	Monomer
+4APF	Hetero 4-mer - A2B2	4JYJ	Homo 6-mer - A6	2MYM	Monomer
+4AQR	Hetero 3-mer - A2B	5A2H	Monomer	2M73	Monomer
+4ATZ	Hetero 6-mer - A3B3	1KNB	Homo 3-mer - A3	2XEE	Monomer
+4AWX	Hetero 2-mer - AB	2WIC	Homo 3-mer - A3	2K02	Monomer
+4AYD	Hetero 2-mer - AB	1HAQ	Monomer	2Y7S	Monomer
+4AYE	Hetero 2-mer - AB	1HAQ	Monomer	2Y7S	Monomer
+4AYI	Hetero 2-mer - AB	1HAQ	Monomer	4AYN	Homo 2-mer - A2
+4AYM	Hetero 2-mer - AB	1HAQ	Monomer	4AYN	Homo 2-mer - A2
+4B1T	Hetero 2-mer - AB	3PLB	Monomer	1EGL	Monomer
+4B2A	Hetero 2-mer - AB	1V2L	Monomer	1EGL	Monomer
+4B2B	Hetero 2-mer - AB	3UWI	Monomer	1EGL	Monomer
+4B2C	Hetero 2-mer - AB	3PLB	Monomer	1EGL	Monomer
+4BCK	Hetero 2-mer - AB	3EZR	Monomer	1VIN	Monomer
+4BCO	Hetero 2-mer - AB	3EZR	Monomer	1VIN	Monomer
+4BCP	Hetero 2-mer - AB	3EZR	Monomer	1VIN	Monomer
+4BD2	Hetero 4-mer - A2B2	4BD8	Homo 2-mer - A2	2BID	Monomer
+4BDT	Homo 2-mer - A2	1Q84	Homo 2-mer - A2	1FSC	Homo 2-mer - A2
+3Q66	Hetero 3-mer - A2B	5AGC	Homo 4-mer - A4	2RIM	Monomer
+3Q68	Hetero 3-mer - A2B	5AGC	Homo 4-mer - A4	2RIM	Monomer
+3QB4	Hetero 2-mer - AB	1WAQ	Homo 2-mer - A2	2K3G	Monomer
+3QBQ	Hetero 6-mer - A3B3	1IQA	Homo 3-mer - A3	3ME4	Homo 2-mer - A2
+3QBT	Hetero 2-mer - AB	4LHW	Monomer	4CMN	Monomer
+3QC8	Hetero 2-mer - AB	3QQ7	Monomer	3QCA	Monomer
+3QEL	Hetero 3-mer - A2B	3QEK	Monomer	3JPW	Monomer
+3QEM	Hetero 2-mer - AB	3QEK	Monomer	3JPW	Monomer
+3QF4	AB	4Q7K	Monomer	4Q7M	Monomer
+3QFA	Hetero 4-mer - A2B2	2J3N	Homo 2-mer - A2	4POM	Monomer
+3QFB	Hetero 4-mer - A2B2	2J3N	Homo 2-mer - A2	4POM	Monomer
+3QQ8	Hetero 2-mer - AB	3QQ7	Monomer	3R3M	Monomer
+3QSK	Hetero 2-mer - AB	2E3W	Monomer	4PPT	Monomer
+3QTL	Hetero 4-mer - A3B	3UNX	Monomer	3PIS	Monomer
+3QV1	Hetero 6-mer - A4B2	3K2B	Homo 4-mer - A4	2LJ9	Monomer
+3QVG	Hetero 4-mer - A2B2	1IN1	Monomer	3PC6	Homo 2-mer - A2
+3QWZ	Hetero 2-mer - AB	3QQ7	Monomer	3QX1	Monomer
+3R66	Hetero 4-mer - A2B2	1XEQ	Homo 2-mer - A2	1Z2M	Monomer
+3R9A	Hetero 4-mer - A2B2	4I8A	Homo 2-mer - A2	2J9Q	Homo 2-mer - A2
+3R9J	Hetero 6-mer - A4B2	3Q9L	Homo 2-mer - A2	1EV0	Homo 2-mer - A2
+3RDZ	Hetero 2-mer - AB	4I8H	Monomer	3RDY	Monomer
+3RJ3	Hetero 2-mer - AB	1C3D	Monomer	2BZM	Monomer
+3RNK	Hetero 2-mer - AB	1NPU	Monomer	3BOV	Monomer
+3RNM	Hetero 3-mer - A2B	1ZMD	Homo 2-mer - A2	1ZWV	Monomer
+3RNQ	Hetero 2-mer - AB	3BOV	Monomer	1NPU	Monomer
+3RT3	Hetero 4-mer - A2B2	1Z2M	Monomer	1XEQ	Homo 2-mer - A2
+3RUI	Hetero 4-mer - A2B2	3T7E	Homo 2-mer - A2	2KQ7	Monomer
+3RVD	Hetero 6-mer - A4B2	3K2B	Homo 4-mer - A4	2LJ9	Monomer
+3RWR	Hetero 8-mer - A4B4	1FU1	Homo 4-mer - A4	2R9A	Homo 2-mer - A2
+3RY6	Hetero 3-mer - A2B	4C54	Monomer	3RY5	Monomer
+3RYT	Hetero 2-mer - AB	3IG3	Monomer	2IC5	Monomer
+3S3X	Hetero 6-mer - A3B3	3S3W	Homo 3-mer - A3	1LMM	Monomer
+3S90	Hetero 2-mer - AB	1TR2	Monomer	5IC1	Monomer
+3S9D	Hetero 2-mer - AB	2LMS	Monomer	1N6V	Monomer
+3S9L	Hetero 4-mer - A2B2	1CX8	Homo 2-mer - A2	3V83	Monomer
+3S9M	Hetero 4-mer - A2B2	1CX8	Homo 2-mer - A2	3V83	Monomer
+3S9N	Hetero 4-mer - A2B2	1CX8	Homo 2-mer - A2	3V83	Monomer
+3SBT	Hetero 2-mer - AB	3E9O	Monomer	3SBS	Monomer
+3SBW	Hetero 2-mer - AB	1NPU	Monomer	4Z18	Homo 2-mer - A2
+3SDL	Hetero 4-mer - A2B2	1XEQ	Homo 2-mer - A2	1Z2M	Monomer
+3SEK	Hetero 4-mer - A2B2	5JI1	Homo 2-mer - A2	2KCX	Monomer
+3SGB	Hetero 2-mer - AB	2QAA	Monomer	1TUS	Monomer
+3SGQ	Hetero 2-mer - AB	2QAA	Monomer	2GKR	Monomer
+3SJQ	Hetero 4-mer - A2B2	1PRW	Monomer	1KKD	Monomer
+3SKU	Hetero 2-mer - AB	2C36	Monomer	4FMF	Homo 2-mer - A2
+3SOH	Hetero 2-mer - AB	2HP7	Monomer	1LKV	Monomer
+3SQB	Hetero 2-mer - AB	1BF8	Monomer	2M5G	Monomer
+3SR2	Hetero 8-mer - A4B4	1FU1	Homo 4-mer - A4	2R9A	Homo 2-mer - A2
+3SU8	Hetero 2-mer - AB	2W2V	Monomer	2R2O	Homo 2-mer - A2
+3SUA	Hetero 2-mer - AB	2W2V	Monomer	2R2O	Homo 2-mer - A2
+3T12	Hetero 3-mer - A2B	3T1T	Monomer	3T1S	Homo 2-mer - A2
+3T1Q	Hetero 3-mer - A2B	3T1T	Monomer	3T1S	Homo 2-mer - A2
+3T51	Hetero 3-mer - A2B	3OW7	Homo 2-mer - A2	3K07	Homo 3-mer - A3
+3T53	Hetero 3-mer - A2B	3OW7	Homo 2-mer - A2	3K07	Homo 3-mer - A3
+3T56	Hetero 3-mer - A2B	3K07	Homo 3-mer - A3	3OW7	Homo 2-mer - A2
+3T5G	Hetero 2-mer - AB	1XTQ	Monomer	4JV8	Monomer
+3T98	Hetero 96-mer - A64B32	4J3H	Homo 4-mer - A4	2OSZ	Homo 4-mer - A4
+3TG1	Hetero 2-mer - AB	3KQ7	Monomer	2OUC	Monomer
+3TGI	Hetero 2-mer - AB	1ANE	Homo 2-mer - A2	3AUC	Monomer
+3TGJ	Hetero 2-mer - AB	1DPO	Monomer	3AUC	Monomer
+3TGK	Hetero 2-mer - AB	1DPO	Monomer	3AUC	Monomer
+3TGO	Hetero 2-mer - AB	2YHC	Monomer	2LAF	Monomer
+3TGX	Hetero 2-mer - AB	4NZD	Monomer	2OQP	Monomer
+3THO	Hetero 2-mer - AB	5EOW	Monomer	4NZV	Homo 2-mer - A2
+3TMP	Hetero 2-mer - AB	3TMO	Monomer	5NVG	Monomer
+3TNW	Hetero 2-mer - AB	3EZR	Monomer	1VIN	Monomer
+3TPI	Hetero 2-mer - AB	1BTY	Monomer	1BPI	Monomer
+3TSO	Hetero 4-mer - A2B2	2OIL	Monomer	2K6S	Homo 2-mer - A2
+3TU3	Hetero 2-mer - AB	3OGA	Homo 2-mer - A2	3M49	Homo 2-mer - A2
+3TU5	Hetero 2-mer - AB	2VYP	Monomer	3FFN	Monomer
+3TX7	Hetero 2-mer - AB	4EV8	Monomer	4IS8	Monomer
+3U43	Hetero 2-mer - AB	2NO8	Monomer	1FSJ	Monomer
+3U73	Hetero 2-mer - AB	3U74	Monomer	1URK	Monomer
+3U7U	Hetero 2-mer - AB	2AHX	Monomer	1HAF	Monomer
+3U82	Hetero 2-mer - AB	4MYV	Monomer	4FMF	Homo 2-mer - A2
+3UDW	Hetero 4-mer - A2B2	3UCR	Homo 2-mer - A2	4FQP	Monomer
+3UEZ	Hetero 12-mer - A6B6	2CH8	Homo 6-mer - A6	3UF2	Homo 2-mer - A2
+3UIR	Hetero 2-mer - AB	1DDJ	Monomer	3BYB	Homo 3-mer - A3
+3UJL	Hetero 2-mer - AB	3NMH	Homo 2-mer - A2	3UJK	Monomer
+4FZ0	Hetero 6-mer - A3B3	3S3W	Homo 3-mer - A3	1LMM	Monomer
+4FZ1	Hetero 6-mer - A3B3	3S3W	Homo 3-mer - A3	1LMM	Monomer
+4FZA	Hetero 2-mer - AB	4KZG	Monomer	4U8Z	Monomer
+4FZF	Hetero 2-mer - AB	4KZG	Monomer	4U8Z	Monomer
+4G0N	Hetero 2-mer - AB	1CTQ	Monomer	1RFA	Monomer
+4G27	Hetero 4-mer - A2B2	1KKD	Monomer	1PRW	Monomer
+4G28	Hetero 4-mer - A2B2	1KKD	Monomer	1PRW	Monomer
+4G3X	Hetero 2-mer - AB	3OIU	Monomer	1RFA	Monomer
+4G56	Hetero 8-mer - A4B4	4EHI	Homo 2-mer - A2	4X41	Homo 4-mer - A4
+4G59	Hetero 2-mer - AB	1JFM	Monomer	2FAU	Monomer
+4G8A	Hetero 4-mer - A2B2	2Z63	Monomer	2E56	Monomer
+4G9S	Monomer	3MGW	Monomer	4DY3	Monomer
+4GED	Hetero 2-mer - AB	5AL9	Homo 2-mer - A2	4DY9	Monomer
+4GGF	Hetero 4-mer - A2B2	1MR8	Homo 2-mer - A2	5I8N	Homo 2-mer - A2
+4GH7	Hetero 2-mer - AB	4IAW	Monomer	3T1W	Homo 2-mer - A2
+4GHI	Hetero 2-mer - AB	1P97	Monomer	2HV1	Homo 2-mer - A2
+4GIQ	Hetero 6-mer - A3B3	1JTZ	Homo 3-mer - A3	3ME4	Homo 2-mer - A2
+4GJT	Hetero 4-mer - A2B2	2ZB6	Homo 2-mer - A2	4JJH	Homo 2-mer - A2
+4GKO	Hetero 4-mer - A2B2	3H9Y	Homo 2-mer - A2	4J6P	Monomer
+4GOJ	Hetero 2-mer - AB	1FZQ	Monomer	3GQQ	Monomer
+4GRG	Hetero 4-mer - A2B2	2JAB	Monomer	3H9Y	Homo 2-mer - A2
+4GS9	Hetero 2-mer - AB	1P97	Monomer	2HV1	Homo 2-mer - A2
+4GSK	Hetero 4-mer - A2B2	3VH2	Homo 2-mer - A2	4EBR	Homo 2-mer - A2
+4GSL	Hetero 4-mer - A2B2	3VH2	Homo 2-mer - A2	2DYT	Monomer
+4GUX	Hetero 2-mer - AB	5FXL	Monomer	1IB9	Monomer
+4GY2	Hetero 2-mer - AB	1GIQ	Monomer	2FXU	Monomer
+4GYC	Hetero 4-mer - A2B2	2KSY	Monomer	2RM8	Monomer
+4GYP	Hetero 4-mer - A2B2	1EC8	Homo 4-mer - A4	4IL0	Homo 4-mer - A4
+4H03	Hetero 2-mer - AB	1GIQ	Monomer	2FXU	Monomer
+4H0T	Hetero 2-mer - AB	1GIQ	Monomer	2FXU	Monomer
+4H0V	Hetero 2-mer - AB	1GIQ	Monomer	2FXU	Monomer
+4H0X	Hetero 2-mer - AB	1GIQ	Monomer	2FXU	Monomer
+4H0Y	Hetero 2-mer - AB	1GIQ	Monomer	2FXU	Monomer
+4H2W	Hetero 4-mer - A2B2	3MF2	Homo 2-mer - A2	2JQ4	Monomer
+4H2Y	Hetero 4-mer - A2B2	3MF2	Homo 2-mer - A2	2JQ4	Monomer
+4HCN	Hetero 2-mer - AB	3GQM	Monomer	3VDZ	Monomer
+4HCP	Hetero 2-mer - AB	3GQM	Monomer	1NDD	Monomer
+4HDO	Hetero 2-mer - AB	5D68	Monomer	3X1X	Monomer
+4HH3	Hetero 3-mer - A2B	4L9G	Homo 2-mer - A2	4HEH	Homo 2-mer - A2
+4HLQ	Hetero 2-mer - AB	4HL4	Monomer	3NKV	Monomer
+4HOP	Hetero 2-mer - AB	1Z86	Monomer	1QAU	Monomer
+4HQP	Hetero 10-mer - A5B5	3SQ6	Homo 5-mer - A5	1KFH	Monomer
+4HR7	Hetero 8-mer - A4B4	2W70	Monomer	1A6X	Monomer
+4HRL	Hetero 2-mer - AB	2A91	Monomer	5FIN	Monomer
+4HRM	Hetero 4-mer - A2B2	2A91	Monomer	5FIN	Monomer
+4HSA	Hetero 3-mer - A2B	4HR9	Homo 2-mer - A2	5I8G	Monomer
+4HWI	Hetero 2-mer - AB	1QQO	Monomer	4HWC	Monomer
+4HX2	Hetero 4-mer - A2B2	3UNX	Monomer	4HWX	Homo 2-mer - A2
+4HX3	Hetero 4-mer - A2B2	1C7K	Monomer	4HWX	Homo 2-mer - A2
+4HXI	Hetero 2-mer - AB	3M6Y	Homo 4-mer - A4	3NWM	Monomer
+4I1O	Hetero 2-mer - AB	3NKV	Monomer	4I1M	Monomer
+4I3Z	Hetero 2-mer - AB	1JVP	Monomer	1VIN	Monomer
+4I43	Hetero 2-mer - AB	3SBS	Monomer	3SBG	Monomer
+4I6L	Hetero 2-mer - AB	2ZFY	Monomer	5NVG	Monomer
+4IC7	Hetero 2-mer - AB	4IC8	Monomer	1WI0	Monomer
+4ICG	Hetero 4-mer - A2B2	3NR7	Homo 2-mer - A2	2K5S	Monomer
+4IG7	Hetero 2-mer - AB	3LNB	Monomer	5NVG	Monomer
+4II5	Hetero 2-mer - AB	1JVP	Monomer	1VIN	Monomer
+4ILW	Hetero 2-mer - AB	1BR9	Monomer	1Q3A	Homo 2-mer - A2
+4IRU	Hetero 2-mer - AB	4I1M	Monomer	2FOL	Monomer
+4ISL	Hetero 2-mer - AB	5H7V	Monomer	4IS5	Monomer
+4ISN	Hetero 2-mer - AB	5H7V	Monomer	3P8G	Monomer
+4ISO	Hetero 2-mer - AB	3P8G	Monomer	5H7V	Monomer
+4ITR	Hetero 4-mer - A2B2	3N3U	Monomer	1A4R	Homo 2-mer - A2
+4IW3	Hetero 2-mer - AB	4J25	Monomer	4J0Q	Monomer
+4IW4	Hetero 4-mer - A2B2	1ECY	Homo 2-mer - A2	4KKD	Monomer
+4IZ5	Hetero 2-mer - AB	3C9W	Monomer	1N3K	Monomer
+4IZ7	Monomer	3C9W	Monomer	2LS7	Monomer
+4IZA	Hetero 2-mer - AB	3C9W	Monomer	2LS7	Monomer
+4J23	Hetero 2-mer - AB	3DAR	Monomer	1HKN	Monomer
+4J2Y	Hetero 2-mer - AB	4J2K	Monomer	4I8H	Monomer
+4J38	Hetero 2-mer - AB	2M4F	Monomer	2BZM	Monomer
+4J56	Hetero 4-mer - A2B2	4B1B	Homo 2-mer - A2	1SYR	Homo 2-mer - A2
+4J57	Hetero 4-mer - A2B2	4B1B	Homo 2-mer - A2	1SYR	Homo 2-mer - A2
+4J5W	Hetero 4-mer - A2B2	3CTB	Monomer	1LBD	Homo 2-mer - A2
+4J5X	Hetero 4-mer - A2B2	1LBD	Homo 2-mer - A2	3CTB	Monomer
+4J6G	Hetero 12-mer - A6B6	4EN0	Homo 3-mer - A3	3MHD	Monomer
+4J9U	Hetero 6-mer - A4B2	3PJZ	Homo 2-mer - A2	4J9V	Homo 4-mer - A4
+4J9Y	Hetero 4-mer - A2B2	1KKD	Monomer	1PRW	Monomer
+4J9Z	Hetero 4-mer - A2B2	1KKD	Monomer	1PRW	Monomer
+4JCV	Hetero 6-mer - A4B2	1VDD	Homo 4-mer - A4	1U5K	Homo 2-mer - A2
+4JE4	Hetero 2-mer - AB	1AYD	Monomer	1TTG	Monomer
+4JEG	Hetero 2-mer - AB	4H34	Monomer	1TTG	Monomer
+4JHP	Hetero 2-mer - AB	4JV8	Monomer	3ZIZ	Monomer
+4JO7	Hetero 4-mer - A2B2	4JNU	Homo 4-mer - A4	4JQ5	Homo 4-mer - A4
+4JO8	Hetero 4-mer - A2B2	2NYK	Monomer	1JA3	Homo 2-mer - A2
+4JO9	Hetero 3-mer - A2B	4JNU	Homo 4-mer - A4	4JQ5	Homo 4-mer - A4
+4JQW	Hetero 2-mer - AB	2NZ7	Homo 2-mer - A2	5NVG	Monomer
+4JWS	Hetero 2-mer - AB	4L4E	Monomer	1YJJ	Monomer
+4JWU	Hetero 2-mer - AB	4L4E	Monomer	1XLQ	Monomer
+4JX1	Hetero 2-mer - AB	4L4E	Monomer	1XLQ	Monomer
+4K5A	Hetero 2-mer - AB	1O0L	Monomer	4DUI	Monomer
+4KAX	Hetero 2-mer - AB	1E0S	Monomer	1U2B	Monomer
+4KBM	Hetero 2-mer - AB	4KBJ	Homo 2-mer - A2	4ILU	Homo 2-mer - A2
+4BGD	Hetero 2-mer - AB	3IM2	Monomer	2OG4	Monomer
+4BI8	Hetero 2-mer - AB	3ZFI	Homo 2-mer - A2	4BI3	Homo 2-mer - A2
+4BMO	Hetero 4-mer - A2B2	4BMU	Homo 2-mer - A2	2X2O	Monomer
+4BMP	Hetero 2-mer - AB	4BMU	Homo 2-mer - A2	2X2O	Monomer
+4BOZ	Hetero 2-mer - AB	4BOQ	Homo 2-mer - A2	5NVG	Monomer
+4BSR	Hetero 4-mer - A2B2	3QFK	Monomer	4BSP	Monomer
+4BSS	Hetero 4-mer - A2B2	3QFK	Monomer	4BSP	Monomer
+4BST	Hetero 4-mer - A2B2	3QFK	Monomer	4BSP	Monomer
+4BSU	Hetero 4-mer - A2B2	3QFK	Monomer	4BSP	Monomer
+4BV4	Hetero 3-mer - A2B	3E07	Homo 2-mer - A2	4ARR	Monomer
+4BWQ	Hetero 2-mer - AB	1QGV	Monomer	4CDO	Monomer
+4C02	Hetero 2-mer - AB	3Q4U	Homo 2-mer - A2	5HKG	Monomer
+4C0A	Hetero 2-mer - AB	3QWM	Homo 2-mer - A2	1U81	Monomer
+4C0O	Hetero 2-mer - AB	4C0P	Monomer	2O3D	Monomer
+4C0Q	Hetero 2-mer - AB	4C0P	Monomer	3RAN	Monomer
+4C2A	Hetero 2-mer - AB	4C29	Monomer	1P9A	Monomer
+4C2B	Hetero 2-mer - AB	4C29	Monomer	1P9A	Monomer
+4C4P	Hetero 2-mer - AB	5EZ5	Homo 2-mer - A2	2K6S	Homo 2-mer - A2
+4C99	Hetero 4-mer - A2B2	4C86	Homo 2-mer - A2	4C8V	Monomer
+4C9A	Hetero 4-mer - A2B2	4C86	Homo 2-mer - A2	4C8V	Monomer
+4C9E	Hetero 4-mer - A2B2	4C86	Homo 2-mer - A2	4C8V	Monomer
+4C9R	Hetero 4-mer - A2B2	4C8T	Homo 2-mer - A2	4C8V	Monomer
+4C9U	Hetero 4-mer - A2B2	4C8T	Homo 2-mer - A2	4C8V	Monomer
+4CI1	Hetero 2-mer - AB	3E0C	Monomer	4D0P	Monomer
+4CI2	Hetero 2-mer - AB	3E0C	Monomer	4D0P	Monomer
+4CI3	Hetero 2-mer - AB	3E0C	Monomer	4D0P	Monomer
+4CJ1	Hetero 2-mer - AB	1CLC	Monomer	1SAP	Monomer
+4CMM	Hetero 2-mer - AB	2JJV	Monomer	2VSC	Homo 2-mer - A2
+4CPA	Hetero 2-mer - AB	5CPA	Monomer	1H20	Monomer
+4CRW	Hetero 2-mer - AB	4GML	Monomer	4CT5	Monomer
+4CT4	Hetero 2-mer - AB	4GML	Monomer	4CT5	Monomer
+4CZX	Hetero 4-mer - A2B2	4CZV	Monomer	4BWX	Homo 2-mer - A2
+4CZY	Hetero 4-mer - A2B2	4CZV	Monomer	4BWK	Homo 2-mer - A2
+4D0L	Hetero 2-mer - AB	4WAE	Monomer	2F9L	Monomer
+4D0N	Hetero 2-mer - AB	1KMQ	Monomer	4D0O	Monomer
+4D8D	Hetero 2-mer - AB	1SHF	Homo 4-mer - A4	1AVV	Homo 2-mer - A2
+4DG4	Hetero 2-mer - AB	5TP0	Monomer	1BPI	Monomer
+4DGA	Hetero 2-mer - AB	5F66	Monomer	2PWO	Homo 2-mer - A2
+4DGE	Hetero 2-mer - AB	4DGD	Monomer	2PWO	Homo 2-mer - A2
+4DI3	Hetero 5-mer - A3B2	3U65	Monomer	3U64	Homo 3-mer - A3
+4DI4	Hetero 6-mer - A3B3	3U64	Homo 3-mer - A3	3U65	Monomer
+4DIN	Hetero 2-mer - AB	1RE8	Monomer	4MX3	Homo 2-mer - A2
+4DNR	Hetero 9-mer - A6B3	3OOC	Homo 2-mer - A2	3K07	Homo 3-mer - A3
+4DNT	Hetero 9-mer - A6B3	3OOC	Homo 2-mer - A2	3K07	Homo 3-mer - A3
+4DOP	Hetero 9-mer - A6B3	3OOC	Homo 2-mer - A2	3K07	Homo 3-mer - A3
+4DSS	Hetero 4-mer - A2B2	4DSQ	Homo 2-mer - A2	2FA4	Monomer
+4DWH	Hetero 2-mer - AB	1BF8	Monomer	2M5G	Monomer
+4DXA	Hetero 2-mer - AB	3X1X	Monomer	5D68	Monomer
+4E2I	Hetero 12-mer - A6B6	1N25	Homo 6-mer - A6	2KEB	Monomer
+4EBA	Hetero 3-mer - A2B	4E85	Homo 2-mer - A2	1E17	Monomer
+4EGC	Hetero 2-mer - AB	5TIB	Monomer	3GEB	Monomer
+4EHP	Hetero 2-mer - AB	1TR2	Monomer	4IGG	Homo 2-mer - A2
+4EMJ	Hetero 2-mer - AB	3EF6	Monomer	3DQY	Monomer
+4EOI	Hetero 2-mer - AB	4FKL	Monomer	1VIN	Monomer
+4EOJ	Hetero 2-mer - AB	3EZR	Monomer	1VIN	Monomer
+4EOK	Hetero 2-mer - AB	3EZR	Monomer	1VIN	Monomer
+4EOL	Hetero 2-mer - AB	3EZR	Monomer	1VIN	Monomer
+4EOM	Hetero 2-mer - AB	3EZR	Monomer	1VIN	Monomer
+4EON	Hetero 2-mer - AB	3EZR	Monomer	1VIN	Monomer
+4EOO	Hetero 2-mer - AB	4FKL	Monomer	1VIN	Monomer
+4EOP	Hetero 2-mer - AB	3EZR	Monomer	1VIN	Monomer
+4EOQ	Hetero 2-mer - AB	3EZR	Monomer	1VIN	Monomer
+4EOR	Hetero 2-mer - AB	1JVP	Monomer	1VIN	Monomer
+4EOS	Hetero 2-mer - AB	3EZR	Monomer	1VIN	Monomer
+4EOZ	Hetero 4-mer - A2B2	3HTM	Homo 2-mer - A2	2MYM	Monomer
+4ERM	Hetero 8-mer - A4B4	1RLR	Monomer	1MXR	Homo 2-mer - A2
+4ERP	Hetero 8-mer - A4B4	1RLR	Monomer	1MXR	Homo 2-mer - A2
+4ES4	Hetero 4-mer - A2B2	3TLQ	Monomer	1G8E	Homo 2-mer - A2
+4ETW	Hetero 2-mer - AB	4NMW	Monomer	1T8K	Monomer
+4EY8	Hetero 2-mer - AB	4M0E	Homo 2-mer - A2	1FSC	Homo 2-mer - A2
+4EZM	Hetero 4-mer - A2B2	3H9Y	Homo 2-mer - A2	4J6P	Monomer
+4F38	Hetero 2-mer - AB	5C4M	Monomer	1FST	Monomer
+4F48	Hetero 2-mer - AB	4F3H	Monomer	3CNR	Monomer
+4FAP	Hetero 2-mer - AB	2PPN	Monomer	1AUE	Monomer
+4FBJ	Hetero 2-mer - AB	3GQJ	Monomer	1NDD	Monomer
+4FBW	Hetero 2-mer - AB	4FCX	Homo 2-mer - A2	4FBQ	Homo 2-mer - A2
+4FHR	Monomer	2HP7	Monomer	3AJC	Monomer
+4FJV	Hetero 2-mer - AB	1TFF	Monomer	3NOB	Homo 2-mer - A2
+4FMB	Hetero 2-mer - AB	3EB8	Monomer	3NKV	Monomer
+4FOU	Hetero 2-mer - AB	4FOJ	Monomer	3CNR	Monomer
+4FX3	Hetero 2-mer - AB	1JVP	Monomer	1VIN	Monomer
+4FXE	Hetero 12-mer - A6B6	2K29	Homo 2-mer - A2	4FXI	Monomer
+4P2A	Hetero 2-mer - AB	2FAU	Monomer	3QE1	Homo 2-mer - A2
+4P2Y	Hetero 2-mer - AB	4LP5	Monomer	1K96	Homo 2-mer - A2
+4P4Q	Hetero 2-mer - AB	2EUT	Monomer	5KLU	Homo 2-mer - A2
+4P69	Hetero 4-mer - A2B2	3EPS	Monomer	1PB3	Homo 2-mer - A2
+4P6I	Hetero 6-mer - A4B2	4MAK	Homo 2-mer - A2	3NKD	Homo 2-mer - A2
+4PDC	Hetero 3-mer - A2B	1MPU	Homo 2-mer - A2	4FFE	Monomer
+4PGJ	Hetero 2-mer - AB	1OHQ	Homo 2-mer - A2	4LZT	Monomer
+4PJ2	Hetero 2-mer - AB	3OD9	Homo 2-mer - A2	3AYQ	Monomer
+4PKG	Hetero 2-mer - AB	2VYP	Monomer	3FFN	Monomer
+4PKH	Hetero 2-mer - AB	2VYP	Monomer	3FFN	Monomer
+4PKI	Hetero 2-mer - AB	2VYP	Monomer	3FFN	Monomer
+4PLN	Hetero 4-mer - A2B2	4PLM	Monomer	3P4L	Monomer
+4POU	Hetero 2-mer - AB	2E3W	Monomer	4POY	Monomer
+4PP8	Hetero 4-mer - A2B2	1HQ8	Homo 2-mer - A2	1JFM	Monomer
+4PQT	Monomer	4JXE	Monomer	5M93	Monomer
+4PW9	Hetero 2-mer - AB	4PW3	Homo 2-mer - A2	4PWA	Homo 4-mer - A4
+4Q4A	AB	4Q7K	Monomer	4Q7M	Monomer
+4Q57	Hetero 2-mer - AB	3B32	Monomer	1SH6	Monomer
+4Q58	Hetero 2-mer - AB	4Q59	Monomer	1QG3	Homo 2-mer - A2
+4QDL	Hetero 6-mer - A4B2	3NKD	Homo 2-mer - A2	4MAK	Homo 2-mer - A2
+4QKX	Hetero 2-mer - AB	3PDS	Monomer	1SJX	Monomer
+4QNH	Hetero 4-mer - A2B2	1KKD	Monomer	1PRW	Monomer
+4QPL	Hetero 2-mer - AB	2RSF	Monomer	1X23	Monomer
+4QRM	Hetero 2-mer - AB	2HP7	Monomer	1LKV	Monomer
+4QVE	Hetero 2-mer - AB	4PPI	Homo 6-mer - A6	2BID	Monomer
+4R40	Hetero 2-mer - AB	4PWZ	Monomer	4PWT	Monomer
+4RAL	Monomer	4GSF	Monomer	2X6L	Homo 10-mer - A10
+4RF0	Hetero 2-mer - AB	4RNA	Homo 2-mer - A2	5NVG	Monomer
+4RF1	Hetero 2-mer - AB	4RNA	Homo 2-mer - A2	5NVG	Monomer
+4RSU	Hetero 12-mer - A6B6	4EN0	Homo 3-mer - A3	4FHQ	Monomer
+4RT6	Hetero 2-mer - AB	4RM6	Monomer	1QJS	Monomer
+4RWS	Hetero 2-mer - AB	3OE9	Homo 2-mer - A2	1CM9	Homo 2-mer - A2
+4TPI	Hetero 2-mer - AB	1BTY	Monomer	1BPI	Monomer
+4TTH	Hetero 2-mer - AB	1BU2	Monomer	5L2S	Monomer
+4TU3	Hetero 2-mer - AB	3LWT	Monomer	2ZIH	Homo 4-mer - A4
+4TX3	Hetero 2-mer - AB	4TVF	Monomer	4TX2	Monomer
+4TXO	Hetero 2-mer - AB	1JFU	Monomer	4WBJ	Monomer
+4TYH	Hetero 2-mer - AB	3GOK	Homo 12-mer - A12	2GTN	Monomer
+4U30	Hetero 2-mer - AB	5TP0	Monomer	1BIK	Monomer
+4U39	Hetero 2-mer - AB	2RHJ	Homo 2-mer - A2	2MRW	Monomer
+4U5B	Hetero 6-mer - A4B2	4U1Y	Homo 4-mer - A4	4U5H	Homo 2-mer - A2
+4U5C	Hetero 6-mer - A4B2	4U1Y	Homo 4-mer - A4	4U5H	Homo 2-mer - A2
+4U5D	Hetero 6-mer - A4B2	4U1Y	Homo 4-mer - A4	4U5H	Homo 2-mer - A2
+4U5E	Hetero 6-mer - A4B2	4U1Y	Homo 4-mer - A4	4U5H	Homo 2-mer - A2
+4U5F	Hetero 6-mer - A4B2	4U1Y	Homo 4-mer - A4	4U5H	Homo 2-mer - A2
+4U7P	Hetero 2-mer - AB	3A1A	Monomer	2PV0	Monomer
+4UAF	Hetero 2-mer - AB	1IAL	Monomer	2GMO	Monomer
+4UEM	Hetero 2-mer - AB	3IHR	Homo 4-mer - A4	2MKZ	Monomer
+4UMO	Hetero 4-mer - A2B2	2CGQ	Monomer	1PRW	Monomer
+4UN2	Hetero 2-mer - AB	5NVG	Monomer	2BWB	Monomer
+4URT	Hetero 3-mer - A2B	4PLM	Monomer	2EDD	Monomer
+4URU	Hetero 2-mer - AB	3GFT	Monomer	2II0	Monomer
+4URV	Hetero 2-mer - AB	3GFT	Monomer	2II0	Monomer
+4URW	Hetero 2-mer - AB	3GFT	Monomer	2II0	Monomer
+4URX	Hetero 2-mer - AB	3GFT	Monomer	2II0	Monomer
+4URY	Hetero 2-mer - AB	3GFT	Monomer	2II0	Monomer
+4URZ	Hetero 2-mer - AB	3GFT	Monomer	2II0	Monomer
+4US0	Hetero 2-mer - AB	3GFT	Monomer	2II0	Monomer
+4US1	Hetero 2-mer - AB	3GFT	Monomer	2II0	Monomer
+4US2	Hetero 2-mer - AB	3GFT	Monomer	2II0	Monomer
+4UY2	Hetero 2-mer - AB	4UXU	Homo 2-mer - A2	1KFH	Monomer
+4KGG	Hetero 12-mer - A6B6	3MHD	Monomer	4KG8	Homo 3-mer - A3
+4KGQ	Hetero 12-mer - A6B6	3MHD	Monomer	4KG8	Homo 3-mer - A3
+4KI1	Hetero 4-mer - A2B2	3H9Y	Homo 2-mer - A2	4J6P	Monomer
+4KJY	Hetero 2-mer - AB	2VSC	Homo 2-mer - A2	2JJV	Monomer
+4KR0	Hetero 4-mer - A2B2	3VJM	Homo 2-mer - A2	4KQZ	Monomer
+4KSD	Hetero 2-mer - AB	4Q9H	Monomer	5DA4	Monomer
+4KSK	Hetero 2-mer - AB	4KSJ	Monomer	5M93	Monomer
+4KSL	Hetero 2-mer - AB	4KSJ	Monomer	4ZQS	Homo 2-mer - A2
+4KT1	Hetero 2-mer - AB	4QXE	Monomer	4BSP	Monomer
+4KTT	Hetero 6-mer - A4B2	2P02	Homo 2-mer - A2	2YDY	Monomer
+4KTV	Hetero 6-mer - A4B2	2P02	Homo 2-mer - A2	2YDY	Monomer
+4KUM	Hetero 2-mer - AB	2HKO	Monomer	4UMI	Homo 3-mer - A3
+4KVG	Hetero 2-mer - AB	3X1X	Monomer	3TCA	Monomer
+4KXK	Hetero 4-mer - A2B2	4I8A	Homo 2-mer - A2	2J9Q	Homo 2-mer - A2
+4KYI	Hetero 2-mer - AB	4AKF	Homo 2-mer - A2	1R2Q	Monomer
+4KYO	Hetero 4-mer - A2B2	4I8A	Homo 2-mer - A2	2J9Q	Homo 2-mer - A2
+4KYT	Hetero 2-mer - AB	3N5K	Monomer	1FJP	Monomer
+4L1B	Hetero 2-mer - AB	5DXT	Monomer	4YKN	Monomer
+4L23	Hetero 2-mer - AB	5DXT	Monomer	4YKN	Monomer
+4L2Y	Hetero 2-mer - AB	5DXT	Monomer	4YKN	Monomer
+4L41	Hetero 3-mer - A2B	3B0I	Monomer	2FY7	Monomer
+4L5N	Hetero 3-mer - A2B	1UDH	Monomer	2LE2	Homo 2-mer - A2
+4L72	Monomer	3EIO	Homo 2-mer - A2	4ZPW	Monomer
+4L79	Hetero 2-mer - AB	4TWE	Homo 2-mer - A2	1PRW	Monomer
+4LAD	Hetero 2-mer - AB	2KLY	Monomer	2LXH	Monomer
+4LDE	Hetero 2-mer - AB	3PDS	Monomer	1SJX	Monomer
+4LDL	Hetero 2-mer - AB	3PDS	Monomer	1SJX	Monomer
+4LDO	Hetero 2-mer - AB	3PDS	Monomer	1SJX	Monomer
+4LI2	Hetero 2-mer - AB	4LI1	Homo 2-mer - A2	4BSP	Monomer
+4LJO	Hetero 2-mer - AB	4LJQ	Monomer	5NVG	Monomer
+4LJP	Hetero 2-mer - AB	4LJQ	Monomer	5NVG	Monomer
+4LL1	Hetero 4-mer - A2B2	4GFX	Monomer	5DQY	Monomer
+4LL4	Hetero 4-mer - A2B2	4GFX	Monomer	5DQY	Monomer
+4LPZ	Hetero 4-mer - A2B2	2HV1	Homo 2-mer - A2	2K8X	Homo 2-mer - A2
+4LQW	Hetero 2-mer - AB	4I9Y	Monomer	4NX4	Monomer
+4LSX	Hetero 2-mer - AB	4LSA	Monomer	4LSC	Monomer
+4LV5	Hetero 2-mer - AB	3Q60	Monomer	5FPH	Homo 2-mer - A2
+4LV8	Hetero 2-mer - AB	3Q60	Monomer	5FPH	Homo 2-mer - A2
+4LWZ	Hetero 2-mer - AB	1YZK	Monomer	4P40	Monomer
+4LX0	Hetero 2-mer - AB	1YZK	Monomer	4P40	Monomer
+4LXR	Hetero 3-mer - A2B	4ARR	Monomer	3E07	Homo 2-mer - A2
+4LXS	Hetero 3-mer - A2B	4ARR	Monomer	3E07	Homo 2-mer - A2
+4LYL	Hetero 2-mer - AB	1OKB	Monomer	1UGI	Monomer
+4M0W	Hetero 2-mer - AB	3E9S	Monomer	5NVG	Monomer
+4M3K	Hetero 2-mer - AB	5GHX	Monomer	4M3J	Monomer
+4M4R	Hetero 2-mer - AB	4M4P	Monomer	1SHX	Monomer
+4M63	Hetero 5-mer - A3B2	3SEO	Homo 2-mer - A2	2VYP	Monomer
+4M76	Hetero 2-mer - AB	1C3D	Monomer	4XW2	Monomer
+4M8N	Hetero 4-mer - A2B2	4M8M	Homo 2-mer - A2	3X1X	Monomer
+4MCT	Hetero 4-mer - A2B2	1J8C	Monomer	4PX8	Monomer
+4MDK	Hetero 2-mer - AB	2OB4	Monomer	5M93	Monomer
+4ML7	Hetero 2-mer - AB	2NWD	Monomer	4MIS	Homo 2-mer - A2
+4MM3	Hetero 2-mer - AB	5NVG	Monomer	4OW0	Monomer
+4MNE	Hetero 4-mer - A2B2	3VVH	Monomer	4E26	Homo 2-mer - A2
+4MRT	Hetero 2-mer - AB	2MD9	Monomer	1QR0	Monomer
+4MSM	Hetero 2-mer - AB	4JXE	Monomer	5M93	Monomer
+4MSQ	Hetero 2-mer - AB	4JXE	Monomer	5M93	Monomer
+4MSV	Hetero 6-mer - A3B3	3MHD	Monomer	5L19	Monomer
+4MVI	Monomer	4IAW	Monomer	2M9S	Monomer
+4MVL	Monomer	4IAW	Monomer	2M9S	Monomer
+4MYW	Hetero 2-mer - AB	4MYV	Monomer	3U83	Homo 2-mer - A2
+4N6N	Hetero 2-mer - AB	4D3X	Monomer	4N6L	Monomer
+4N6O	Hetero 2-mer - AB	4D3X	Monomer	4N6L	Monomer
+4NB8	Hetero 6-mer - A3B3	1WW9	Homo 3-mer - A3	1VCK	Monomer
+4NB9	Hetero 6-mer - A3B3	1WW9	Homo 3-mer - A3	1VCK	Monomer
+4NBA	Hetero 6-mer - A3B3	1WW9	Homo 3-mer - A3	1VCK	Monomer
+4NBB	Hetero 6-mer - A3B3	1WW9	Homo 3-mer - A3	1VCK	Monomer
+4NBC	Hetero 6-mer - A3B3	1WW9	Homo 3-mer - A3	1VCK	Monomer
+4NBD	Hetero 5-mer - A3B2	1WW9	Homo 3-mer - A3	1VCK	Monomer
+4NBE	Hetero 5-mer - A3B2	1WW9	Homo 3-mer - A3	1VCK	Monomer
+4NBF	Hetero 6-mer - A3B3	1WW9	Homo 3-mer - A3	1VCK	Monomer
+4NBG	Hetero 6-mer - A3B3	1WW9	Homo 3-mer - A3	1VCK	Monomer
+4NBH	Hetero 6-mer - A3B3	1WW9	Homo 3-mer - A3	1VCK	Monomer
+4NDN	Hetero 6-mer - A4B2	5A1I	Homo 4-mer - A4	2YDY	Monomer
+4NEH	Hetero 2-mer - AB	1N3Y	Monomer	5E6W	Monomer
+4NEN	Hetero 2-mer - AB	1N3Y	Monomer	5E6W	Monomer
+4NF4	AB	1PB7	Monomer	2A5S	Monomer
+4NF5	AB	1PB7	Monomer	2A5S	Monomer
+4NF6	Hetero 2-mer - AB	1PB7	Monomer	2A5S	Monomer
+4NF8	AB	1PB7	Monomer	2A5S	Monomer
+4NFG	Hetero 2-mer - AB	1Z53	Monomer	3WUI	Homo 2-mer - A2
+4NH1	Hetero 4-mer - A2B2	3BQC	Monomer	2R6M	Homo 2-mer - A2
+4NIF	Hetero 4-mer - A2B2	2WNT	Homo 2-mer - A2	4QTA	Monomer
+4NIK	Hetero 2-mer - AB	1QYM	Monomer	2OMN	Homo 2-mer - A2
+4NIY	Hetero 2-mer - AB	4NIV	Monomer	1ECY	Homo 2-mer - A2
+4NKG	Hetero 2-mer - AB	4NKH	Homo 2-mer - A2	1URF	Monomer
+4NQK	Hetero 10-mer - A6B4	2LWD	Monomer	3NOB	Homo 2-mer - A2
+4NSO	Hetero 4-mer - A2B2	5ILA	Homo 8-mer - A8	4NSR	Homo 2-mer - A2
+4NUT	Hetero 2-mer - AB	1ZWZ	Monomer	2M3F	Monomer
+4NZW	Hetero 2-mer - AB	4KZG	Monomer	2XIK	Monomer
+4ODB	Hetero 6-mer - A3B3	4GU4	Homo 3-mer - A3	1NBQ	Homo 2-mer - A2
+4OFY	Hetero 2-mer - AB	4OF0	Monomer	4OFP	Monomer
+4OH8	Hetero 2-mer - AB	4NR2	Homo 2-mer - A2	2YMY	Homo 2-mer - A2
+4OL0	Hetero 2-mer - AB	5CIQ	Monomer	4C0P	Monomer
+4ONS	Hetero 2-mer - AB	4P9T	Monomer	4EVT	Monomer
+4ONT	Hetero 2-mer - AB	2BZM	Monomer	1C3D	Monomer
+4OVN	Hetero 2-mer - AB	1PRW	Monomer	2KAV	Monomer
+4OVU	Hetero 2-mer - AB	4C0T	Monomer	4YKN	Monomer
+4OVV	Hetero 2-mer - AB	4C0T	Monomer	4YKN	Monomer
+5AJJ	Hetero 4-mer - A2B2	2VTY	Homo 12-mer - A12	2BID	Monomer
+5AUN	Hetero 4-mer - A2B2	3A43	Monomer	3VX3	Homo 2-mer - A2
+5AUO	Hetero 4-mer - A2B2	3A43	Monomer	3VX3	Homo 2-mer - A2
+5AUP	Hetero 4-mer - A2B2	3A43	Monomer	3VX3	Homo 2-mer - A2
+5AYR	Hetero 2-mer - AB	3FCI	Monomer	2KCD	Monomer
+5AYS	Hetero 2-mer - AB	1UDH	Monomer	2KCD	Monomer
+5B1J	Hetero 3-mer - A2B	1OE1	Homo 3-mer - A3	3EF4	Monomer
+5B2G	Hetero 2-mer - AB	4EXM	Homo 2-mer - A2	2QUO	Monomer
+5B4P	Hetero 2-mer - AB	3RFS	Monomer	1KJS	Monomer
+5BNQ	Hetero 6-mer - A3B3	1IQA	Homo 3-mer - A3	3ME4	Homo 2-mer - A2
+5BQC	Hetero 4-mer - A2B2	5BPB	Monomer	5BQB	Homo 2-mer - A2
+5BRR	Hetero 2-mer - AB	4IC0	Monomer	1BDA	Monomer
+5BW7	Homo 2-mer - A2	4W4N	Homo 2-mer - A2	1E4J	Monomer
+5BXQ	Hetero 5-mer - A3B2	1GY6	Homo 2-mer - A2	5CIQ	Monomer
+5BXV	Hetero 2-mer - AB	4TPW	Monomer	2MX4	Monomer
+5BZ0	Hetero 2-mer - AB	4X2Z	Monomer	5NVG	Monomer
+5C2J	Hetero 2-mer - AB	3WPQ	Monomer	1AJE	Monomer
+5C46	Hetero 2-mer - AB	4WAE	Monomer	2F9L	Monomer
+5C4G	Hetero 2-mer - AB	2F9L	Monomer	4WAE	Monomer
+5C58	Hetero 2-mer - AB	2M5J	Monomer	1DK0	Monomer
+5C5B	AB	2Q13	Homo 2-mer - A2	4H8S	Homo 2-mer - A2
+5C67	Hetero 3-mer - A2B	5TP0	Monomer	1AAP	Homo 2-mer - A2
+5CBN	Hetero 2-mer - AB	1ANF	Monomer	5CBO	Monomer
+5CEC	Hetero 2-mer - AB	5CEB	Monomer	5CEA	Monomer
+5CED	Hetero 2-mer - AB	5CEB	Monomer	5CEA	Monomer
+5CHV	Hetero 2-mer - AB	5CHT	Monomer	5CHW	Monomer
+5CIB	Hetero 4-mer - A2B2	2EUT	Monomer	1YCC	Homo 2-mer - A2
+5CIC	Hetero 4-mer - A2B2	2EUT	Monomer	1YCC	Homo 2-mer - A2
+5CID	Hetero 4-mer - A2B2	2EUT	Monomer	1YCC	Homo 2-mer - A2
+5CIE	Hetero 4-mer - A2B2	2EUT	Monomer	1YCC	Homo 2-mer - A2
+5CIF	Hetero 2-mer - AB	2EUT	Monomer	5KLU	Homo 2-mer - A2
+5CIG	Hetero 2-mer - AB	2EUT	Monomer	1YCC	Homo 2-mer - A2
+5CIH	Hetero 2-mer - AB	2EUT	Monomer	5KLU	Homo 2-mer - A2
+5CKX	Hetero 8-mer - A4B4	5CKV	Homo 4-mer - A4	2VKL	Homo 2-mer - A2
+5CL1	Hetero 4-mer - A2B2	3D4G	Monomer	5CM4	Monomer
+5CMN	Hetero 2-mer - AB	5CMP	Monomer	5AFB	Homo 4-mer - A4
+5CNS	Hetero 8-mer - A4B4	1RLR	Monomer	1MXR	Homo 2-mer - A2
+5CNT	Hetero 8-mer - A4B4	1RLR	Monomer	1MXR	Homo 2-mer - A2
+5CNU	Hetero 8-mer - A4B4	1RLR	Monomer	1MXR	Homo 2-mer - A2
+5CNV	Hetero 8-mer - A4B4	1RLR	Monomer	1MXR	Homo 2-mer - A2
+5CSF	Homo 2-mer - A2	3CZT	Homo 2-mer - A2	3RNY	Monomer
+5CSI	Homo 2-mer - A2	3CZT	Homo 2-mer - A2	3RNY	Monomer
+5CSJ	Hetero 3-mer - A2B	3CZT	Homo 2-mer - A2	3RNY	Monomer
+5CSN	Homo 2-mer - A2	3CZT	Homo 2-mer - A2	3RNY	Monomer
+5CTR	Hetero 2-mer - AB	5JJX	Monomer	3JYU	Homo 2-mer - A2
+5CVM	Hetero 2-mer - AB	5K16	Monomer	2KX0	Monomer
+5CYI	Hetero 2-mer - AB	3EZR	Monomer	1VIN	Monomer
+5D3I	Hetero 2-mer - AB	3A7C	Monomer	5D3D	Monomer
+5D6D	Hetero 3-mer - A2B	5VH5	Homo 2-mer - A2	4Q7M	Monomer
+5DBO	Hetero 4-mer - A2B2	4ZEO	Monomer	4ZEM	Monomer
+5DC0	Hetero 2-mer - AB	1TTG	Monomer	2ECD	Monomer
+5DCA	Hetero 2-mer - AB	3IM2	Monomer	2OG4	Monomer
+5DI3	Hetero 2-mer - AB	4M9Q	Monomer	5DE3	Monomer
+5DMQ	Hetero 2-mer - AB	4MH8	Monomer	1DT9	Monomer
+5DMR	Hetero 2-mer - AB	3V1Q	Monomer	2KTV	Monomer
+5E0K	Hetero 4-mer - A2B2	1GEQ	Monomer	5IXJ	Homo 2-mer - A2
+5E5M	Hetero 2-mer - AB	5E56	Monomer	5E03	Homo 2-mer - A2
+5E95	Hetero 2-mer - AB	1TTG	Monomer	1XCM	Monomer
+5EB1	Hetero 2-mer - AB	5EB3	Homo 2-mer - A2	5EAZ	Homo 2-mer - A2
+5ECH	Hetero 3-mer - A2B	4EPL	Monomer	5ECS	Homo 2-mer - A2
+5ECI	Hetero 3-mer - A2B	4EPL	Monomer	5ECS	Homo 2-mer - A2
+5ECK	Hetero 3-mer - A2B	4EPL	Monomer	5ECS	Homo 2-mer - A2
+5ECL	Hetero 3-mer - A2B	4EPL	Monomer	5ECS	Homo 2-mer - A2
+5ECM	Hetero 3-mer - A2B	4EPL	Monomer	5ECS	Homo 2-mer - A2
+5ECN	Hetero 3-mer - A2B	4EPL	Monomer	5ECS	Homo 2-mer - A2
+5ECO	Hetero 3-mer - A2B	4EPL	Monomer	5ECS	Homo 2-mer - A2
+5ECP	Hetero 3-mer - A2B	4EPL	Monomer	5ECS	Homo 2-mer - A2
+5ECQ	Hetero 3-mer - A2B	4EPL	Monomer	5ECS	Homo 2-mer - A2
+5ECR	Hetero 3-mer - A2B	4EPL	Monomer	5ECS	Homo 2-mer - A2
+5EIN	Hetero 6-mer - A4B2	2OZP	Monomer	3WWL	Monomer
+5EIO	Hetero 6-mer - A4B2	2OZP	Monomer	3WWL	Monomer
+5EUQ	Hetero 2-mer - AB	2F9L	Monomer	4WAE	Monomer
+5EW5	Hetero 2-mer - AB	1FSJ	Monomer	1IMQ	Monomer
+5EWJ	Hetero 2-mer - AB	3QEK	Monomer	3JPW	Monomer
+5EWL	Hetero 2-mer - AB	3QEK	Monomer	3JPW	Monomer
+5EWM	Hetero 2-mer - AB	3QEK	Monomer	3JPW	Monomer
+5F4E	Hetero 2-mer - AB	5F4T	Monomer	5F4Q	Monomer
+5F84	Hetero 2-mer - AB	5F87	Monomer	1IXA	Monomer
+5F85	Hetero 2-mer - AB	5F87	Monomer	1IXA	Monomer
+5F86	Hetero 2-mer - AB	5F87	Monomer	1IXA	Monomer
+5FBL	Hetero 2-mer - AB	4WAE	Monomer	2F9L	Monomer
+5FBQ	Hetero 2-mer - AB	4WAE	Monomer	2F9L	Monomer
+5FBR	Hetero 2-mer - AB	4WAE	Monomer	2F9L	Monomer
+5FBV	Hetero 2-mer - AB	4WAE	Monomer	2F9L	Monomer
+5FBW	Hetero 2-mer - AB	4WAE	Monomer	2F9L	Monomer
+4V0C	Hetero 4-mer - A2B2	2CGQ	Monomer	1PRW	Monomer
+4V2C	Hetero 2-mer - AB	4V2D	Monomer	4V2B	Monomer
+4W4O	Hetero 3-mer - A2B	1FC1	Homo 2-mer - A2	3RJD	Monomer
+4WLQ	Hetero 2-mer - AB	3IHR	Homo 4-mer - A4	2KR0	Monomer
+4WMA	Hetero 2-mer - AB	4WLM	Monomer	1IXA	Monomer
+4WMB	Hetero 2-mer - AB	4WLM	Monomer	1IXA	Monomer
+4WMI	Hetero 2-mer - AB	4WLM	Monomer	1IXA	Monomer
+4WMK	Hetero 2-mer - AB	4WLM	Monomer	1IXA	Monomer
+4WN2	Hetero 2-mer - AB	4WLM	Monomer	1IXA	Monomer
+4WNH	Hetero 2-mer - AB	4WLM	Monomer	1IXA	Monomer
+4WP5	Hetero 2-mer - AB	4XM4	Monomer	4X2M	Monomer
+4WTZ	AB	4Y8A	Homo 2-mer - A2	4Y88	Monomer
+4WWI	Hetero 2-mer - AB	4NPD	Monomer	4L4J	Homo 2-mer - A2
+4WWY	Hetero 2-mer - AB	1TRN	Homo 2-mer - A2	1BPI	Monomer
+4WXV	Hetero 2-mer - AB	1TRN	Homo 2-mer - A2	1UUA	Monomer
+4WZ3	Hetero 2-mer - AB	1W4U	Monomer	4WZ0	Monomer
+4X33	Hetero 2-mer - AB	5AX2	Monomer	4D4Q	Monomer
+4X4M	Hetero 3-mer - A2B	4B7I	Homo 2-mer - A2	3RJD	Monomer
+4X57	Hetero 2-mer - AB	2ESK	Monomer	2JTD	Monomer
+4X6R	Hetero 2-mer - AB	4NTS	Monomer	1RL3	Monomer
+4X7C	Hetero 4-mer - A2B2	4X07	Homo 2-mer - A2	4B41	Monomer
+4X7D	Hetero 4-mer - A2B2	4X0C	Homo 2-mer - A2	4B41	Monomer
+4X7E	Hetero 4-mer - A2B2	5HZA	Homo 2-mer - A2	4B41	Monomer
+4XCG	Hetero 16-mer - A8B8	3KO1	Homo 18-mer - A18	3J1C	Homo 18-mer - A18
+4XCI	Hetero 16-mer - A8B8	3KO1	Homo 18-mer - A18	3J1C	Homo 18-mer - A18
+4XGA	Hetero 2-mer - AB	3Q7M	Monomer	4PK1	Monomer
+4XH9	Hetero 2-mer - AB	3EO2	Homo 2-mer - A2	1DPF	Monomer
+4XHU	Hetero 2-mer - AB	4R6E	Monomer	4XHT	Homo 2-mer - A2
+4XJK	Hetero 4-mer - A2B2	1MR8	Homo 2-mer - A2	5I8N	Homo 2-mer - A2
+4XKL	Hetero 2-mer - AB	5M93	Monomer	2MXP	Monomer
+4XL5	Hetero 2-mer - AB	4XOV	Monomer	3LTM	Homo 2-mer - A2
+4XOI	Hetero 2-mer - AB	1DPF	Monomer	4XH3	Monomer
+4XT2	Hetero 2-mer - AB	2HV1	Homo 2-mer - A2	1P97	Monomer
+4Y0Y	Hetero 2-mer - AB	4I8H	Monomer	1BPI	Monomer
+4Y0Z	Hetero 2-mer - AB	4I8H	Monomer	1BPI	Monomer
+4Y10	Hetero 2-mer - AB	4I8H	Monomer	1BPI	Monomer
+4Y11	Hetero 2-mer - AB	4I8H	Monomer	1BPI	Monomer
+4Y2O	Hetero 2-mer - AB	4NCD	Homo 2-mer - A2	4Y2L	Homo 3-mer - A3
+4Y5O	Hetero 2-mer - AB	4FQN	Homo 2-mer - A2	2C60	Monomer
+4Y7M	Hetero 2-mer - AB	4QGY	Monomer	4Y7L	Homo 2-mer - A2
+4Y7O	Hetero 2-mer - AB	4Y7L	Homo 2-mer - A2	3RX9	Monomer
+4Y97	Hetero 2-mer - AB	2KEB	Monomer	1N5G	Monomer
+4YBH	Hetero 4-mer - A2B2	4LP5	Monomer	1K96	Homo 2-mer - A2
+4YDY	Hetero 2-mer - AB	4YDW	Monomer	1ITM	Monomer
+4YEB	Hetero 2-mer - AB	4RML	Monomer	5CMP	Monomer
+4YFC	Hetero 2-mer - AB	4YH6	Homo 2-mer - A2	4YFG	Homo 2-mer - A2
+4YGB	Hetero 2-mer - AB	1GV9	Monomer	2VRG	Monomer
+4YGC	Hetero 2-mer - AB	1GV9	Monomer	2VRG	Monomer
+4YGD	Hetero 2-mer - AB	1GV9	Monomer	2VRG	Monomer
+4YGE	Hetero 2-mer - AB	1GV9	Monomer	2VRG	Monomer
+4YH7	Hetero 2-mer - AB	4YFG	Homo 2-mer - A2	4YH6	Homo 2-mer - A2
+4YN0	Hetero 2-mer - AB	3QO4	Monomer	3UMH	Monomer
+4YOC	Hetero 2-mer - AB	3SWR	Monomer	2YLM	Monomer
+4YON	Hetero 2-mer - AB	5D3Y	Monomer	2G0N	Monomer
+4Z94	Hetero 2-mer - AB	2VYP	Monomer	3FFN	Monomer
+4ZDW	Hetero 3-mer - A2B	4Z8Y	Monomer	2E7S	Homo 2-mer - A2
+4ZFR	Hetero 2-mer - AB	4JXE	Monomer	5M93	Monomer
+4ZFT	Hetero 2-mer - AB	4JXE	Monomer	5M93	Monomer
+4ZGY	Hetero 2-mer - AB	1D7K	Homo 2-mer - A2	1ZO0	Monomer
+4ZGZ	Hetero 2-mer - AB	3BTN	Monomer	1ZO0	Monomer
+4ZH1	Hetero 2-mer - AB	1C3D	Monomer	2BZM	Monomer
+4ZHY	Hetero 2-mer - AB	4ZHU	Monomer	4ZHW	Monomer
+4ZII	Hetero 4-mer - A2B2	4BD8	Homo 2-mer - A2	2BID	Monomer
+4ZJB	Hetero 3-mer - A2B	2GLL	Homo 6-mer - A6	5H9G	Monomer
+4ZK9	Hetero 2-mer - AB	4P5I	Homo 2-mer - A2	1DOK	Homo 2-mer - A2
+4ZKB	Hetero 2-mer - AB	4P5I	Homo 2-mer - A2	5COR	Homo 5-mer - A5
+4ZKC	Hetero 2-mer - AB	4P5I	Homo 2-mer - A2	1NCV	Homo 2-mer - A2
+4ZLK	Hetero 2-mer - AB	1W8J	Monomer	1PRW	Monomer
+4ZNC	Hetero 2-mer - AB	4ZMD	Monomer	4L4J	Homo 2-mer - A2
+4ZNE	Hetero 3-mer - A2B	3RJD	Monomer	3S7G	Homo 2-mer - A2
+4ZQK	Hetero 2-mer - AB	5J8O	Homo 2-mer - A2	2M2D	Monomer
+5AEK	Hetero 2-mer - AB	1TH0	Monomer	5GHD	Monomer
+5LRW	Hetero 2-mer - AB	5LRU	Monomer	5NVG	Monomer
+5LTW	Hetero 4-mer - A2B2	4HRU	Homo 4-mer - A4	4JUT	Homo 4-mer - A4
+5LXQ	Hetero 2-mer - AB	1ZCL	Homo 3-mer - A3	4IYS	Homo 2-mer - A2
+5M52	Hetero 2-mer - AB	3IM2	Monomer	2OG4	Monomer
+5M5P	Hetero 2-mer - AB	3IM2	Monomer	2OG4	Monomer
+5M6U	Hetero 2-mer - AB	5IS5	Monomer	4YKN	Monomer
+5MMZ	Hetero 4-mer - A2B2	4IYS	Homo 2-mer - A2	1XM2	Homo 3-mer - A3
+5MPO	Hetero 4-mer - A2B2	4HL9	Homo 2-mer - A2	4AP8	Homo 2-mer - A2
+5MS2	Hetero 2-mer - AB	5CQC	Monomer	3VTU	Monomer
+5MTJ	Hetero 2-mer - AB	2YT6	Monomer	1FNA	Monomer
+5N2W	Hetero 2-mer - AB	5C1Z	Monomer	5NVG	Monomer
+5N38	Hetero 2-mer - AB	5C1Z	Monomer	5NVG	Monomer
+5NEV	Hetero 2-mer - AB	3EZR	Monomer	1VIN	Monomer
+5NLB	Hetero 4-mer - A2B2	5DAF	Homo 2-mer - A2	2MYM	Monomer
+5SV3	Hetero 2-mer - AB	5SV4	Monomer	3MK9	Monomer
+5SW8	Hetero 2-mer - AB	4C0T	Monomer	4YKN	Monomer
+5SWG	Hetero 2-mer - AB	4C0T	Monomer	4YKN	Monomer
+5SWO	Hetero 2-mer - AB	4C0T	Monomer	4YKN	Monomer
+5SWP	Hetero 2-mer - AB	4C0T	Monomer	4YKN	Monomer
+5SWR	Hetero 2-mer - AB	4C0T	Monomer	4YKN	Monomer
+5SWT	Hetero 2-mer - AB	4C0T	Monomer	4YKN	Monomer
+5SX8	Hetero 2-mer - AB	4C0T	Monomer	4YKN	Monomer
+5SX9	Hetero 2-mer - AB	4C0T	Monomer	4YKN	Monomer
+5SXA	Hetero 2-mer - AB	4C0T	Monomer	4YKN	Monomer
+5SXB	Hetero 2-mer - AB	4C0T	Monomer	4YKN	Monomer
+5SXC	Hetero 2-mer - AB	4C0T	Monomer	4YKN	Monomer
+5SXD	Hetero 2-mer - AB	4C0T	Monomer	4YKN	Monomer
+5SXE	Hetero 2-mer - AB	4C0T	Monomer	4YKN	Monomer
+5SXF	Hetero 2-mer - AB	4C0T	Monomer	4YKN	Monomer
+5SXI	Hetero 2-mer - AB	4C0T	Monomer	4YKN	Monomer
+5SXJ	Hetero 2-mer - AB	4C0T	Monomer	4YKN	Monomer
+5SXK	Hetero 2-mer - AB	4C0T	Monomer	4YKN	Monomer
+5T89	Hetero 4-mer - A2B2	4KZN	Homo 2-mer - A2	1QSZ	Monomer
+5TAR	Hetero 2-mer - AB	3GFT	Monomer	5ML3	Monomer
+5TB5	Hetero 2-mer - AB	3GFT	Monomer	5NAL	Monomer
+5TBM	AB	1P97	Monomer	2HV1	Homo 2-mer - A2
+5TOJ	Hetero 6-mer - A3B3	5EA4	Homo 3-mer - A3	5TP3	Monomer
+5TOK	Hetero 6-mer - A3B3	5EA4	Homo 3-mer - A3	5TP3	Monomer
+5TP9	AB	2A5S	Monomer	1PB7	Monomer
+5TPA	AB	2A5S	Monomer	1PB7	Monomer
+5TX4	Monomer	4XJJ	Monomer	5TX6	Monomer
+5UBT	Hetero 2-mer - AB	5IS5	Monomer	4YKN	Monomer
+5UFP	AB	1P97	Monomer	2HV1	Homo 2-mer - A2
+5X4L	Hetero 2-mer - AB	3QQ7	Monomer	5X3P	Monomer
+5FI0	Hetero 2-mer - AB	5D3Y	Monomer	2C2H	Monomer
+5FI1	Hetero 2-mer - AB	5D3Y	Monomer	1AJE	Monomer
+5FMJ	Hetero 4-mer - A2B2	4TUH	Homo 2-mer - A2	5KTG	Homo 4-mer - A4
+5FMK	Hetero 4-mer - A2B2	4TUH	Homo 2-mer - A2	2JCN	Monomer
+5FR1	Hetero 2-mer - AB	5C4M	Monomer	1FST	Monomer
+5FR2	Hetero 2-mer - AB	5C4M	Monomer	1FST	Monomer
+5FT8	Hetero 4-mer - A2B2	4LW2	Homo 2-mer - A2	1NI7	Monomer
+5FV1	Hetero 4-mer - A2B2	2BX5	Monomer	4KZN	Homo 2-mer - A2
+5FV2	Hetero 4-mer - A2B2	1T2J	Monomer	4KZN	Homo 2-mer - A2
+5GQQ	Hetero 4-mer - A2B2	3R8J	Monomer	5JJG	Homo 2-mer - A2
+5GXG	Hetero 2-mer - AB	4L4E	Monomer	1YJJ	Monomer
+5GZZ	Hetero 3-mer - A2B	4EPL	Monomer	1M9A	Homo 2-mer - A2
+5H5J	Hetero 2-mer - AB	5H59	Monomer	5H57	Monomer
+5H8H	AB	2A5S	Monomer	1PB7	Monomer
+5H8N	Hetero 2-mer - AB	2A5S	Monomer	1PB7	Monomer
+5H8O	Hetero 2-mer - AB	5H8D	Monomer	2KN6	Monomer
+5H8Q	AB	2A5S	Monomer	1PB7	Monomer
+5HGG	Hetero 4-mer - A2B2	4FUH	Monomer	5HDO	Monomer
+5HHC	Homo 2-mer - A2	3QTK	Homo 2-mer - A2	1MHX	Monomer
+5HK5	Hetero 4-mer - A2B2	4JPH	Homo 2-mer - A2	2BHK	Homo 2-mer - A2
+5HPY	Hetero 2-mer - AB	5C5S	Monomer	1KMQ	Monomer
+5HQP	Hetero 4-mer - A2B2	3TKR	Homo 10-mer - A10	2R2J	Monomer
+5HVF	Hetero 2-mer - AB	4P10	Monomer	1SJX	Monomer
+5HVG	Hetero 2-mer - AB	4P10	Monomer	1SJX	Monomer
+5HZK	Hetero 2-mer - AB	1AN0	Homo 2-mer - A2	5HZJ	Monomer
+5I2K	AB	2A5S	Monomer	1PB7	Monomer
+5I2N	AB	2A5S	Monomer	1PB7	Monomer
+5I56	AB	1PB7	Monomer	4JWX	Monomer
+5I57	AB	1PB7	Monomer	4JWX	Monomer
+5I58	AB	1PB7	Monomer	4JWX	Monomer
+5I59	AB	1PB7	Monomer	4JWX	Monomer
+5IAA	Hetero 4-mer - A2B2	3H8V	Homo 2-mer - A2	5IA7	Monomer
+5IMT	Hetero 4-mer - A2B2	1S3R	Monomer	1CDS	Monomer
+5INA	Hetero 3-mer - A2B	5IOG	Homo 2-mer - A2	2K0D	Monomer
+5IUJ	Hetero 3-mer - A2B	3GIE	Homo 2-mer - A2	4LE1	Monomer
+5IUK	Hetero 3-mer - A2B	3GIE	Homo 2-mer - A2	4LE1	Monomer
+5IUL	Hetero 3-mer - A2B	3GIE	Homo 2-mer - A2	4LE1	Monomer
+5IUN	Hetero 4-mer - A2B2	5IUM	Homo 2-mer - A2	4LE1	Monomer
+5IUS	Hetero 2-mer - AB	3RRQ	Monomer	4Z18	Homo 2-mer - A2
+5IWL	Hetero 4-mer - A2B2	3WBD	Monomer	2VSC	Homo 2-mer - A2
+5J03	Hetero 2-mer - AB	2CGQ	Monomer	1PRW	Monomer
+5J26	Hetero 2-mer - AB	5NVG	Monomer	1XNI	Monomer
+5J4Q	Hetero 2-mer - AB	2CGA	Homo 2-mer - A2	2BBI	Monomer
+5J4S	Hetero 2-mer - AB	2CGA	Homo 2-mer - A2	2BBI	Monomer
+5JA2	Hetero 2-mer - AB	5T3D	Monomer	2PST	Monomer
+5JCZ	Hetero 2-mer - AB	1YZK	Monomer	4LLI	Monomer
+5JEJ	Hetero 3-mer - A2B	4F9G	Homo 2-mer - A2	3A77	Monomer
+5JEN	Hetero 2-mer - AB	4UX7	Homo 2-mer - A2	4LZT	Monomer
+5JI2	Homo 2-mer - A2	1NED	Homo 12-mer - A12	1G41	Homo 6-mer - A6
+5JI3	Hetero 18-mer - A12B6	4G4E	Homo 12-mer - A12	1DO0	Homo 6-mer - A6
+5JJE	Hetero 4-mer - A2B2	2KSY	Monomer	2RM8	Monomer
+5JJF	Hetero 4-mer - A2B2	2KSY	Monomer	2RM8	Monomer
+5JJJ	Hetero 4-mer - A2B2	2KSY	Monomer	2RM8	Monomer
+5JJN	Hetero 4-mer - A2B2	2KSY	Monomer	2RM8	Monomer
+5JJW	Hetero 2-mer - AB	5JJX	Monomer	3PV1	Homo 2-mer - A2
+5JKC	Hetero 2-mer - AB	5JK9	Monomer	5JKA	Monomer
+5JKD	Hetero 2-mer - AB	5JK9	Monomer	5JKA	Monomer
+5JKE	Hetero 2-mer - AB	5JK9	Monomer	5JKA	Monomer
+5JMV	Hetero 6-mer - A4B2	3EN9	Monomer	3ENC	Homo 2-mer - A2
+5JP3	Hetero 2-mer - AB	2OIV	Monomer	5NVG	Monomer
+5JQH	Hetero 2-mer - AB	3PDS	Monomer	1SJX	Monomer
+5JQS	Hetero 2-mer - AB	5JKN	Monomer	5NVG	Monomer
+5JR7	Hetero 2-mer - AB	1RE8	Monomer	1NE6	Monomer
+5JTJ	Hetero 2-mer - AB	4M5X	Monomer	5NVG	Monomer
+5JTV	Hetero 2-mer - AB	2YLM	Monomer	5NVG	Monomer
+5JTY	AB	1PB7	Monomer	4JWX	Monomer
+5JWO	Hetero 2-mer - AB	4O0M	Homo 6-mer - A6	4KSO	Homo 4-mer - A4
+5JWQ	Hetero 12-mer - A6B6	4O0M	Homo 6-mer - A6	4KSO	Homo 4-mer - A4
+5JYL	Hetero 2-mer - AB	4ZMT	Homo 2-mer - A2	3ESV	Monomer
+5K1A	Hetero 2-mer - AB	5K16	Monomer	5CVL	Monomer
+5K1B	Hetero 2-mer - AB	5CVL	Monomer	5K16	Monomer
+5K33	Hetero 4-mer - A2B2	5JIH	Homo 2-mer - A2	2A91	Monomer
+5KCJ	AB	2A5S	Monomer	1PB7	Monomer
+5KDT	AB	2A5S	Monomer	1PB7	Monomer
+5KHO	Hetero 4-mer - A2B2	5KHQ	Homo 2-mer - A2	3X1X	Monomer
+5KNH	Hetero 2-mer - AB	5KNG	Monomer	1GA3	Monomer
+5KOV	Hetero 4-mer - A2B2	5KOU	Homo 2-mer - A2	3ESV	Monomer
+5KWG	Hetero 4-mer - A2B2	2A91	Monomer	5JIK	Homo 2-mer - A2
+5KWY	Hetero 4-mer - A2B2	5HNS	Monomer	1NEP	Monomer
+5L36	Hetero 6-mer - A3B3	3MHD	Monomer	5L19	Monomer
+5L6W	Hetero 2-mer - AB	3S95	Monomer	1Q8X	Monomer
+5L8J	Hetero 2-mer - AB	4CEG	Monomer	2COQ	Monomer
+5L8K	Hetero 2-mer - AB	4CEG	Monomer	2COQ	Monomer
+5L8L	Hetero 2-mer - AB	4CEG	Monomer	2COQ	Monomer
+5L95	Hetero 4-mer - A2B2	3H8V	Homo 2-mer - A2	5IA7	Monomer
+5LGK	Hetero 3-mer - A2B	2WQR	Homo 2-mer - A2	4J6P	Monomer
+5EG3	Hetero 2-mer - AB	3CLY	Homo 2-mer - A2	4K44	Monomer
+4WM0	Hetero 2-mer - AB	4WLM	Monomer	1IXA	Monomer
+1DZB	Hetero 2-mer - AB	1MOE	Homo 2-mer - A2	1JSE	Monomer
+1EAW	Hetero 2-mer - AB	1EAX	Monomer	1BPI	Monomer
+1EFN	Hetero 4-mer - A2B2	1SHF	Homo 4-mer - A4	1AVV	Homo 2-mer - A2
+2ILN	Hetero 3-mer - A2B	4I8H	Monomer	1MVZ	Monomer
+2IO1	Hetero 2-mer - AB	1TH0	Monomer	2AWT	Monomer
+3T62	Hetero 2-mer - AB	2CGA	Homo 2-mer - A2	1SHP	Monomer
+1TZN	Hetero 14-mer - A7B7	1TZO	Homo 7-mer - A7	1SHT	Monomer
+1ZUD	Hetero 4-mer - A2B2	1ZFN	Homo 2-mer - A2	1F0Z	Monomer
+3PXG	Hetero 12-mer - A6B6	3JTP	Monomer	5HBN	Monomer
+1G7M	Hetero 3-mer - ABC	1VFB	Hetero 3-mer - ABC	4LZT	Monomer
+1QFU	Hetero 12-mer - A3B3C3D3	4HMG	Hetero 6-mer - A3B3	4OKV	Hetero 3-mer - ABC
+1QFW	Hetero 6-mer - ABCDEF	1QFW	Hetero 6-mer - ABCDEF	1HRP	Hetero 2-mer - AB
+1R3I	Hetero 12-mer - A4B4C4	5J9P	Hetero 12-mer - A4B4C4	2QTO	Homo 4-mer - A4
+1R3J	Hetero 12-mer - A4B4C4	5J9P	Hetero 12-mer - A4B4C4	2QTO	Homo 4-mer - A4
+1R3K	Hetero 12-mer - A4B4C4	5J9P	Hetero 12-mer - A4B4C4	2QTO	Homo 4-mer - A4
+1R3L	Hetero 12-mer - A4B4C4	5J9P	Hetero 12-mer - A4B4C4	2QTO	Homo 4-mer - A4
+1RZJ	Hetero 4-mer - ABCD	1RZ8	Hetero 2-mer - AB	1G9M	Hetero 4-mer - ABCD
+1RZK	Hetero 4-mer - ABCD	1RZ8	Hetero 2-mer - AB	5A8H	Hetero 18-mer - A6B6C3D3
+1S78	Hetero 3-mer - ABC	1L7I	Hetero 2-mer - AB	1N8Y	Monomer
+1TET	Hetero 2-mer - AB	1ZEA	Hetero 2-mer - AB	2XRS	Homo 5-mer - A5
+1TPX	Hetero 3-mer - ABC	1TPX	Hetero 3-mer - ABC	1Y2S	Monomer
+1TQB	Hetero 3-mer - ABC	1TQB	Hetero 3-mer - ABC	2N53	Monomer
+1TQC	Hetero 3-mer - ABC	1TQC	Hetero 3-mer - ABC	1XYU	Monomer
+1TZH	Hetero 6-mer - A2B2C2	2HFG	Hetero 3-mer - ABC	3QTK	Homo 2-mer - A2
+1TZI	Hetero 6-mer - A2B2C2	2FJF	Hetero 2-mer - AB	3QTK	Homo 2-mer - A2
+1UA6	Hetero 3-mer - ABC	1UAC	Hetero 3-mer - ABC	4LZT	Monomer
+1UAC	Hetero 3-mer - ABC	1UA6	Hetero 3-mer - ABC	1JSE	Monomer
+1UJ3	Hetero 3-mer - ABC	1UJ3	Hetero 3-mer - ABC	2HFT	Homo 2-mer - A2
+1VFB	Hetero 3-mer - ABC	1KIR	Hetero 3-mer - ABC	4LZT	Monomer
+1MHP	Hetero 3-mer - ABC	4K7P	Hetero 4-mer - ABCD	1QCY	Monomer
+1MLC	Hetero 3-mer - ABC	1MLB	Hetero 2-mer - AB	4LZT	Monomer
+1N8Z	Hetero 3-mer - ABC	4UB0	Hetero 2-mer - AB	1N8Y	Monomer
+1NAK	Hetero 2-mer - AB	1NAK	Hetero 2-mer - AB	1NJ0	
+1NBY	Hetero 3-mer - ABC	1NBZ	Hetero 3-mer - ABC	4LZT	Monomer
+1NBZ	Hetero 3-mer - ABC	1NBY	Hetero 3-mer - ABC	4LZT	Monomer
+1NCA	Hetero 12-mer - A4B4C4	1NCA	Hetero 12-mer - A4B4C4	4DGR	Homo 4-mer - A4
+1NCB	Hetero 12-mer - A4B4C4	1IAI	Hetero 8-mer - A4B4	4DGR	Homo 4-mer - A4
+1NCC	Hetero 12-mer - A4B4C4	1NCC	Hetero 12-mer - A4B4C4	4DGR	Homo 4-mer - A4
+1NCD	Hetero 12-mer - A4B4C4	1IAI	Hetero 8-mer - A4B4	4DGR	Homo 4-mer - A4
+1NDG	Hetero 3-mer - ABC	1NDM	Hetero 3-mer - ABC	4LZT	Monomer
+1NDM	Hetero 3-mer - ABC	1NBZ	Hetero 3-mer - ABC	4LZT	Monomer
+1NL0	Hetero 3-mer - ABC	3D69	Hetero 2-mer - AB	1MGX	Monomer
+1NMA	Hetero 12-mer - A4B4C4	1NMA	Hetero 12-mer - A4B4C4	2B8H	Homo 4-mer - A4
+1NMB	Hetero 3-mer - ABC	1NMB	Hetero 3-mer - ABC	4DGR	Homo 4-mer - A4
+1NMC	Hetero 6-mer - A2B2C2	1NMC	Hetero 6-mer - A2B2C2	1F8E	Homo 4-mer - A4
+1NSN	Hetero 3-mer - ABC	32C2	Hetero 2-mer - AB	2SNS	Monomer
+1OAK	Hetero 3-mer - ABC	1FNS	Hetero 3-mer - ABC	1IJB	Monomer
+1OAZ	Hetero 3-mer - ABC	1OAU	Hetero 2-mer - AB	3DYR	Monomer
+1OB1	Hetero 3-mer - ABC	1OB1	Hetero 3-mer - ABC	1CEJ	Monomer
+1OSP	Hetero 3-mer - ABC	1OSP	Hetero 3-mer - ABC	2I5V	Monomer
+1P2C	Hetero 3-mer - ABC	2Q76	Hetero 2-mer - AB	4LZT	Monomer
+1PG7	Hetero 4-mer - ABCD	1JPT	Hetero 2-mer - AB	1PG7	Hetero 4-mer - ABCD
+1PKQ	Hetero 3-mer - ABC	4M7K	Hetero 2-mer - AB	1PKO	Monomer
+1Q1J	Hetero 4-mer - A2B2	4M1D	Hetero 2-mer - AB	1NJ0	
+2BDN	Hetero 6-mer - A4B2	2BDN	Hetero 6-mer - A4B2	3IFD	Homo 2-mer - A2
+2BOB	Hetero 12-mer - A4B4C4	5J9P	Hetero 12-mer - A4B4C4	2QTO	Homo 4-mer - A4
+2BOC	Hetero 12-mer - A4B4C4	5J9P	Hetero 12-mer - A4B4C4	2QTO	Homo 4-mer - A4
+2CMR	Hetero 3-mer - ABC	4KQ3	Hetero 2-mer - AB	2MK3	Monomer
+2DD8	Hetero 3-mer - ABC	2G75	Homo 4-mer - A4	2GHV	Homo 2-mer - A2
+2DQC	Hetero 3-mer - ABC	3A6C	Hetero 3-mer - ABC	4LZT	Monomer
+2DQD	Hetero 3-mer - ABC	3A6C	Hetero 3-mer - ABC	4LZT	Monomer
+2DQE	Hetero 3-mer - ABC	2DQG	Hetero 3-mer - ABC	4LZT	Monomer
+2DQF	Hetero 3-mer - ABC	2DQE	Hetero 3-mer - ABC	4LZT	Monomer
+2DQG	Hetero 3-mer - ABC	3A6C	Hetero 3-mer - ABC	4LZT	Monomer
+2DQH	Hetero 3-mer - ABC	3A6C	Hetero 3-mer - ABC	4LZT	Monomer
+2DQI	Hetero 3-mer - ABC	3A6C	Hetero 3-mer - ABC	4LZT	Monomer
+2DQJ	Hetero 3-mer - ABC	3A6C	Hetero 3-mer - ABC	4LZT	Monomer
+2DWD	Hetero 12-mer - A4B4C4	5J9P	Hetero 12-mer - A4B4C4	2QTO	Homo 4-mer - A4
+2DWE	Hetero 12-mer - A4B4C4	5J9P	Hetero 12-mer - A4B4C4	2QTO	Homo 4-mer - A4
+2EIZ	Hetero 3-mer - ABC	2YSS	Hetero 3-mer - ABC	4LZT	Monomer
+2EKS	Hetero 3-mer - ABC	2EIZ	Hetero 3-mer - ABC	4LZT	Monomer
+2FD6	Hetero 4-mer - ABCD	2I9B	Hetero 2-mer - AB	2FAT	Hetero 2-mer - AB
+2FJG	Hetero 6-mer - A2B2C2	2FJF	Hetero 2-mer - AB	3QTK	Homo 2-mer - A2
+2FJH	Hetero 6-mer - A2B2C2	3P11	Hetero 3-mer - ABC	3QTK	Homo 2-mer - A2
+1WEJ	Hetero 3-mer - ABC	1QBM	AB	3O1Y	Monomer
+1XCQ	Hetero 4-mer - ABCD	1YMH	Hetero 3-mer - ABC	1XCQ	Hetero 4-mer - ABCD
+1XCT	Hetero 4-mer - ABCD	1YMH	Hetero 3-mer - ABC	1XCT	Hetero 4-mer - ABCD
+1XF5	Hetero 3-mer - ABC	1YMH	Hetero 3-mer - ABC	1XF5	Hetero 3-mer - ABC
+1XGP	Hetero 3-mer - ABC	1XGQ	Hetero 3-mer - ABC	4LZT	Monomer
+1XGQ	Hetero 3-mer - ABC	1XGT	Hetero 3-mer - ABC	4LZT	Monomer
+1XGR	Hetero 3-mer - ABC	1XGQ	Hetero 3-mer - ABC	4LZT	Monomer
+1XGT	Hetero 3-mer - ABC	1XGQ	Hetero 3-mer - ABC	4LZT	Monomer
+1XGU	Hetero 3-mer - ABC	1NBZ	Hetero 3-mer - ABC	4LZT	Monomer
+1YQV	Hetero 3-mer - ABC	1BQL	Hetero 3-mer - ABC	4LZT	Monomer
+1Z3G	Hetero 3-mer - ABC	3S62	AB	1Z1Y	Homo 2-mer - A2
+1ZTX	Hetero 3-mer - ABC	1ZTX	Hetero 3-mer - ABC	1S6N	Monomer
+1ZWI	Hetero 3-mer - ABC	5J9P	Hetero 12-mer - A4B4C4	2QTO	Homo 4-mer - A4
+2ADF	Hetero 3-mer - ABC	2ADF	Hetero 3-mer - ABC	1ATZ	Monomer
+2AEP	Hetero 12-mer - A4B4C4	2AEP	Hetero 12-mer - A4B4C4	4GZT	Homo 4-mer - A4
+2AEQ	Hetero 12-mer - A4B4C4	2AEQ	Hetero 12-mer - A4B4C4	4GZT	Homo 4-mer - A4
+2ATK	Hetero 3-mer - ABC	5J9P	Hetero 12-mer - A4B4C4	2QTO	Homo 4-mer - A4
+2B0S	Hetero 2-mer - AB	2B1H	Hetero 2-mer - AB	2ESZ	
+2B1A	Hetero 2-mer - AB	2B1H	Hetero 2-mer - AB	2ESZ	
+2B2X	Hetero 3-mer - ABC	3EOT	Hetero 2-mer - AB	1PT6	Monomer
+2B4C	Hetero 4-mer - ABCD	1RHH	Hetero 2-mer - AB	2QAD	Hetero 4-mer - ABCD
+1YYL	Hetero 4-mer - ABCD	1RZ8	Hetero 2-mer - AB	4LAJ	Hetero 3-mer - ABC
+1YYM	Hetero 4-mer - ABCD	1RZ8	Hetero 2-mer - AB	4LAJ	Hetero 3-mer - ABC
+2I5Y	Hetero 4-mer - ABCD	1RZ8	Hetero 2-mer - AB	4LAJ	Hetero 3-mer - ABC
+2I60	Hetero 4-mer - ABCD	1RZ8	Hetero 2-mer - AB	4LAJ	Hetero 3-mer - ABC
+3VE0	Hetero 4-mer - ABCD	5HJ3	Hetero 12-mer - A3B3C3D3	3VE0	Hetero 4-mer - ABCD
+4HG4	Hetero 12-mer - A3B3C3D3	4HLZ	Hetero 12-mer - A3B3C3D3	5I15	Hetero 2-mer - AB
+4FFY	Hetero 3-mer - ABC	3J8D	Hetero 420-mer - A180B120C120	3IRC	Monomer
+4R4N	Hetero 4-mer - ABCD	4R4B	Hetero 2-mer - AB	4LAJ	Hetero 3-mer - ABC
+4FQR	Hetero 12-mer - A3B3C3D3	5T6N	Hetero 6-mer - A3B3	4FNL	Hetero 2-mer - AB
+2Q8A	Hetero 3-mer - ABC	2Q8A	Hetero 3-mer - ABC	1Z40	Homo 2-mer - A2
+2Q8B	Hetero 3-mer - ABC	2Q8B	Hetero 3-mer - ABC	1Z40	Homo 2-mer - A2
+2QAD	Hetero 4-mer - ABCD	1RZG	AB	5A7X	Hetero 18-mer - A6B6C3D3
+2QQK	Hetero 6-mer - A2B2C2	2HFF	Hetero 2-mer - AB	2QQO	Monomer
+2QQL	Hetero 6-mer - A2B2C2	2HFF	Hetero 2-mer - AB	2QQO	Monomer
+2QQN	Hetero 3-mer - ABC	4ZFF	Hetero 6-mer - A2B2C2	5JGQ	Monomer
+2QR0	Hetero 6-mer - A2B2C2	4HKZ	Hetero 4-mer - ABCD	1MKK	Homo 2-mer - A2
+2R0K	Hetero 3-mer - ABC	1JPT	Hetero 2-mer - AB	1YBW	Monomer
+2R0L	Hetero 3-mer - ABC	1N8Z	Hetero 3-mer - ABC	3K2U	Hetero 3-mer - ABC
+2R4R	Hetero 3-mer - ABC	2R4R	Hetero 3-mer - ABC	3PDS	Monomer
+2R4S	Hetero 3-mer - ABC	2R4S	Hetero 3-mer - ABC	3PDS	Monomer
+2R56	Hetero 6-mer - A2B2C2	2R56	Hetero 6-mer - A2B2C2	4GNY	Homo 2-mer - A2
+2R9H	Hetero 6-mer - A2B2C2	2R9H	Hetero 6-mer - A2B2C2	3NMO	Monomer
+2UZI	Hetero 3-mer - ABC	2VH5	Hetero 3-mer - ABC	1CTQ	Monomer
+2VC2	Hetero 4-mer - ABCD	2VDR	Hetero 4-mer - ABCD	2VC2	Hetero 4-mer - ABCD
+2VDK	Hetero 4-mer - ABCD	2VDR	Hetero 4-mer - ABCD	2VDK	Hetero 4-mer - ABCD
+2VDL	Hetero 4-mer - ABCD	2VDR	Hetero 4-mer - ABCD	2VDL	Hetero 4-mer - ABCD
+2VDM	Hetero 4-mer - ABCD	2VDR	Hetero 4-mer - ABCD	2VDM	Hetero 4-mer - ABCD
+2VH5	Hetero 3-mer - ABC	2UZI	Hetero 3-mer - ABC	1CTQ	Monomer
+2VIR	Hetero 3-mer - ABC	2VIT	Hetero 3-mer - ABC	1HA0	Homo 3-mer - A3
+2VIS	Hetero 3-mer - ABC	2VIT	Hetero 3-mer - ABC	1HA0	Homo 3-mer - A3
+2VIT	Hetero 3-mer - ABC	2VIS	Hetero 3-mer - ABC	1HA0	Homo 3-mer - A3
+2VWE	Hetero 6-mer - A2B2C2	2VWE	Hetero 6-mer - A2B2C2	2C7W	Homo 2-mer - A2
+2VXQ	Hetero 3-mer - ABC	2VXQ	Hetero 3-mer - ABC	1WHO	Homo 2-mer - A2
+2VXS	Hetero 6-mer - A2B2C2	2VXS	Hetero 6-mer - A2B2C2	4HR9	Homo 2-mer - A2
+2VXT	Hetero 3-mer - ABC	2VXU	AB	3WO2	Monomer
+2W0F	Hetero 12-mer - A4B4C4	5J9P	Hetero 12-mer - A4B4C4	2QTO	Homo 4-mer - A4
+2W9E	Hetero 3-mer - ABC	2W9D	Hetero 2-mer - AB	1QM3	Monomer
+2WUB	Hetero 3-mer - ABC	3K2U	Hetero 3-mer - ABC	5WUX	Hetero 3-mer - ABC
+2H8P	Hetero 16-mer - A4B4C4D4	5J9P	Hetero 12-mer - A4B4C4	2H8P	Hetero 16-mer - A4B4C4D4
+2HFE	Hetero 16-mer - A4B4C4D4	5J9P	Hetero 12-mer - A4B4C4	2HFE	Hetero 16-mer - A4B4C4D4
+2HFG	Hetero 3-mer - ABC	2HFF	Hetero 2-mer - AB	1OSX	Monomer
+2HG5	Hetero 16-mer - A4B4C4D4	5J9P	Hetero 12-mer - A4B4C4	2HG5	Hetero 16-mer - A4B4C4D4
+2HJF	Hetero 12-mer - A4B4C4	5J9P	Hetero 12-mer - A4B4C4	2QTO	Homo 4-mer - A4
+2HLF	Hetero 6-mer - A2B2C2	2HLF	Hetero 6-mer - A2B2C2	3NMO	Monomer
+2HVJ	Hetero 12-mer - A4B4C4	5J9P	Hetero 12-mer - A4B4C4	2QTO	Homo 4-mer - A4
+2HVK	Hetero 12-mer - A4B4C4	5J9P	Hetero 12-mer - A4B4C4	2QTO	Homo 4-mer - A4
+2I9L	Hetero 3-mer - ABC	2I9L	Hetero 3-mer - ABC	1YPY	Monomer
+2IFF	Hetero 3-mer - ABC	1BQL	Hetero 3-mer - ABC	4LZT	Monomer
+2IGF	Hetero 2-mer - AB	1IGF	Hetero 4-mer - A2B2	1A7E	Monomer
+2IH1	Hetero 12-mer - A4B4C4	5J9P	Hetero 12-mer - A4B4C4	2QTO	Homo 4-mer - A4
+2IH3	Hetero 12-mer - A4B4C4	5J9P	Hetero 12-mer - A4B4C4	2QTO	Homo 4-mer - A4
+2ITC	Hetero 12-mer - A4B4C4	5J9P	Hetero 12-mer - A4B4C4	2QTO	Homo 4-mer - A4
+2ITD	Hetero 12-mer - A4B4C4	5J9P	Hetero 12-mer - A4B4C4	2QTO	Homo 4-mer - A4
+2J4W	Hetero 9-mer - A3B3C3	2J4W	Hetero 9-mer - A3B3C3	1W8K	Monomer
+2J5L	Hetero 3-mer - ABC	2J5L	Hetero 3-mer - ABC	2MTX	Monomer
+2J6E	Hetero 6-mer - A2B2C2	2J6E	Hetero 6-mer - A2B2C2	4BM7	Monomer
+2J88	Hetero 3-mer - ABC	4YR6	AB	1FCQ	Monomer
+2JEL	Hetero 3-mer - ABC	2JEL	Hetero 3-mer - ABC	1POH	Monomer
+2JIX	Hetero 9-mer - A3B3C3	5KVL	Hetero 2-mer - AB	1ERN	Homo 2-mer - A2
+2JK5	Hetero 12-mer - A4B4C4	5J9P	Hetero 12-mer - A4B4C4	2QTO	Homo 4-mer - A4
+2NR6	Hetero 3-mer - ABC	2NR6	Hetero 3-mer - ABC	1YG9	Monomer
+2NXY	Hetero 4-mer - ABCD	1RZ8	Hetero 2-mer - AB	2NXZ	Hetero 4-mer - ABCD
+2NXZ	Hetero 4-mer - ABCD	1RZ8	Hetero 2-mer - AB	2NXY	Hetero 4-mer - ABCD
+2NY0	Hetero 4-mer - ABCD	1RZ8	Hetero 2-mer - AB	2NY5	Hetero 4-mer - ABCD
+2NY1	Hetero 4-mer - ABCD	1RZ8	Hetero 2-mer - AB	2NXZ	Hetero 4-mer - ABCD
+2NY2	Hetero 4-mer - ABCD	1RZ8	Hetero 2-mer - AB	2NXZ	Hetero 4-mer - ABCD
+2NY3	Hetero 4-mer - ABCD	1RZ8	Hetero 2-mer - AB	2NXZ	Hetero 4-mer - ABCD
+2NY4	Hetero 4-mer - ABCD	1RZ8	Hetero 2-mer - AB	2NXZ	Hetero 4-mer - ABCD
+2NY5	Hetero 4-mer - ABCD	1RZ8	Hetero 2-mer - AB	2NY0	Hetero 4-mer - ABCD
+2NY6	Hetero 4-mer - ABCD	1RZ8	Hetero 2-mer - AB	2NY5	Hetero 4-mer - ABCD
+2NY7	Hetero 3-mer - ABC	1N0X	Hetero 6-mer - A2B2C2	4JPJ	Monomer
+2NYY	Hetero 3-mer - ABC	2GCY	Hetero 2-mer - AB	3BTA	Monomer
+2NZ9	Hetero 3-mer - ABC	2GCY	Hetero 2-mer - AB	3BTA	Monomer
+2OZ4	Hetero 3-mer - ABC	2OZ4	Hetero 3-mer - ABC	1P53	Monomer
+2P7T	Homo 4-mer - A4	5J9P	Hetero 12-mer - A4B4C4	2QTO	Homo 4-mer - A4
+2XRA	Hetero 3-mer - ABC	2XRA	Hetero 3-mer - ABC	5KA6	Homo 3-mer - A3
+2YBR	Hetero 3-mer - ABC	4V1D	Hetero 5-mer - ABCDE	1CN2	Monomer
+2YC1	Hetero 3-mer - ABC	4V1D	Hetero 5-mer - ABCDE	1CN2	Monomer
+2YPV	Hetero 3-mer - ABC	2YPV	Hetero 3-mer - ABC	2KC0	Monomer
+2YSS	Hetero 3-mer - ABC	2EIZ	Hetero 3-mer - ABC	4LZT	Monomer
+2ZJS	Hetero 2-mer - AB	2ZQP	Hetero 2-mer - AB	2V7H	Hetero 2-mer - AB
+3A67	Hetero 3-mer - ABC	3A6C	Hetero 3-mer - ABC	4LZT	Monomer
+3A6B	Hetero 3-mer - ABC	3A6C	Hetero 3-mer - ABC	4LZT	Monomer
+3A6C	Hetero 3-mer - ABC	3A6B	Hetero 3-mer - ABC	4LZT	Monomer
+3BAE	AB	3BKC	AB	1AMC	Monomer
+3BDY	Hetero 2-mer - AB	3DVN	Hetero 4-mer - A2BC	3QTK	Homo 2-mer - A2
+3BE1	Hetero 3-mer - ABC	3BDY	Hetero 2-mer - AB	1N8Y	Monomer
+3BGF	Hetero 3-mer - ABC	3BGF	Hetero 3-mer - ABC	2GHV	Homo 2-mer - A2
+3BKJ	Hetero 2-mer - AB	3BKM	Hetero 2-mer - AB	5BUO	Monomer
+3BN9	Hetero 3-mer - ABC	5I19	Hetero 2-mer - AB	3NCL	Monomer
+3BQU	Hetero 4-mer - ABCD	2F5B	Hetero 2-mer - AB	3BQU	Hetero 4-mer - ABCD
+3BSZ	Hetero 10-mer - A4B2C2D2	3BSZ	Hetero 10-mer - A4B2C2D2	1RLB	Hetero 6-mer - A4B2
+3LQA	Hetero 4-mer - ABCD	3LMJ	Hetero 2-mer - AB	3LQA	Hetero 4-mer - ABCD
+3LZF	Hetero 12-mer - A3B3C3D3	4PY8	Hetero 12-mer - A6B3C3	3QHZ	Hetero 2-mer - AB
+3MA9	Hetero 3-mer - ABC	2G75	Homo 4-mer - A4	2MK3	Monomer
+3MAC	Hetero 3-mer - ABC	2G75	Homo 4-mer - A4	2MK3	Monomer
+3MJ9	Hetero 3-mer - ABC	3MJ8	Hetero 2-mer - AB	3MJ6	Monomer
+3MLT	Hetero 2-mer - AB	3MLV	AB	2ESZ	
+3MLW	Hetero 2-mer - AB	3MLW	Hetero 2-mer - AB	2ESZ	
+3MLX	Hetero 2-mer - AB	3MLZ	Hetero 3-mer - ABC	2ESZ	
+3MNZ	Hetero 2-mer - AB	3MO1	Hetero 2-mer - AB	3K9A	Homo 3-mer - A3
+3MXW	Hetero 3-mer - ABC	3MXV	Hetero 2-mer - AB	3N1O	Monomer
+3N85	Hetero 9-mer - A3B3C3	3BDY	Hetero 2-mer - AB	1N8Y	Monomer
+3NCY	Hetero 4-mer - A2BC	3NCY	Hetero 4-mer - A2BC	3OB6	Homo 2-mer - A2
+3NGB	Hetero 3-mer - ABC	3U7W	Hetero 2-mer - AB	3TGT	Monomer
+3NH7	Hetero 3-mer - ABC	4QHU	Hetero 6-mer - A2B2C2	2K3G	Monomer
+3NID	Hetero 4-mer - ABCD	3NIG	Hetero 4-mer - ABCD	3NID	Hetero 4-mer - ABCD
+3NIF	Hetero 4-mer - ABCD	3NIG	Hetero 4-mer - ABCD	3NIF	Hetero 4-mer - ABCD
+3NIG	Hetero 4-mer - ABCD	3NIF	Hetero 4-mer - ABCD	3NIG	Hetero 4-mer - ABCD
+3NPS	Hetero 3-mer - ABC	3NPS	Hetero 3-mer - ABC	3NCL	Monomer
+3O0R	Hetero 4-mer - ABCD	3WFE	Hetero 4-mer - ABCD	3O0R	Hetero 4-mer - ABCD
+3O2D	Hetero 3-mer - ABC	3O2D	Hetero 3-mer - ABC	3CD4	Homo 2-mer - A2
+3O41	Hetero 2-mer - AB	3O45	Hetero 2-mer - AB	5EA8	Homo 3-mer - A3
+3O45	Hetero 2-mer - AB	3O41	Hetero 2-mer - AB	4CCF	Homo 3-mer - A3
+3OGC	Hetero 12-mer - A4B4C4	5J9P	Hetero 12-mer - A4B4C4	2QTO	Homo 4-mer - A4
+3OPZ	Hetero 3-mer - ABC	3OPZ	Hetero 3-mer - ABC	1MS9	Monomer
+3OR6	Hetero 12-mer - A4B4C4	5J9P	Hetero 12-mer - A4B4C4	2QTO	Homo 4-mer - A4
+3OR7	Hetero 12-mer - A4B4C4	5J9P	Hetero 12-mer - A4B4C4	2QTO	Homo 4-mer - A4
+3P11	Hetero 3-mer - ABC	3P0V	Hetero 2-mer - AB	1M6B	Monomer
+3P30	Hetero 3-mer - ABC	3P30	Hetero 3-mer - ABC	3WFV	Homo 3-mer - A3
+3PGF	Hetero 3-mer - ABC	4KZE	Hetero 2-mer - AB	3Q27	Monomer
+3PJS	Hetero 8-mer - A4B2C2	3EFF	Hetero 8-mer - A4B2C2	2QTO	Homo 4-mer - A4
+3PNW	Hetero 3-mer - ABC	5CWS	Hetero 6-mer - ABCDEF	2D9T	Monomer
+3Q1S	Hetero 3-mer - ABC	3FN0	Hetero 2-mer - AB	1M4R	Homo 2-mer - A2
+3Q3G	Hetero 3-mer - ABC	3QA3	Hetero 3-mer - ABC	1IDN	Homo 2-mer - A2
+3GI8	Hetero 3-mer - ABC	3GI9	Hetero 3-mer - ABC	3GIA	Monomer
+3GI9	Hetero 3-mer - ABC	3GI9	Hetero 3-mer - ABC	3GIA	Monomer
+3H0T	Hetero 6-mer - A2B2C2	3H0T	Hetero 6-mer - A2B2C2	2KEF	Monomer
+3H42	Hetero 4-mer - ABCD	2PMW	Hetero 2-mer - AB	3H42	Hetero 4-mer - ABCD
+3HB3	Hetero 4-mer - ABCD	3EHB	Hetero 4-mer - ABCD	1MQK	Hetero 2-mer - AB
+3HFM	Hetero 3-mer - ABC	1NDM	Hetero 3-mer - ABC	4LZT	Monomer
+3HI1	Hetero 6-mer - A2B2C2	1U6A	Hetero 2-mer - AB	3TGQ	Monomer
+3HI6	Hetero 3-mer - ABC	3HI5	AB	1MQ9	Monomer
+3HMX	Hetero 4-mer - ABCD	1F45	Hetero 2-mer - AB	3HMW	Hetero 2-mer - AB
+3HPL	Hetero 3-mer - ABC	5J9P	Hetero 12-mer - A4B4C4	2QTO	Homo 4-mer - A4
+3I50	Hetero 3-mer - ABC	3I50	Hetero 3-mer - ABC	2I69	Monomer
+3IDX	Hetero 3-mer - ABC	4ZYK	Hetero 2-mer - AB	4JPJ	Monomer
+3IDY	Hetero 6-mer - A2B2C2	4ZYK	Hetero 2-mer - AB	4JPJ	Monomer
+3IFN	Hetero 2-mer - AB	3IFL	AB	2M9S	Monomer
+3IGA	Hetero 12-mer - A4B4C4	5J9P	Hetero 12-mer - A4B4C4	2QTO	Homo 4-mer - A4
+3IXT	Hetero 3-mer - ABC	3QWO	Hetero 3-mer - ABC	4CCF	Homo 3-mer - A3
+3JWD	Hetero 4-mer - ABCD	1RZ7	AB	3JWO	Hetero 4-mer - ABCD
+3JWO	Hetero 4-mer - ABCD	1RZ7	AB	3JWD	Hetero 4-mer - ABCD
+3K2U	Hetero 3-mer - ABC	2WUC	Hetero 3-mer - ABC	1JPT	Hetero 2-mer - AB
+3KJ4	Hetero 3-mer - ABC	3KJ4	Hetero 3-mer - ABC	1OZN	Monomer
+3KJ6	Hetero 3-mer - ABC	3KJ6	Hetero 3-mer - ABC	3PDS	Monomer
+3KR3	Hetero 3-mer - ABC	5I1E	Hetero 2-mer - AB	5L3L	Monomer
+3L5W	Hetero 3-mer - ABC	3L7E	Hetero 2-mer - AB	1IK0	Monomer
+3L5X	Hetero 3-mer - ABC	3L7F	Hetero 2-mer - AB	1IK0	Monomer
+3L95	Hetero 5-mer - A2B2C	2FJF	Hetero 2-mer - AB	3ETO	Monomer
+3LD8	Hetero 3-mer - ABC	3LD8	Hetero 3-mer - ABC	3K2O	Homo 2-mer - A2
+3LDB	Hetero 3-mer - ABC	3LDB	Hetero 3-mer - ABC	3K2O	Homo 2-mer - A2
+3LEV	Hetero 3-mer - ABC	1TJI	Hetero 2-mer - AB	3LES	Monomer
+3LIZ	Hetero 3-mer - ABC	3LIZ	Hetero 3-mer - ABC	1YG9	Monomer
+3V4P	Hetero 4-mer - ABCD	3V4V	Hetero 4-mer - ABCD	3V4P	Hetero 4-mer - ABCD
+3V4V	Hetero 4-mer - ABCD	3V4P	Hetero 4-mer - ABCD	3V4V	Hetero 4-mer - ABCD
+3V6Z	Hetero 3-mer - ABC	3V6F	Hetero 2-mer - AB	5E0I	Homo 6-mer - A6
+3V7A	Hetero 6-mer - A4B2	3V7A	Hetero 6-mer - A4B2	5HZA	Homo 2-mer - A2
+3VG9	Hetero 3-mer - ABC	3VG9	Hetero 3-mer - ABC	4UHR	Monomer
+3VGA	Hetero 3-mer - ABC	3VGA	Hetero 3-mer - ABC	4UHR	Monomer
+3VI3	Hetero 4-mer - ABCD	3VI4	Hetero 4-mer - ABCD	3VI3	Hetero 4-mer - ABCD
+3W2D	Hetero 3-mer - ABC	3W2D	Hetero 3-mer - ABC	1SE4	Monomer
+3W9E	Hetero 3-mer - ABC	3W9D	AB	4MYV	Monomer
+3WFB	Hetero 4-mer - ABCD	3WFE	Hetero 4-mer - ABCD	3WFB	Hetero 4-mer - ABCD
+3WFC	Hetero 4-mer - ABCD	3WFE	Hetero 4-mer - ABCD	3WFC	Hetero 4-mer - ABCD
+3WFD	Hetero 4-mer - ABCD	3WFE	Hetero 4-mer - ABCD	3WFD	Hetero 4-mer - ABCD
+3WFE	Hetero 4-mer - ABCD	3WFD	Hetero 4-mer - ABCD	3WFE	Hetero 4-mer - ABCD
+3WIH	Hetero 3-mer - ABC	3WII	AB	4HLJ	Monomer
+3WLW	Hetero 3-mer - ABC	3WLW	Hetero 3-mer - ABC	1N8Y	Monomer
+3WSQ	Hetero 3-mer - ABC	3WSQ	Hetero 3-mer - ABC	1N8Y	Monomer
+3ZTJ	Hetero 12-mer - A3B3C3D3	3VUN	Hetero 6-mer - A3B3	3ZTJ	Hetero 12-mer - A3B3C3D3
+3ZTN	Hetero 4-mer - ABCD	5IBL	Hetero 3-mer - ABC	3ZTN	Hetero 4-mer - ABCD
+4AEI	Hetero 3-mer - ABC	1I9J	Hetero 2-mer - AB	1AHO	Monomer
+4AL8	Hetero 3-mer - ABC	4AM0	Hetero 3-mer - ABC	3IRC	Monomer
+4ALA	Hetero 3-mer - ABC	4AM0	Hetero 3-mer - ABC	3VTT	Monomer
+4AM0	Hetero 3-mer - ABC	4AM0	Hetero 3-mer - ABC	3WE1	Homo 2-mer - A2
+3QA3	Hetero 3-mer - ABC	3Q3G	Hetero 3-mer - ABC	1IDN	Homo 2-mer - A2
+3R1G	Hetero 3-mer - ABC	1TZI	Hetero 6-mer - A2B2C2	3VF3	Monomer
+3RAJ	Hetero 3-mer - ABC	3RAJ	Hetero 3-mer - ABC	4F46	Monomer
+3RKD	Hetero 3-mer - ABC	3RKD	Hetero 3-mer - ABC	3RKC	Homo 2-mer - A2
+3RU8	Hetero 3-mer - ABC	1N0X	Hetero 6-mer - A2B2C2	3RPT	Monomer
+3RVV	Hetero 3-mer - ABC	3RVU	AB	3D6S	Monomer
+3RVW	Hetero 3-mer - ABC	3RVU	AB	3F5V	Monomer
+3RVX	Hetero 3-mer - ABC	3RVU	AB	3F5V	Monomer
+3SDY	Hetero 12-mer - A6B3C3	4NM8	Hetero 12-mer - A6B3C3	3SDY	Hetero 12-mer - A6B3C3
+3SE8	Hetero 3-mer - ABC	5JXA	Hetero 2-mer - AB	3TGT	Monomer
+3SE9	Hetero 3-mer - ABC	3SE9	Hetero 3-mer - ABC	3TGT	Monomer
+3SKJ	Hetero 3-mer - ABC	5I19	Hetero 2-mer - AB	3C8X	Homo 2-mer - A2
+3SO3	Hetero 3-mer - ABC	5I1C	Hetero 2-mer - AB	3NCL	Monomer
+3SOB	Hetero 3-mer - ABC	5CWS	Hetero 6-mer - ABCDEF	3S94	Monomer
+3SQO	Hetero 4-mer - ABCD	3HC4	AB	2P4E	Monomer
+3STL	Hetero 12-mer - A4B4C4	5J9P	Hetero 12-mer - A4B4C4	2QTO	Homo 4-mer - A4
+3STZ	Hetero 12-mer - A4B4C4	5J9P	Hetero 12-mer - A4B4C4	2QTO	Homo 4-mer - A4
+3T2N	Hetero 3-mer - ABC	3T2N	Hetero 3-mer - ABC	5CE1	Monomer
+3T3M	Hetero 4-mer - ABCD	3ZE2	Hetero 4-mer - ABCD	3T3M	Hetero 4-mer - ABCD
+3T3P	Hetero 4-mer - ABCD	3ZE2	Hetero 4-mer - ABCD	3T3P	Hetero 4-mer - ABCD
+3TT1	Hetero 3-mer - ABC	3TT1	Hetero 3-mer - ABC	2A65	Monomer
+3TT3	Hetero 3-mer - ABC	3TT3	Hetero 3-mer - ABC	2A65	Monomer
+3TYG	Hetero 3-mer - ABC	5JSA	Hetero 18-mer - A6B3C3D3E3	4JPJ	Monomer
+3U2S	Hetero 3-mer - ABC	3U36	Hetero 2-mer - AB	2CWB	Monomer
+3U30	Hetero 3-mer - ABC	3L95	Hetero 5-mer - A2B2C	5VIX	Monomer
+3U4E	Hetero 3-mer - ABC	3U36	Hetero 2-mer - AB	2CWB	Monomer
+3U7Y	Hetero 3-mer - ABC	3U7W	Hetero 2-mer - AB	4DKR	Monomer
+3U9U	AB	3U9U	AB	2AHX	Monomer
+3UAJ	Hetero 6-mer - A4B2	3UAJ	Hetero 6-mer - A4B2	2H0P	Monomer
+3UBX	Hetero 4-mer - ABCD	3UBX	Hetero 4-mer - ABCD	3GMR	Hetero 2-mer - AB
+3UJI	Hetero 2-mer - AB	3UJI	Hetero 2-mer - AB	2ESZ	
+4G6F	Hetero 6-mer - A2B2C2	5T85	Hetero 3-mer - ABC	2NCT	Monomer
+4G6J	Hetero 3-mer - ABC	4G5Z	AB	2NVH	Monomer
+4G6M	Hetero 3-mer - ABC	4G6K	Hetero 2-mer - AB	2NVH	Monomer
+4G7Y	Hetero 3-mer - ABC	4G7V	Hetero 3-mer - ABC	3AWF	Monomer
+4G80	Hetero 3-mer - ABC	4G80	Hetero 3-mer - ABC	1B6D	Homo 2-mer - A2
+4GMS	Hetero 12-mer - A3B3C3D3	5KAQ	Hetero 9-mer - A3B3C3	4GMT	AB
+4GXU	Hetero 12-mer - A3B3C3D3	4GXX	Hetero 6-mer - A3B3	4GXV	Hetero 2-mer - AB
+4H8W	Hetero 4-mer - ABCD	3TNN	Hetero 2-mer - AB	4P9H	Hetero 4-mer - ABCD
+4HC1	Hetero 3-mer - ABC	3G5Y	Hetero 2-mer - AB	4HBQ	Monomer
+4HCR	Hetero 3-mer - ABC	5K9O	Hetero 6-mer - A2B2C2	4HD9	Monomer
+4HF5	Hetero 12-mer - A3B3C3D3	4HLZ	Hetero 12-mer - A3B3C3D3	4HF5	Hetero 12-mer - A3B3C3D3
+4HFU	Hetero 12-mer - A6B3C3	4HLZ	Hetero 12-mer - A3B3C3D3	5I17	AB
+4HIX	Hetero 2-mer - AB	4OJF	Hetero 2-mer - AB	1AMC	Monomer
+4I18	Hetero 3-mer - ABC	5C8J	Hetero 3-mer - ABC	2LFG	Monomer
+4I77	Hetero 3-mer - ABC	4I77	Hetero 3-mer - ABC	1GA3	Monomer
+4I9W	Hetero 6-mer - A4B2	4I9W	Hetero 6-mer - A4B2	4RUE	Homo 2-mer - A2
+4JB9	Hetero 3-mer - ABC	4JB9	Hetero 3-mer - ABC	3TGT	Monomer
+4JDT	Hetero 3-mer - ABC	4JDV	Hetero 2-mer - AB	4DKR	Monomer
+4JKP	Hetero 3-mer - ABC	3U7W	Hetero 2-mer - AB	4DKR	Monomer
+4JO1	Hetero 2-mer - AB	4JO2	Hetero 2-mer - AB	2ESZ	
+4JPV	Hetero 3-mer - ABC	4GW4	Hetero 2-mer - AB	3TGT	Monomer
+4JPW	Hetero 3-mer - ABC	4JPW	Hetero 3-mer - ABC	4DKR	Monomer
+4D9Q	Hetero 3-mer - ABC	4D9Q	Hetero 3-mer - ABC	2XW9	Monomer
+4D9R	Hetero 3-mer - ABC	4D9R	Hetero 3-mer - ABC	1BIO	Monomer
+4DGI	Hetero 3-mer - ABC	4DGI	Hetero 3-mer - ABC	1QM3	Monomer
+4DKE	Hetero 6-mer - A2B2C2	4Q9Q	Hetero 2-mer - AB	4DKC	Homo 2-mer - A2
+4DKF	Hetero 6-mer - A2B2C2	5I1E	Hetero 2-mer - AB	4DKC	Homo 2-mer - A2
+4DN4	Hetero 3-mer - ABC	4DN3	Hetero 2-mer - AB	3IFD	Homo 2-mer - A2
+4DQO	Hetero 3-mer - ABC	3MUG	Hetero 2-mer - AB	2CWB	Monomer
+4DTG	Hetero 3-mer - ABC	4DTG	Hetero 3-mer - ABC	1ADZ	Monomer
+4DVR	Hetero 3-mer - ABC	1RZ7	AB	3TGQ	Monomer
+4DW2	Hetero 3-mer - ABC	4DVB	Hetero 2-mer - AB	4FUH	Monomer
+4ENE	Hetero 6-mer - A2B2C2	4ENE	Hetero 6-mer - A2B2C2	3NMO	Monomer
+4ETQ	Hetero 3-mer - ABC	4EBQ	Hetero 2-mer - AB	4E9O	Monomer
+4FFV	Hetero 6-mer - A2B2C2	4FFV	Hetero 6-mer - A2B2C2	2GBC	Homo 2-mer - A2
+4FFW	Hetero 6-mer - A2B2C2	4FFW	Hetero 6-mer - A2B2C2	2GBC	Homo 2-mer - A2
+4FFZ	Hetero 3-mer - ABC	4FFZ	Hetero 3-mer - ABC	3IRC	Monomer
+4FP8	Hetero 3-mer - ABC	5UMN	Hetero 3-mer - ABC	1B6D	Homo 2-mer - A2
+4FQI	Hetero 12-mer - A3B3C3D3	3GBM	Hetero 12-mer - A3B3C3D3	4FQH	AB
+4FQK	Hetero 12-mer - A3B3C3D3	4FQM	Hetero 6-mer - A3B3	4FQK	Hetero 12-mer - A3B3C3D3
+4FQV	Hetero 12-mer - A3B3C3D3	4DJ8	Hetero 6-mer - A3B3	4FQH	AB
+4FQY	Hetero 12-mer - A3B3C3D3	5T6N	Hetero 6-mer - A3B3	4FQH	AB
+4PP2	Hetero 3-mer - ABC	5VCO	Hetero 3-mer - ABC	3F5V	Monomer
+4PY8	Hetero 12-mer - A6B3C3	4EEF	Hetero 3-mer - ABC	4PY7	AB
+4QCI	Hetero 3-mer - ABC	4QCI	Hetero 3-mer - ABC	1PDG	Homo 2-mer - A2
+4QEX	Hetero 3-mer - ABC	4QEX	Hetero 3-mer - ABC	1ZRO	Homo 2-mer - A2
+4QNP	Hetero 24-mer - A8B8C8	4QNP	Hetero 24-mer - A8B8C8	4B7R	Homo 4-mer - A4
+4QTI	Hetero 3-mer - ABC	4QTH	AB	3U74	Monomer
+4R0L	Hetero 8-mer - A4B4	4LCI	Hetero 2-mer - AB	4LQC	Homo 2-mer - A2
+4R4F	Hetero 4-mer - ABCD	4R4B	Hetero 2-mer - AB	4LAJ	Hetero 3-mer - ABC
+4R4H	Hetero 4-mer - ABCD	4R4B	Hetero 2-mer - AB	3JWD	Hetero 4-mer - ABCD
+4R8W	Hetero 12-mer - A3B3C3D3	4BSF	Hetero 6-mer - A3B3	4R8W	Hetero 12-mer - A3B3C3D3
+4RFN	Hetero 4-mer - ABCD	4RFE	Hetero 2-mer - AB	4RFO	Hetero 4-mer - ABCD
+4RRP	Hetero 3-mer - ABC	5C8J	Hetero 3-mer - ABC	1ROC	Monomer
+4RWY	Hetero 3-mer - ABC	4RWY	Hetero 3-mer - ABC	3TGQ	Monomer
+4S1Q	Hetero 3-mer - ABC	4S1Q	Hetero 3-mer - ABC	3TGT	Monomer
+4S1R	Hetero 3-mer - ABC	4S1R	Hetero 3-mer - ABC	3TGT	Monomer
+4S1S	Hetero 3-mer - ABC	4S1S	Hetero 3-mer - ABC	3TGT	Monomer
+4U6H	Hetero 3-mer - ABC	4U6H	Hetero 3-mer - ABC	1YPY	Monomer
+4UBD	Hetero 24-mer - A6B6C6D6	5KAQ	Hetero 9-mer - A3B3C3	4UBD	Hetero 24-mer - A6B6C6D6
+4UT6	Hetero 3-mer - ABC	4UT6	Hetero 3-mer - ABC	4UTC	Monomer
+4UT9	Hetero 3-mer - ABC	4UT9	Hetero 3-mer - ABC	5EX8	Monomer
+4UTA	Hetero 3-mer - ABC	5I1C	Hetero 2-mer - AB	5EX8	Monomer
+4UTB	Hetero 3-mer - ABC	4UTB	Hetero 3-mer - ABC	4UTC	Monomer
+4UUJ	Hetero 12-mer - A4B4C4	5J9P	Hetero 12-mer - A4B4C4	1J95	Homo 4-mer - A4
+4L5F	Hetero 3-mer - ABC	4L5F	Hetero 3-mer - ABC	3IRC	Monomer
+4LSP	Hetero 3-mer - ABC	4LSP	Hetero 3-mer - ABC	3TGT	Monomer
+4LSQ	Hetero 3-mer - ABC	4LSQ	Hetero 3-mer - ABC	3TGT	Monomer
+4LSR	Hetero 3-mer - ABC	4LSR	Hetero 3-mer - ABC	4DKR	Monomer
+4LST	Hetero 3-mer - ABC	3U7W	Hetero 2-mer - AB	4I53	Monomer
+4LSU	Hetero 3-mer - ABC	4LSU	Hetero 3-mer - ABC	3TGT	Monomer
+4LSV	Hetero 3-mer - ABC	4GW4	Hetero 2-mer - AB	4I53	Monomer
+4MHH	Hetero 12-mer - A3B3C3D3	4N5Z	Hetero 6-mer - A3B3	4MHH	Hetero 12-mer - A3B3C3D3
+4MHJ	Hetero 12-mer - A3B3C3D3	4MHI	Hetero 6-mer - A3B3	4MHJ	Hetero 12-mer - A3B3C3D3
+4MSW	Hetero 2-mer - AB	5J9P	Hetero 12-mer - A4B4C4	2QTO	Homo 4-mer - A4
+4NM8	Hetero 12-mer - A6B3C3	3SDY	Hetero 12-mer - A6B3C3	4NM4	AB
+4OGX	Hetero 3-mer - ABC	4PUB	AB	2ANY	Monomer
+4OGY	Hetero 3-mer - ABC	4PUB	AB	2ANY	Monomer
+4OII	Hetero 6-mer - A2B2C2	4OII	Hetero 6-mer - A2B2C2	4OIE	Homo 2-mer - A2
+4OLU	Hetero 3-mer - ABC	3U7W	Hetero 2-mer - AB	3TGT	Monomer
+4OLV	Hetero 3-mer - ABC	3U7W	Hetero 2-mer - AB	3TGT	Monomer
+4OLW	Hetero 3-mer - ABC	3U7W	Hetero 2-mer - AB	3TGT	Monomer
+4OLX	Hetero 3-mer - ABC	3U7W	Hetero 2-mer - AB	3TGT	Monomer
+4OLY	Hetero 3-mer - ABC	3U7W	Hetero 2-mer - AB	3TGT	Monomer
+4OLZ	Hetero 3-mer - ABC	3U7W	Hetero 2-mer - AB	3TGT	Monomer
+4OM0	Hetero 3-mer - ABC	3U7W	Hetero 2-mer - AB	3TGT	Monomer
+4OM1	Hetero 3-mer - ABC	3U7W	Hetero 2-mer - AB	3TGT	Monomer
+4ONG	Hetero 2-mer - AB	4ONF	Hetero 2-mer - AB	2M9S	Monomer
+4ORZ	Hetero 3-mer - ABC	4ORZ	Hetero 3-mer - ABC	2NEF	Monomer
+5D93	Hetero 3-mer - ABC	5D93	Hetero 3-mer - ABC	3Q6O	Monomer
+5D96	Hetero 3-mer - ABC	5D96	Hetero 3-mer - ABC	3Q6O	Monomer
+5DHV	Hetero 3-mer - ABC	5DHZ	Hetero 3-mer - ABC	5DHV	Hetero 3-mer - ABC
+5DUR	Hetero 6-mer - A2B2C2	5DUR	Hetero 6-mer - A2B2C2	5DUT	Monomer
+5E1A	Hetero 2-mer - AB	5J9P	Hetero 12-mer - A4B4C4	2QTO	Homo 4-mer - A4
+5E8D	Hetero 3-mer - ABC	5AZ2	AB	1K37	Monomer
+5EBL	Hetero 12-mer - A4B4C4	5J9P	Hetero 12-mer - A4B4C4	2QTO	Homo 4-mer - A4
+5EBM	Hetero 12-mer - A4B4C4	5J9P	Hetero 12-mer - A4B4C4	2QTO	Homo 4-mer - A4
+5EBW	Hetero 12-mer - A4B4C4	2HFE	Hetero 16-mer - A4B4C4D4	2QTO	Homo 4-mer - A4
+5EC1	Hetero 12-mer - A4B4C4	2HFE	Hetero 16-mer - A4B4C4D4	1JQ2	Homo 4-mer - A4
+5EC2	Hetero 12-mer - A4B4C4	5J9P	Hetero 12-mer - A4B4C4	1JQ2	Homo 4-mer - A4
+5F3B	Hetero 6-mer - A2B2C2	5F3B	Hetero 6-mer - A2B2C2	5JI1	Homo 2-mer - A2
+5F3H	Hetero 6-mer - A2B2C2	3L95	Hetero 5-mer - A2B2C	5JI1	Homo 2-mer - A2
+5F6J	Hetero 3-mer - ABC	5F6H	Hetero 2-mer - AB	5F4P	Homo 2-mer - A2
+5F96	Hetero 3-mer - ABC	5F96	Hetero 3-mer - ABC	3TGT	Monomer
+5F9W	Hetero 3-mer - ABC	5F9W	Hetero 3-mer - ABC	3TGT	Monomer
+5FB8	Hetero 3-mer - ABC	5FB8	Hetero 3-mer - ABC	1I16	Monomer
+4WFE	Hetero 6-mer - A4B2	4WFE	Hetero 6-mer - A4B2	3UM7	Homo 2-mer - A2
+4WFF	Hetero 6-mer - A4B2	4WFF	Hetero 6-mer - A4B2	3UM7	Homo 2-mer - A2
+4WFG	Hetero 6-mer - A4B2	4WFG	Hetero 6-mer - A4B2	3UM7	Homo 2-mer - A2
+4WFH	Hetero 6-mer - A4B2	4WFH	Hetero 6-mer - A4B2	3UM7	Homo 2-mer - A2
+4XAK	Hetero 3-mer - ABC	5D1Q	Hetero 5-mer - ABCDE	4KQZ	Monomer
+4XMP	Hetero 3-mer - ABC	4XMP	Hetero 3-mer - ABC	3TGQ	Monomer
+4XNY	Hetero 3-mer - ABC	4XNY	Hetero 3-mer - ABC	3TGQ	Monomer
+4XNZ	Hetero 3-mer - ABC	4XNZ	Hetero 3-mer - ABC	3TGT	Monomer
+4XZU	Hetero 3-mer - ABC	4KI5	Hetero 5-mer - ABCDE	3HNY	Monomer
+4YBL	Hetero 3-mer - ABC	4YC2	Hetero 3-mer - ABC	3MCG	Homo 4-mer - A4
+4YC2	Hetero 3-mer - ABC	4YBL	Hetero 3-mer - ABC	3MCG	Homo 4-mer - A4
+4YDJ	Hetero 3-mer - ABC	4YDJ	Hetero 3-mer - ABC	3TGT	Monomer
+4YDK	Hetero 3-mer - ABC	4YDK	Hetero 3-mer - ABC	3TGT	Monomer
+4YDL	Hetero 3-mer - ABC	4YDL	Hetero 3-mer - ABC	3TGT	Monomer
+4YE4	Hetero 3-mer - ABC	4YE4	Hetero 3-mer - ABC	3TGQ	Monomer
+4YWG	Hetero 3-mer - ABC	4YWG	Hetero 3-mer - ABC	2CWB	Monomer
+4Z5R	Hetero 3-mer - ABC	2FGW	Hetero 2-mer - AB	1ITF	Monomer
+4ZSO	Hetero 3-mer - ABC	4ZSO	Hetero 3-mer - ABC	3PV7	Monomer
+5T29	Hetero 3-mer - ABC	5TFW	Hetero 3-mer - ABC	3T43	Homo 2-mer - A2
+5T5B	Hetero 3-mer - ABC	5T85	Hetero 3-mer - ABC	3T43	Homo 2-mer - A2
+5T5F	Hetero 3-mer - ABC	5T5F	Hetero 3-mer - ABC	2KC0	Monomer
+5T6L	Hetero 3-mer - ABC	5T85	Hetero 3-mer - ABC	3T43	Homo 2-mer - A2
+5T80	Hetero 3-mer - ABC	5T85	Hetero 3-mer - ABC	3T43	Homo 2-mer - A2
+5T85	Hetero 3-mer - ABC	5T80	Hetero 3-mer - ABC	3T43	Homo 2-mer - A2
+5TFW	Hetero 3-mer - ABC	5T85	Hetero 3-mer - ABC	3T43	Homo 2-mer - A2
+5TIH	Hetero 3-mer - ABC	5TIH	Hetero 3-mer - ABC	5TIK	Monomer
+5V2A	Hetero 12-mer - A3B3C3D3	5T6S	Hetero 6-mer - A3B3	5V2A	Hetero 12-mer - A3B3C3D3
+5VCO	Hetero 3-mer - ABC	4PP2	Hetero 3-mer - ABC	3F5V	Monomer
+5FHX	Hetero 3-mer - ABC	5HCG	Hetero 2-mer - AB	2B8U	Monomer
+5GJS	Hetero 12-mer - A3B3C3D3	5GJT	Hetero 12-mer - A3B3C3D3	5GJS	Hetero 12-mer - A3B3C3D3
+5GJT	Hetero 12-mer - A3B3C3D3	5GJS	Hetero 12-mer - A3B3C3D3	5GJT	Hetero 12-mer - A3B3C3D3
+5GZN	Hetero 4-mer - A2BC	3D69	Hetero 2-mer - AB	5JHM	Homo 2-mer - A2
+5GZO	Hetero 4-mer - A2BC	5GZO	Hetero 4-mer - A2BC	5JHM	Homo 2-mer - A2
+5HDB	Hetero 2-mer - AB	4Z7Q	Hetero 4-mer - ABCD	5HDB	Hetero 2-mer - AB
+5HJ3	Hetero 12-mer - A3B3C3D3	5F1B	Hetero 3-mer - ABC	3INU	Hetero 2-mer - AB
+5JHL	Hetero 3-mer - ABC	5JHL	Hetero 3-mer - ABC	5JHM	Homo 2-mer - A2
+5KAQ	Hetero 9-mer - A3B3C3	5KAQ	Hetero 9-mer - A3B3C3	4WE8	Homo 3-mer - A3
+5KN5	Hetero 3-mer - ABC	5KN5	Hetero 3-mer - ABC	4TGF	Monomer
+5KVD	Hetero 3-mer - ABC	5KVD	Hetero 3-mer - ABC	5JHM	Homo 2-mer - A2
+5KVE	Hetero 3-mer - ABC	5KVE	Hetero 3-mer - ABC	5LBV	Homo 2-mer - A2
+5KVF	Hetero 3-mer - ABC	5KVF	Hetero 3-mer - ABC	5JHM	Homo 2-mer - A2
+5KVG	Hetero 3-mer - ABC	5UHY	Hetero 420-mer - A180B120C120	5JHM	Homo 2-mer - A2
+5LBS	Hetero 6-mer - A2B2C2	5LBS	Hetero 6-mer - A2B2C2	5LBV	Homo 2-mer - A2
+5LCV	Hetero 4-mer - A2BC	5LCV	Hetero 4-mer - A2BC	5LBV	Homo 2-mer - A2
+1A14	Hetero 12-mer - A4B4C4	1A14	Hetero 12-mer - A4B4C4	1F8E	Homo 4-mer - A4
+1A2Y	Hetero 3-mer - ABC	1VFB	Hetero 3-mer - ABC	4LZT	Monomer
+1ACY	Hetero 2-mer - AB	1AI1	Hetero 2-mer - AB	1NJ0	
+1ADQ	Hetero 3-mer - ABC	5IFH	Hetero 2-mer - AB	4WI4	Homo 2-mer - A2
+1AFV	Hetero 6-mer - A2B2C2	1IQW	Hetero 2-mer - AB	1GWP	Monomer
+1AHW	Hetero 6-mer - A2B2C2	1FGN	Hetero 2-mer - AB	1BOY	Homo 2-mer - A2
+1AI1	Hetero 2-mer - AB	1ACY	Hetero 2-mer - AB	1NJ0	
+1AR1	Hetero 4-mer - ABCD	3HB3	Hetero 4-mer - ABCD	1MQK	Hetero 2-mer - AB
+1BGX	Hetero 3-mer - ABC	1AY1	Hetero 2-mer - AB	1TAQ	Monomer
+1BJ1	Hetero 6-mer - A2B2C2	5WUX	Hetero 3-mer - ABC	3QTK	Homo 2-mer - A2
+1BQL	Hetero 3-mer - ABC	2IFF	Hetero 3-mer - ABC	1DKK	Monomer
+1BVK	Hetero 3-mer - ABC	1BVL	AB	4LZT	Monomer
+1C08	Hetero 3-mer - ABC	3A6C	Hetero 3-mer - ABC	4LZT	Monomer
+1CIC	ABCD	1CIC	ABCD	1FDL	Hetero 3-mer - ABC
+1CZ8	Hetero 6-mer - A2B2C2	1BJ1	Hetero 6-mer - A2B2C2	1MKK	Homo 2-mer - A2
+1DEE	Hetero 2-mer - AB	1HEZ	Hetero 5-mer - A2B2C	1ZXG	Monomer
+1DQJ	Hetero 3-mer - ABC	1NBZ	Hetero 3-mer - ABC	4LZT	Monomer
+1DVF	ABCD	1VFA	AB	1DVF	ABCD
+1E6J	Hetero 3-mer - ABC	1E6O	Hetero 2-mer - AB	4USN	Homo 6-mer - A6
+1EGJ	Hetero 3-mer - ABC	1EGJ	Hetero 3-mer - ABC	1C8P	Monomer
+1EO8	Hetero 12-mer - A3B3C3D3	4HMG	Hetero 6-mer - A3B3	1EO8	Hetero 12-mer - A3B3C3D3
+1F58	Hetero 2-mer - AB	2F58	Hetero 2-mer - AB	2ESZ	
+1FBI	Hetero 3-mer - ABC	1FBI	Hetero 3-mer - ABC	1HHL	Monomer
+1FDL	Hetero 3-mer - ABC	1FDL	Hetero 3-mer - ABC	4LZT	Monomer
+1FE8	Hetero 3-mer - ABC	1FE8	Hetero 3-mer - ABC	1ATZ	Monomer
+1FJ1	Hetero 3-mer - ABC	1FJ1	Hetero 3-mer - ABC	2I5V	Monomer
+1FNS	Hetero 3-mer - ABC	1OAK	Hetero 3-mer - ABC	1IJB	Monomer
+1FSK	Hetero 3-mer - ABC	1FSK	Hetero 3-mer - ABC	1BV1	Homo 2-mer - A2
+1G7H	Hetero 3-mer - ABC	1VFB	Hetero 3-mer - ABC	4LZT	Monomer
+1G7I	Hetero 3-mer - ABC	1VFB	Hetero 3-mer - ABC	4LZT	Monomer
+1G7J	Hetero 3-mer - ABC	1VFB	Hetero 3-mer - ABC	4LZT	Monomer
+1G7L	Hetero 3-mer - ABC	1VFB	Hetero 3-mer - ABC	4LZT	Monomer
+1G9M	Hetero 4-mer - ABCD	1RZ8	Hetero 2-mer - AB	1RZJ	Hetero 4-mer - ABCD
+1G9N	Hetero 4-mer - ABCD	1RZ8	Hetero 2-mer - AB	5A8H	Hetero 18-mer - A6B6C3D3
+1GC1	Hetero 4-mer - ABCD	1RZ8	Hetero 2-mer - AB	1RZJ	Hetero 4-mer - ABCD
+1GGI	AB	1GGC	AB	1NJ0	
+1H0D	Hetero 3-mer - ABC	1H0D	Hetero 3-mer - ABC	1B1I	Monomer
+1I9R	Hetero 9-mer - A6B3	5GGS	Hetero 3-mer - ABC	1ALY	Homo 3-mer - A3
+1IAI	Hetero 8-mer - A4B4	1IAI	Hetero 8-mer - A4B4	1AIF	Hetero 2-mer - AB
+1IGC	Hetero 3-mer - ABC	4KVC	Hetero 2-mer - AB	2IGD	Monomer
+1IQD	Hetero 3-mer - ABC	1IQD	Hetero 3-mer - ABC	1D7P	Monomer
+1J1O	Hetero 3-mer - ABC	3A6C	Hetero 3-mer - ABC	4LZT	Monomer
+1J1P	Hetero 3-mer - ABC	3A6C	Hetero 3-mer - ABC	4LZT	Monomer
+1J1X	Hetero 3-mer - ABC	3A6C	Hetero 3-mer - ABC	4LZT	Monomer
+1JHL	Hetero 3-mer - ABC	1JHL	Hetero 3-mer - ABC	4LZT	Monomer
+1JPS	Hetero 3-mer - ABC	1JPT	Hetero 2-mer - AB	1BOY	Homo 2-mer - A2
+1K4C	Hetero 12-mer - A4B4C4	5J9P	Hetero 12-mer - A4B4C4	2QTO	Homo 4-mer - A4
+1K4D	Hetero 12-mer - A4B4C4	5J9P	Hetero 12-mer - A4B4C4	2QTO	Homo 4-mer - A4
+1KEN	Hetero 10-mer - A3B3C2D2	4HMG	Hetero 6-mer - A3B3	1KEN	Hetero 10-mer - A3B3C2D2
+1KIP	Hetero 3-mer - ABC	1VFB	Hetero 3-mer - ABC	4LZT	Monomer
+1KIQ	Hetero 3-mer - ABC	1VFB	Hetero 3-mer - ABC	4LZT	Monomer
+1KIR	Hetero 3-mer - ABC	1VFB	Hetero 3-mer - ABC	4LZT	Monomer
+4V1D	Hetero 5-mer - ABCDE	4V1D	Hetero 5-mer - ABCDE	1CN2	Monomer
+4V1D	Hetero 5-mer - ABCDE	2YC1	Hetero 3-mer - ABC	1CN2	Monomer
+4ZYP	Hetero 15-mer - A9B3C3	4ZYK	Hetero 2-mer - AB	5C6B	Homo 6-mer - A6
+4ZYP	Hetero 15-mer - A9B3C3	3QWO	Hetero 3-mer - ABC	5C6B	Homo 6-mer - A6
+5C7K	Hetero 18-mer - A3B3C3D3E3F3	4P9M	Hetero 2-mer - AB	5V8M	Hetero 12-mer - A3B3C3D3
+5C7K	Hetero 18-mer - A3B3C3D3E3F3	5JSA	Hetero 18-mer - A6B3C3D3E3	5V8M	Hetero 12-mer - A3B3C3D3
+5FHC	Hetero 6-mer - ABCDEF	5FHA	Hetero 2-mer - AB	5JQB	Hetero 6-mer - A3B3
+5FHC	Hetero 6-mer - ABCDEF	5FHB	Hetero 2-mer - AB	5JQB	Hetero 6-mer - A3B3
+5FYL	Hetero 18-mer - A6B3C3D3E3	4FQC	Hetero 2-mer - AB	5V8M	Hetero 12-mer - A3B3C3D3
+5FYL	Hetero 18-mer - A6B3C3D3E3	4TOY	Hetero 2-mer - AB	5V8M	Hetero 12-mer - A3B3C3D3
+5JS9	Hetero 18-mer - A6B6C3D3	4P9M	Hetero 2-mer - AB	5JS9	Hetero 18-mer - A6B6C3D3
+5JS9	Hetero 18-mer - A6B6C3D3	5JSA	Hetero 18-mer - A6B3C3D3E3	5JS9	Hetero 18-mer - A6B6C3D3
+5JSA	Hetero 18-mer - A6B3C3D3E3	4P9M	Hetero 2-mer - AB	5JSA	Hetero 18-mer - A6B3C3D3E3
+5JSA	Hetero 18-mer - A6B3C3D3E3	5JS9	Hetero 18-mer - A6B6C3D3	5JSA	Hetero 18-mer - A6B3C3D3E3
+1QFW	Hetero 6-mer - ABCDEF	1QFW	Hetero 6-mer - ABCDEF	1HRP	Hetero 2-mer - AB

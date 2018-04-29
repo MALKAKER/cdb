@@ -1,0 +1,111 @@
+<!doctype html>
+<html>
+<style>
+.tooltip {
+    <!-- position:inherit; -->
+    display: inline-block;
+   <!--  border-bottom: 1px dotted black; -->
+}
+
+table.sortable thead {
+    background-color:#eee;
+    color:#666666;
+    font-weight: bold;
+    cursor: default;
+}
+.tooltip .tooltiptext {
+    visibility: hidden;
+    width: 200px;
+    background-color:gray;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+    position: absolute;
+    z-index: 1;
+}
+
+.tooltip:hover .tooltiptext {
+    visibility: visible;
+}
+td.lower_case {
+    text-transform: lowercase;
+}
+td.lower_case:first-letter {
+    text-transform: capitalize;
+}
+</style>
+<head>
+<link rel="icon" type="image/png" href="static/favicon-16x16.png" sizes="16x16" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>CDB - complex database</title>
+<link rel="stylesheet" href="/static/styles.css"  type="text/css" />
+<script src="/static/sorttable.js"></script>
+</head>
+<div id="body" class="width" style="   margin-left: 20px;    margin-right: 20px;" >
+		<section id="content">
+			<article>
+				<a href="/cdb/search" class="button">back to search</a>
+				<p></p>
+				<p></p>
+				<p style="text-align: left;"><span style="font-size:18px;"><span style="color:#0000cd;"><b>{{count}} results.</b></span></span></p>
+				<p style="text-align: left;"><span style="font-size:18px;"><span style="color:#0000cd;">{{theQuery}}</span></span></p>
+				<p></p>
+				<container>
+{%if not result%}
+	<script>alert("no results")</script>
+{% else %}
+
+	<a href="/result_txt">Results in text format</a>
+
+
+	<script type="text/javascript">
+						</script>
+						<p></p>
+						<table id="table1" data-role="table" data-mode="columntoggle" class="sortable">
+							<tr>
+								<th data-priority="1" style="text-align:center;color:black;">Complex PDB</th>
+<!-- 								<th style="text-align:center;">Inter. area</th>
+ -->							<th style="text-align:center;color:black;">Reso.</th>
+								<th style="text-align:center;color:black;">Pub. year</th>
+								<th style="text-align:center;color:black;">Prot. A</th>
+								<th style="text-align:center;color:black;" >Name</th>
+								<th style="text-align:center;color:black;">Accession</th>
+								<th style="text-align:center;color:black;">Length</th>
+								<th style="text-align:center;color:black;">Identity</th>
+								<th style="text-align:center;color:black;">SCOP Family</th>
+								<th style="text-align:center;color:black;">Prot. B</th>
+								<th style="text-align:center;color:black;">Name</th>
+								<th style="text-align:center;color:black;">Accession</th>
+								<th style="text-align:center;color:black;">Length</th>
+								<th style="text-align:center;color:black;">Identity</th>
+								<th style="text-align:center;color:black;">SCOP Family</th>
+							</tr>
+						{% for prot in result %}
+							<tr>
+							   <th > <a  href={{prot["link"]}}> {{ prot["pdb_entry"] }}  </a></th>
+<!-- 							   <td> {{ prot["interface_area"] }} </td>
+ -->						   <td style="color:black;"> {{ prot["resolution"] }} </td>
+							   <td><font color="black"> {{ prot["year_pub"] }}</font> </td>
+							   <td bgcolor="#e6e6ff"> <a href={{prot["linkPA"]}}> {{ prot["pdb_prot_A"] }}</a></td>
+							   <td bgcolor="#e6e6ff" class="lower_case"><font color="black"> {{ prot["name_prot_A"]}}</font> </td>
+							   <td bgcolor="#e6e6ff">
+									<a id="accA_1" href={{prot["linkAccessionPA_1"]}}> {{ prot["accession_prot_A_1"]}}</a>
+									<a id="accA_2" href={{prot["linkAccessionPA_2"]}}> {{ prot["accession_prot_A_2"]}}</a>
+							   </td>
+							   <td bgcolor="#e6e6ff"><font color="black"> {{ prot["length_protein_A"] }}</font> </td>
+							   <td bgcolor="#e6e6ff"><font color="black"> {{ prot["identity_prot_A"] }}% </font></td>
+							   <td bgcolor="#e6e6ff" class="lower_case"><font color="black"> {{ prot["scop_prot_A"] }}</font> </td>
+							   <td bgcolor="#ffffe6"> <a href={{prot["linkPB"]}}> {{ prot["pdb_prot_B"] }}</a></td>
+							   <td bgcolor="#ffffe6" class="lower_case"><font color="black"> {{ prot["name_prot_B"] }}</font> </td>
+							   <td bgcolor="#ffffe6">
+									<a id="accB_1" href={{prot["linkAccessionPB_1"]}}> {{ prot["accession_prot_B_1"]}}</a>
+									<a id="accB_2" href={{prot["linkAccessionPB_2"]}}> {{ prot["accession_prot_B_2"]}}</a>
+							   </td>
+							   <td bgcolor="#ffffe6"><font color="black"> {{ prot["length_protein_B"] }}</font> </td>
+							   <td bgcolor="#ffffe6"><font color="black"> {{ prot["identity_prot_B"] }}% </font></td>
+							   <td bgcolor="#ffffe6" class="lower_case"><font color="black"> {{ prot["scop_prot_B"] }}</font> </td>
+							</tr>
+						{% endfor %}
+						</table>
+{% endif %}
