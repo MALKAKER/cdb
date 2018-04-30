@@ -74,7 +74,7 @@ a:focus {
 }
 
 
-a.button { 
+a.button {
     background-color: #00A0EB;
     border-radius: 5px 5px 5px 5px;
     color: #FFFFFF;
@@ -229,7 +229,7 @@ header h1 a, header h1 a:hover {
     text-decoration: none;
     text-transform: lowercase;
 }
-header h1 a span { 
+header h1 a span {
 	color: #00A0EB;
 }
 
@@ -272,9 +272,9 @@ nav ul li a {
     text-transform: uppercase;
 }
 nav ul li.selected a,
-nav ul li.selected a:hover { 
+nav ul li.selected a:hover {
 	background-color: #00A0EB;
-	color: #fff; 
+	color: #fff;
 	font-weight:bold;
 }
 
@@ -303,7 +303,7 @@ article {
     padding: 10px 10px 20px 5px;
  }
 
-article h2 { 
+article h2 {
 	font-weight: bold;
     padding-bottom: 0;
 }
@@ -315,7 +315,7 @@ article .article-info {
     padding: 0 0 10px 0;
 }
 
-article .article-info a { 
+article .article-info a {
 	color: #666;
 }
 
@@ -361,7 +361,7 @@ article .article-info a {
 	font-size: 13.5px;
 }
 
-.sidebar li ul li.text { 
+.sidebar li ul li.text {
 	border-bottom: none;
 }
 
@@ -438,7 +438,7 @@ footer .footer-content li a {
     text-decoration: underline;
 }
 
-footer .footer-content li a:hover { 
+footer .footer-content li a:hover {
 	color: #909090;
 }
 
@@ -466,3 +466,42 @@ footer .footer-bottom p, footer .footer-bottom p a {
 	color: #666;
 }
 
+/* Style the button that is used to open and close the collapsible content */
+.collapsible {
+  background-color: #eee;
+  color: #444;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+}
+
+/* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
+.active, .collapsible:hover {
+  background-color: #ccc;
+}
+
+/* Style the collapsible content. Note: hidden by default */
+.content {
+  padding: 0 18px;
+  display: none;
+  overflow: hidden;
+  background-color: #f1f1f1;
+}
+
+/*placeholder style*/
+::placeholder {
+    color: gray;
+    opacity: 1; /* Firefox */
+}
+
+:-ms-input-placeholder { /* Internet Explorer 10-11 */
+   color: gray;
+}
+
+::-ms-input-placeholder { /* Microsoft Edge */
+   color: gray;
+}

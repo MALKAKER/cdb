@@ -1,6 +1,46 @@
 
 <!doctype html>
 <html>
+<style>
+    .tooltip {
+    position: relative;
+    display: inline-block;
+    border-bottom: 1px dotted black;
+}
+
+.tooltip .tooltiptext {
+    visibility: hidden;
+    width: 120px;
+    background-color: #555;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+    position: absolute;
+    z-index: 1;
+    bottom: 125%;
+    left: 50%;
+    margin-left: -60px;
+    opacity: 0;
+    transition: opacity 0.3s;
+}
+
+.tooltip .tooltiptext::after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #555 transparent transparent transparent;
+}
+
+.tooltip:hover .tooltiptext {
+    visibility: visible;
+    opacity: 1;
+}
+</style>
 <head>
 <link rel="icon" type="image/png" href="static/favicon-16x16.png" sizes="16x16" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -28,34 +68,108 @@
     <div id="body" class="width">
 		<section id="content">
 			<div style="color:red; background-color: FBB0B0;padding: 0px;width: 400px;">
-			  
-				  
-				
+
+
+
 			</div>
 			<div  style="background-color:#ffffb3;margin-top:0px;  align:center; ">
 				<p></p>
 				<form style="margin-left: 50px;" action = "/search" method = "POST" >
 					<!-- <br></br> -->
 					<p style="margin-left: 0px;"><span style="font-size:18px;"><span style="color:#4da6ff;"><u><strong>Search By Complex:</strong></u></span></span></p>
-					<p style="margin:4px; font-weight: bold"><font color="#0d0d0d">PDB entry:  </font><input type = "text" name = "complex_pdb" /></p>
-					<p style="margin:4px;font-weight: bold"><font color="#0d0d0d">Pub. year:  from </font><input type = "text" name = "complex_year_from" /><font color="#0d0d0d"> to</font> <input type = "text" name = "complex_year_to" /></p>
+					<p style="margin:4px; font-weight: bold">
+					    <font class="tooltip" color="#0d0d0d">PDB entry:
+					    <span class="tooltiptext">Enter pdb entry, for example: 1bvk</span>
+					    </font>
+					    <input type = "text" placeholder = "1bvk" name = "complex_pdb" />
+					</p>
+					<p style="margin:4px;font-weight: bold">
+					    <font class="tooltip" color="#0d0d0d">Pub. year:  from
+					    <span class="tooltiptext">Pub. year:  from </span>
+					    </font>
+					    <input type = "text" placeholder = "1996" name = "complex_year_from" />
+					    <font color="#0d0d0d"> to</font>
+					    <input type = "text" placeholder = "2000" name = "complex_year_to" />
+					</p>
 <!-- 						<p>Interface area:  from <input type = "text" name = "interface_from" /> to <input type = "text" name = "interface_to" /> (aa)</p>
--->					<p style="margin:4px;font-weight: bold"><font color="#0d0d0d">Resolution:  from </font><input type = "text" name = "res_from" />
-						<font color="#0d0d0d"> to </font><input type = "text" name = "res_to" /></p>
-					<p style="margin:4px;font-weight: bold"><font color="#0d0d0d">Only Antibodies: </font><select name="antibody">
+-->					<p style="margin:4px;font-weight: bold">
+                        <font class = "tooltip" color="#0d0d0d">Resolution:  from
+                        <span class="tooltiptext">resulation from</span>
+                        </font>
+                        <input type = "text" placeholder = "2.0" name = "res_from" />
+						<font color="#0d0d0d"> to </font>
+						<input type = "text" placeholder = "4.0" name = "res_to" />
+					</p>
+					<p style="margin:4px;font-weight: bold">
+					    <font class = "tooltip" color="#0d0d0d">Only Antibodies:
+					    <span class="tooltiptext">Pub. year:  from </span></font>
+					    <select name="antibody">
 					  <option value="no">no</option>
 					  <option value="yes">yes</option>
-					</select></p>
-					<p style="margin-left: 0px;"><span style="font-size:18px;"><span style="color:#4da6ff;"><u><strong>Search By Proteins:</strong></u></span></span></p>
-					<p style="margin:4px;font-weight: bold"><font color="#0d0d0d">PDB entry:  </font><input type = "text" name = "prot_pdb" /></p>
-					<p style="margin:4px;font-weight: bold"><font color="#0d0d0d">Accession num:  </font><input type = "text" name = "prot_access" /></p>
-					<p style="margin:4px;font-weight: bold"><font color="#0d0d0d">Name:  </font><input type = "text" name = "prot_name" /></p>
-					<p style="margin:4px;font-weight: bold"><font color="#0d0d0d">Length protein A:  from </font><input type = "text" name = "lengthA_from" /> <font color="#0d0d0d">to</font> <input type = "text" name = "lengthA_to" /><font color="#0d0d0d"> (aa)</font></p>
-					<p style="margin:4px;font-weight: bold"><font color="#0d0d0d">Length protein B:  from </font><input type = "text" name = "lengthB_from" /><font color="#0d0d0d"> to </font><input type = "text" name = "lengthB_to" /><font color="#0d0d0d"> (aa)</font></p>
-					<p style="margin:4px;font-weight: bold"><font color="#0d0d0d">Scop family:  </font></font><input type = "text" name = "scop" /></p>
-					<p style="margin:4px;font-weight: bold"><font color="#0d0d0d">Pub. year:  from </font><input type = "text" name = "prot_year_from" /><font color="#0d0d0d"> to </font><input type = "text" name = "prot_year_to" /></p>
-					<p style="margin:4px;font-weight: bold"><font color="#0d0d0d">Identity % :  from </font><input type = "text" name = "ident_from" /><font color="#0d0d0d">% to </font><input type = "text" name = "ident_to" /><font color="#0d0d0d">%</font></p>
-					<p><input type = "submit" value = "submit" style=" background-color: #00A0EB;border-radius: 5px 5px 5px 5px;color: #FFFFFF;display: inline-block;font-size: 13px;font-weight: bold;padding: 8px 15px;text-decoration: none;text-transform: uppercase;" /></p>
+					</select>
+					</p>
+					<p style="margin-left: 0px;">
+					    <span style="font-size:18px;"><span style="color:#4da6ff;">
+					        <u>
+					            <strong>Search By Proteins:</strong>
+					        </u>
+					</p>
+					<p style="margin:4px;font-weight: bold">
+					    <font class = "tooltip" color="#0d0d0d">PDB entry:
+					    <span class="tooltiptext">Entry</span></font>
+					    <input type = "text" placeholder = "1bvk" name = "prot_pdb" />
+					</p>
+					<p style="margin:4px;font-weight: bold">
+					    <font class = "tooltip" color="#0d0d0d">Accession num:
+					    <span class="tooltiptext">Pub. year:  from </span>
+					    </font>
+					    <input type = "text" placeholder = "9463398" name = "prot_access" />
+					</p>
+					<p style="margin:4px;font-weight: bold">
+					    <font class = "tooltip" color="#0d0d0d">Name:
+					    <span class="tooltiptext">Pub. year:  from </span></font>
+					    <input type = "text" placeholder = "ANTI-LYSOZYME" name = "prot_name" />
+					</p>
+					<p style="margin:4px;font-weight: bold">
+					    <font class = "tooltip" color="#0d0d0d">Length protein A:  from
+					    <span class="tooltiptext">Pub. year:  from </span></font>
+					    <input type = "text" placeholder = "70" name = "lengthA_from" />
+					    <font color="#0d0d0d">to</font>
+					    <input type = "text" placeholder = "130" name = "lengthA_to" /><font color="#0d0d0d"> (aa)</font>
+					</p>
+					<p style="margin:4px;font-weight: bold">
+					    <font class = "tooltip" color="#0d0d0d">Length protein B:  from
+					    <span class="tooltiptext">Pub. year:  from </span></font>
+					    <input type = "text" placeholder = "70" name = "lengthB_from" />
+					    <font color="#0d0d0d"> to </font>
+					    <input type = "text" placeholder = "130" name = "lengthB_to" />
+					    <font color="#0d0d0d"> (aa)</font>
+					</p>
+					<p style="margin:4px;font-weight: bold">
+					    <font class = "tooltip" color="#0d0d0d">Scop family:
+					    <span class="tooltiptext">Pub. year:  from </span></font>
+					    </font>
+					    <input type = "text" placeholder = "Lysozyme-like" name = "scop" />
+					</p>
+					<p style="margin:4px;font-weight: bold">
+					    <font class = "tooltip" color="#0d0d0d">Pub. year:  from
+					    <span class="tooltiptext">Pub. year:  from </span></font>
+					    <input type = "text" placeholder = "1996" name = "prot_year_from" />
+					    <font color="#0d0d0d"> to </font>
+					    <input type = "text" placeholder = "2000" name = "prot_year_to" />
+					</p>
+					<p style="margin:4px;font-weight: bold">
+					    <font class = "tooltip" color="#0d0d0d">Identity % :  from
+					    <span class="tooltiptext">Pub. year:  from </span></font>
+
+					    <input type = "text" placeholder = "80" name = "ident_from" />
+					    <font color="#0d0d0d">% to </font>
+					    <input type = "text" placeholder = "95" name = "ident_to" />
+					    <font color="#0d0d0d">%</font>
+					</p>
+					<p>
+					    <input type = "submit" value = "submit" style=" background-color: #00A0EB;border-radius: 5px 5px 5px 5px;color: #FFFFFF;display: inline-block;font-size: 13px;font-weight: bold;padding: 8px 15px;text-decoration: none;text-transform: uppercase;" />
+					</p>
 					<br></br>
 				</form>
 			</div>

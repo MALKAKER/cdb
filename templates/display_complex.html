@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+    box-sizing: border-box;
+}
+
+/* Create two equal columns that floats next to each other */
+.column {
+    float: left;
+    width: 50%;
+    padding: 10px;
+    height: auto; /* Should be removed. Only for demonstration */
+}
+
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+</style>
+</head>
+<body>
+
+<div class="row">
+  <div class="column" style="background-color:#ffffe6;">
+    <img src="https://cdn.rcsb.org/images/rutgers/54/254l/254l.pdb1-250.jpg"><img>
+  </div>
+  <div class="column" style="background-color:#ffffe6;">
+    <h2>{{}}</h2>
+    <p>Resolution: {{}}</p>
+    <p>Publication year: {{}}</p>
+    <p>Method: {{}}</p>
+    <p>Stoichimetry: {{}}</p>
+    <p>Interface chains: {{}}</p>
+    <p>Interface residues: {{}}</p>
+  </div>
+</div>
+<div class="row">
+  <div class="column" style="background-color:#ccccff;">
+    <h2>Subunit 1: {{}}</h2>
+    <p>Name: {{}}</p>
+    <p>PDB entry: {{}}</p>
+    <p>Accession: {{}}</p>
+    <p>Length: {{}}</p>
+    <p>Method: {{}}</p>
+    <p>Stoichiometry: {{}}</p>
+    <p>Chains in interface: {{}}</p>
+    <p>PDB entry: {{}}</p>
+    <p>Identity: {{}}</p>
+    <p>RMSD: {{}}</p>
+    <p>Scope: {{}}</p>
+  </div>
+  <div class="column" style="background-color:#e6e6ff;">
+    <h2>Subunit 2: {{}}</h2>
+    <p>Name: {{}}</p>
+    <p>PDB entry: {{}}</p>
+    <p>Accession: {{}}</p>
+    <p>Length: {{}}</p>
+    <p>Method: {{}}</p>
+    <p>Stoichiometry: {{}}</p>
+    <p>Chains in interface: {{}}</p>
+    <p>PDB entry: {{}}</p>
+    <p>Identity: {{}}</p>
+    <p>RMSD: {{}}</p>
+    <p>Scope: {{}}</p>
+  </div>
+</div>
+</body>
+</html>

@@ -1,0 +1,27 @@
+<!doctype html>
+<html>
+<head>
+<link rel="icon" type="image/png" href="static/favicon-16x16.png" sizes="16x16" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>CDB - complex database</title>
+<link rel="stylesheet" href="/static/styles.css"  type="text/css" />
+<script src="/static/sorttable.js"></script>
+</head>
+<div id="body" class="width" style="   margin-left: 20px;    margin-right: 20px;" >
+		<section id="content">
+			<article>
+				<a href="/cdb/search" class="button">back to search</a>
+				<p></p>
+				<p></p>
+				<p style="text-align: left;"><span style="font-size:18px;"><span style="color:#0000cd;"><b>{{count}} results.</b></span></span></p>
+				<p style="text-align: left;"><span style="font-size:18px;"><span style="color:#0000cd;">{{theQuery}}</span></span></p>
+				<p></p>
+				<container>
+{%if not result%}
+	<script>alert("no results")</script>
+{% else %}
+
+	<a href="/result_txt">Results in text format</a>
+    <script type=text/javascript src="{{url_for('static', filename='js/main.js') }}"></script>
+
+{% endif %}
