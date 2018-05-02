@@ -1,0 +1,256 @@
+<!doctype html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="icon" type="image/png" href="static/favicon-16x16.png" sizes="16x16" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>CDB - complex database</title>
+<link rel="stylesheet" href="/static/styles.css"  type="text/css" />
+<script src="/static/sorttable.js"></script>
+<style>
+* {
+    box-sizing: border-box;
+}
+
+.accordion {
+    background-color: #eee;
+    color: #444;
+    cursor: pointer;
+    padding: 18px;
+    width: 100%;
+    border: none;
+    text-align: left;
+    outline: none;
+    font-size: 15px;
+    transition: 0.4s;
+}
+
+.active, .accordion:hover {
+    background-color: #ccc;
+}
+
+.panel {
+    padding: 0 18px;
+    display: none;
+    background-color: white;
+    overflow: hidden;
+}
+/* Create two equal columns that floats next to each other */
+.column {
+    float: left;
+    width: 50%;
+    padding: 10px;
+    height: 100%; /* Should be removed. Only for demonstration */
+}
+
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display:  flex; /* equal height of the children */
+    clear: both;
+}
+</style>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+</head>
+    <div id="body" class="width" style="   margin-left: 20px;    margin-right: 20px;" >
+		<section id="content">
+			<article>
+				<a href="/cdb/search" class="button">back to search</a>
+				<p></p>
+				<p></p>
+				<p style="text-align: left;"><span style="font-size:18px;"><span style="color:#0000cd;"><b>{{count}} results.</b></span></span></p>
+				<p style="text-align: left;"><span style="font-size:18px;"><span style="color:#0000cd;">{{theQuery}}</span></span></p>
+				<p></p>
+				<container>
+{%if not result%}
+	<script>alert("no results")</script>
+{% else %}
+	<a href="/result_txt">Results in text format</a>
+    <ul>
+        <style>
+            ul {
+               list-style: none;
+               margin: 0;
+               padding: 0;
+            }
+            .row {
+              display: flex; /* equal height of the children */
+              border: solid;
+            }
+            .col {
+              flex: 1; /* additionally, equal width */
+
+              padding: 1em;
+              border: solid;
+            }
+        </style>
+
+        {% for prot in result %}
+
+            <li>
+            <button class="accordion" style="background-color:#ffffe6;">
+                <div class="row">
+                    <div class="column" style="background-color:#ffffe6;">
+                    <img src="https://cdn.rcsb.org/images/rutgers/54/254l/254l.pdb1-	250.jpg"><img>
+                  </div>
+                    <div class="column" style="background-color:#ffffe6;">
+                    <h2>
+                        <a  href={{prot["link"]}}> {{ prot["pdb_entry"] }}  </a>
+                    </h2>
+                    <p></p>
+                    <p><strong>Resolution: </strong>
+                    {{prot["resolution"]}}</p>
+                    <p>
+                        <strong>Publication year: </strong>
+                        {{prot["year_pub"]}}
+                    </p>
+                    <p>
+                        <strong>Method: </strong>
+                        {{prot["method_complex"]}}
+                    </p>
+                    <p>
+                        <strong>Stoichimetry: </strong>
+                        {{prot["stoichiometry_complex"]}}
+                    </p>
+                    <p>
+                        <strong>Interface chains: </strong>
+                        {{prot["chains_in_interface_complex"]}}
+                    </p>
+                    <p>
+                        <strong>Interface residues: </strong>
+                        {{prot["num_interface_residues_complex"]}}
+                    </p>
+
+                    <p >
+                        <strong>See also; </strong>
+                        <p id = "identicalComplexes">{{prot["indentical_complexes"]}}</p>
+                    </p>
+                        <script>
+                            function separate_names(complexes) {
+                                var res = str.split(";");
+                                var text = "";
+                                for (i = 0; i < res.length; i++) {
+                                    text += "<a href = http://www.rcsb.org/structure/" +  res[i] + ">"+ res[i] + ", <a>";
+                            	}
+                                document.getElementById("identicalComplexes").innerHTML = text;
+                            }
+                        </script>
+                        <script>separate_names({{prot["indentical_complexes"]}})</script>
+                    <script>separate_names({{prot["indentical_complexes"]}})</script>
+                  </div>
+                </div>
+            </button>
+            <div class="panel">
+                <div class="row">
+                    <div class="col" style="background-color:#ccccff;">
+                        <h1>
+                            <strong>Subunit 1:</strong>
+                            <a id="accA_1" href={{prot["pdb_prot_A"]}}> {{ prot["pdb_prot_A"]}}</a>
+                        </h1>
+                        <p>
+                            <strong>Name: </strong>
+                            {{prot["name_prot_A"]}}
+                        </p>
+                        <p>
+                            <strong>Accession: </strong>
+                            <a id="accA_1" href={{prot["linkAccessionPA_1"]}}> {{ prot["accession_prot_A_1"]}}</a>
+                        </p>
+                        <p>
+                            <strong>Length: </strong>
+                            {{prot["length_protein_A"]}}
+                        </p>
+                        <p>
+                            <strong>Method: </strong>
+                            {{prot["method_prot_A"]}}
+                        </p>
+                        <p>
+                            <strong>Stoichiometry: </strong>
+                            {{prot["stoichiometry_prot_A"]}}
+                        </p>
+                        <p>
+                            <strong>Chains in interface: </strong>
+                            {{chains_in_interface_prot_A}}
+                        </p>
+                        <p>
+                            <strong>Identity: </strong>
+                            {{prot["identity_prot_A"]}}
+                        </p>
+                        <p>
+                            <strong>RMSD: </strong>
+                            {{prot["rmsd_prot_A"]}}
+                        </p>
+                        <p>
+                            <strong>Scope: </strong>
+                            {{prot["scop_prot_A"]}}
+                        </p>
+                    </div>
+                <div class="col" style="background-color:#e6e6ff;">
+                        <h1>
+                            <strong>Subunit 2:</strong>
+                            <a id="accA_1" href={{prot["pdb_prot_B"]}}> {{ prot["pdb_prot_B"]}}</a>
+                        </h1>
+                        <p>
+                            <strong>Name: </strong>
+                            {{prot["name_prot_B"]}}
+                        </p>
+                        <p>
+                            <strong>Accession: </strong>
+                            <a id="accA_1" href={{prot["linkAccessionPA_1"]}}> {{ prot["accession_prot_B_1"]}}</a>
+                        </p>
+                        <p>
+                            <strong>Length: </strong>
+                            {{prot["length_protein_B"]}}
+                        </p>
+                        <p>
+                            <strong>Method: </strong>
+                            {{prot["method_prot_B"]}}
+                        </p>
+                        <p>
+                            <strong>Stoichiometry: </strong>
+                            {{prot["stoichiometry_prot_B"]}}
+                        </p>
+                        <p>
+                            <strong>Chains in interface: </strong>
+                            {{chains_in_interface_prot_B}}
+                        </p>
+                        <p>
+                            <strong>Identity: </strong>
+                            {{prot["identity_prot_B"]}}
+                        </p>
+                        <p>
+                            <strong>RMSD: </strong>
+                            {{prot["rmsd_prot_B"]}}
+                        </p>
+                        <p>
+                            <strong>Scope: </strong>
+                            {{prot["scop_prot_B"]}}
+                        </p>
+              </div>
+                </div>
+            </div>
+            </li>
+	    {% endfor %}
+    </ul>
+    <!--<script type=text/javascript src="{{url_for('static', filename='js/main.js') }}"></script>-->
+
+<script>
+var acc = document.getElementsByClassName("accordion");
+var i;
+
+for (i = 0; i < acc.length; i++) {
+    acc[i].addEventListener("click", function() {
+        this.classList.toggle("active");
+        var panel = this.nextElementSibling;
+        if (panel.style.display === "block") {
+            panel.style.display = "none";
+        } else {
+            panel.style.display = "block";
+        }
+    });
+}
+</script>
+{% endif %}
+</div>
+</html>

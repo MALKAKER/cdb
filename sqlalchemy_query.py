@@ -1,6 +1,6 @@
 #from sqlalchemy_declarative import Complex
 #from sqlalchemy import create_engine
-#engine = create_engine('mysql://mhacker:2utenLsi@mhacker.mysql.pythonanywhere-services.com/mhacker$comlex_data')
+#engine = create_engine('mysql://mhacker:2utenLsi@mhacker.mysql.pythonanywhere-services.com/mhacker$complex_data')
 #Base.metadata.bind = engine
 #from sqlalchemy.orm import sessionmaker
 #DBSession = sessionmaker()

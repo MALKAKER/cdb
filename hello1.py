@@ -99,12 +99,15 @@ def index():
             "reso_prot_B":str(c.reso_prot_B),"year_pub_prot_B":str(c.year_pub_prot_B),"res_num_prot_B":str(c.res_num_prot_B),
             "stoichiometry_prot_A":c.stoichiometry_prot_A,"method_prot_A":c.method_prot_A,"chains_in_interface_prot_A":str(c.chains_in_interface_prot_A),"rmsd_prot_A":str(c.rmsd_prot_A),"stoichiometry_prot_B":c.stoichiometry_prot_B,
             "method_prot_B":c.stoichiometry_prot_B,"chains_in_interface_prot_B":str(c.chains_in_interface_prot_B),"rmsd_prot_B":str(c.rmsd_prot_B),"stoichiometry_complex": c.stoichiometry_complex,
-            "method_complex":str(c.method_complex),"chains_in_interface_complex":str(c.chains_in_interface_complex),"indentical_complexes":str(c.indentical_complexes),"num_interface_residues_complex":str(c.num_interface_residues_complex)}
+            "method_complex":str(c.method_complex),"chains_in_interface_complex":str(c.chains_in_interface_complex),"indentical_complexes":c.indentical_complexes,"num_interface_residues_complex":str(c.num_interface_residues_complex)}
+
+
+            t={}
             p.append(t)
 
     index.save_results=list(p)
-
-    return render_template("result6.html",result = p,exception="",theQuery=theQuery,count=len(p))
+    print("html5")
+    return render_template("result3.html",result = p,exception="",theQuery=theQuery,count=len(p))
 
 
 
@@ -221,12 +224,12 @@ def cdbindex():
             "reso_prot_B":str(c.reso_prot_B),"year_pub_prot_B":str(c.year_pub_prot_B),"res_num_prot_B":str(c.res_num_prot_B),
             "stoichiometry_prot_A":c.stoichiometry_prot_A,"method_prot_A":c.method_prot_A,"chains_in_interface_prot_A":str(c.chains_in_interface_prot_A),"rmsd_prot_A":str(c.rmsd_prot_A),"stoichiometry_prot_B":c.stoichiometry_prot_B,
             "method_prot_B":c.stoichiometry_prot_B,"chains_in_interface_prot_B":str(c.chains_in_interface_prot_B),"rmsd_prot_B":str(c.rmsd_prot_B),"stoichiometry_complex": c.stoichiometry_complex,
-            "method_complex":str(c.method_complex),"chains_in_interface_complex":str(c.chains_in_interface_complex),"indentical_complexes":str(c.indentical_complexes),"num_interface_residues_complex":str(c.num_interface_residues_complex)}
+            "method_complex":str(c.method_complex),"chains_in_interface_complex":str(c.chains_in_interface_complex),"indentical_complexes":c.indentical_complexes,"num_interface_residues_complex":str(c.num_interface_residues_complex)}
             t={}
             p.append(t)
 
     index.save_results=list(p)
-    return render_template("result6.html",result = p,exception="",theQuery=theQuery,count=len(p))
+    return render_template("result3.html",result = p,exception="",theQuery=theQuery,count=len(p))
 
 
 #@app.route("/tt", methods=["GET", "POST"])

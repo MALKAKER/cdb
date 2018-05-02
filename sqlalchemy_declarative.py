@@ -60,7 +60,6 @@ class Complex(db.Model):
     chains_in_interface_prot_A = db.Column(db.String(100))
     rmsd_prot_A = db.Column(db.Float(20))
     #num_interface_residues_prot_A = db.Column(db.Float(20))
-
     stoichiometry_prot_B = db.Column(db.String(100))
     method_prot_B = db.Column(db.String(100))
     chains_in_interface_prot_B = db.Column(db.String(100))

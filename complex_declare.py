@@ -65,9 +65,26 @@ class Complex(db.Model):
     identity_prot_B=db.Column(db.Integer)
     seq_prot_B=db.Column(db.String(100))
     res_num_prot_B = db.Column(db.Integer)#   not yet implemented
+    stoichiometry_prot_A = db.Column(db.String(100))
+    method_prot_A = db.Column(db.String(100))
+    chains_in_interface_prot_A = db.Column(db.String(100))
+    rmsd_prot_A = db.Column(db.Float(20))
+    #num_interface_residues_prot_A = db.Column(db.Float(20))
+    stoichiometry_prot_B = db.Column(db.String(100))
+    method_prot_B = db.Column(db.String(100))
+    chains_in_interface_prot_B = db.Column(db.String(100))
+    rmsd_prot_B = db.Column(db.Float(20))
+    #num_interface_residues_prot_B = db.Column(db.Float(20))
 
+    stoichiometry_complex = db.Column(db.String(100))
+    method_complex = db.Column(db.String(100))
+    chains_in_interface_complex = db.Column(db.String(100))
+    indentical_complexes = db.Column(db.String(100))
+    num_interface_residues_complex = db.Column(db.Float(20))
     def __str__(self):
         s=str(self.pdb_entry[0:4])+"\t"+str(self.resolution)+"\t"+str(self.year_pub)+"\t"+str(self.pdb_prot_A[0:4])+"\t"+str(self.identity_prot_A)+"\t"+str(self.year_pub_prot_A)+"\t"+str(self.length_protein_A)+"\t"+str(self.reso_prot_A)+"\t"+str(self.pdb_prot_B[0:4])+"\t"+str(self.identity_prot_B)+"\t"+str(self.year_pub_prot_B)+"\t"+str(self.length_protein_B)+"\t"+str(self.reso_prot_B)
+        # feature addition
+        s = s.strip() + "\t" + str(self.stoichiometry_prot_A) + "\t" + str(self.method_prot_A) + "\t" + str(self.chains_in_interface_prot_A) + "\t" + str(self.rmsd_prot_A) + "\t" + str(self.stoichiometry_prot_B) + "\t" + str(self.method_prot_B) + "\t" + str(self.chains_in_interface_prot_B) + "\t" + str(self.rmsd_prot_B) + "\t" + str(self.stochiometry_complex) + "\t" + str(self.method_complex) + "\t" + str(self.chains_in_interface_complex) + "\t" + str(self.num_interface_residues_complex) + "\t" + str(self.indentical_complexes)
         return s
 
 

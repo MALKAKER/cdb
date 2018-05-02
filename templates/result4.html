@@ -1,13 +1,78 @@
 <!doctype html>
 <html>
 <head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="icon" type="image/png" href="static/favicon-16x16.png" sizes="16x16" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>CDB - complex database</title>
 <link rel="stylesheet" href="/static/styles.css"  type="text/css" />
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 <script src="/static/sorttable.js"></script>
+<style>
+* {
+    box-sizing: border-box;
+}
+
+/* Create two equal columns that floats next to each other */
+.column {
+    float: left;
+    width: 50%;
+    padding: 10px;
+    height: auto; /* Should be removed. Only for demonstration */
+}
+
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+</style>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.collapsible {
+    background-color: #ffffe6;
+    color: black;
+    cursor: pointer;
+    padding: 18px;
+    width: 100%;
+    border: none;
+    text-align: left;
+    outline: none;
+    font-size: 15px;
+}
+
+.active, .collapsible:hover {
+    background-color: #ffffe6;
+}
+
+.collapsible:after {
+    content: '\002B';
+    color: white;
+    font-weight: bold;
+    float: right;
+    margin-left: 5px;
+}
+
+.active:after {
+    content: "\2212";
+}
+
+.content {
+    padding: 0 18px;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.2s ease-out;
+    background-color: #f1f1f1;
+}
+</style>
+
 </head>
-<div id="body" class="width" style="   margin-left: 20px;    margin-right: 20px;" >
+
+<body>
+    <div id="body" class="width" style="   margin-left: 20px;    margin-right: 20px;" >
 		<section id="content">
 			<article>
 				<a href="/cdb/search" class="button">back to search</a>
@@ -22,6 +87,89 @@
 {% else %}
 
 	<a href="/result_txt">Results in text format</a>
-    <script type=text/javascript src="{{url_for('static', filename='js/main.js') }}"></script>
+    <ul>
+        <style>
+            ul {
+               list-style: none;
+               margin: 0;
+               padding: 0;
+            }
+        </style>
+        {% for prot in result %}
+            <li>
+            <div type="button" data-toggle="collapse" data-target="#demo">
+            <div class="row">
+              <div class="column" style="background-color:#ffffe6;">
+                <img src="https://cdn.rcsb.org/images/rutgers/54/254l/254l.pdb1-	250.jpg"><img>
+              </div>
+              <div class="column" style="background-color:#ffffe6;">
+                <a  href={{prot["link"]}}> {{ prot["pdb_entry"] }}  </a>
+                <p>Resolution: {{prot["resolution"]}}</p>
+                <p>Publication year: {{prot["year_pub"]}}</p>
+                <p>Method: {{prot["method_complex"]}}</p>
+                <p>Stoichimetry: {{prot["stoichiometry_complex"]}}</p>
+                <p>Interface chains: {{prot["chains_in_interface_complex"]}}</p>
+                <p>Interface residues: {{prot["num_interface_residues_complex"]}}</p>
+              </div>
+            </div>
+            </div>
+            <div id="demo" class="collapse">
+              <div class="row">
+              <div class="column" style="background-color:#ccccff;">
+                <h2>Subunit 1:
+                <a id="accA_1" href={{prot["linkAccessionPA_1"]}}> {{ prot["accession_prot_A_1"]}}</a>
+                </h2>
+                <p>Name: {{prot["name_prot_A"]}}</p>
+                <p>Accession:
+                <a id="accA_1" href={{prot["linkAccessionPA_1"]}}> {{ prot["accession_prot_A_1"]}}</a>
+                </p>
+                <p>Length: {{prot["length_protein_A"]}}</p>
+                <p>Method: {{prot["method_prot_A"]}}</p>
+                <p>Stoichiometry: {{prot["stoichiometry_prot_A"]}}</p>
+                <p>Chains in interface: {{"chains_in_interface_prot_A"}}</p>
+                <p>Identity: {{prot["identity_prot_A"]}}</p>
+                <p>RMSD: {{prot["rmsd_prot_A"]}}</p>
+                <p>Scope: {{prot["scop_prot_A"]}}</p>
+              </div>
+              <div class="column" style="background-color:#e6e6ff;">
+                <h2>Subunit 2:
+                <a id="accA_2" href={{prot["linkAccessionPA_2"]}}> {{ prot["accession_prot_A_2"]}}</a>
+                </h2>
+                <p>Name: {{prot["name_prot_B"]}}</p>
+                <p>Accession:
+                <a id="accB_1" href={{prot["linkAccessionPB_1"]}}> {{ prot["accession_prot_B_1"]}}</a>
+                </p>
+                <p>Length: {{prot["length_protein_B"]}}</p>
+                <p>Method: {{prot["method_prot_B"]}}</p>
+                <p>Stoichiometry: {{prot["stoichiometry_prot_B"]}}</p>
+                <p>Chains in interface: {{chains_in_interface_prot_B}}</p>
+                <p>Identity: {{prot["identity_prot_B"]}}</p>
+                <p>RMSD: {{prot["rmsd_prot_B"]}}</p>
+                <p>Scope: {{prot["scop_prot_B"]}}</p>
+              </div>
+            </div>
+            </div>
+            </li>
+	    {% endfor %}
+    </ul>
+    <!--<script type=text/javascript src="{{url_for('static', filename='js/main.js') }}"></script>-->
 
 {% endif %}
+<script>
+var coll = document.getElementsByClassName("collapsible");
+var i;
+
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content = this.nextElementSibling;
+    if (content.style.maxHeight){
+      content.style.maxHeight = null;
+    } else {
+      content.style.maxHeight = content.scrollHeight + "px";
+    }
+  });
+}
+</script>
+</body>
+
