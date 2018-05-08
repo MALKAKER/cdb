@@ -27,32 +27,32 @@ def index():
     if request.method == "GET":
         return render_template("search.html")
 
-    #comments.append((request.form['complex_pdb']).strip())
-    complex_pdb=(request.form['complex_pdb']).strip()
-    com_year_from=request.form['complex_year_from']
-    com_year_to=request.form['complex_year_to']
-    name=request.form['prot_name'].strip()
-    is_antibody=request.form['antibody']
-    prot_pdb=request.form['prot_pdb'].strip()
-    prot_access=request.form['prot_access'].strip()
-    scop_family=request.form['scop']
-    pro_year_from=request.form['prot_year_from']
-    pro_year_to=request.form['prot_year_to']
-    len_A_from=request.form['lengthA_from']
-    len_A_to=request.form['lengthA_to']
-    len_B_from=request.form['lengthB_from']
-    len_B_to=request.form['lengthB_to']
-    res_from=request.form['res_from']
-    res_to=request.form['res_to']
-    ident_from=request.form['ident_from']
-    ident_to=request.form['ident_to']
-    flag=False
+#     #comments.append((request.form['complex_pdb']).strip())
+#     complex_pdb=(request.form['complex_pdb']).strip()
+#     #com_year_from=request.form['complex_year_from']
+#     #com_year_to=request.form['complex_year_to']
+#     name=request.form['prot_name'].strip()
+#     is_antibody=request.form['antibody']
+#     prot_pdb=request.form['prot_pdb'].strip()
+#     prot_access=request.form['prot_access'].strip()
+#     scop_family=request.form['scop']
+#   #pro_year_from=request.form['prot_year_from']
+#     #pro_year_to=request.form['prot_year_to']
+#     len_A_from=request.form['lengthA_from']
+#     len_A_to=request.form['lengthA_to']
+#     len_B_from=request.form['lengthB_from']
+#     len_B_to=request.form['lengthB_to']
+#     res_from=request.form['res_from']
+#     res_to=request.form['res_to']
+#     ident_from=request.form['ident_from']
+#     ident_to=request.form['ident_to']
+#     flag=False
 
 
 
        # pass the list of the results
     listC,exception,theQuery=sqlalchemy_query.search_results(request) #sending to search functions in class sqlalchemy_query
-    data=""
+    # data=""
     i=0
     p=[]
     if(listC):
@@ -98,13 +98,13 @@ def index():
             "length_protein_B":str(c.length_protein_B),"identity_prot_B":str(c.identity_prot_B),"scop_prot_B":str(c.scop_prot_B),
             "reso_prot_B":str(c.reso_prot_B),"year_pub_prot_B":str(c.year_pub_prot_B),"res_num_prot_B":str(c.res_num_prot_B),
             "stoichiometry_prot_A":c.stoichiometry_prot_A,"method_prot_A":c.method_prot_A,"chains_in_interface_prot_A":str(c.chains_in_interface_prot_A),"rmsd_prot_A":str(c.rmsd_prot_A),"stoichiometry_prot_B":c.stoichiometry_prot_B,
-            "method_prot_B":c.stoichiometry_prot_B,"chains_in_interface_prot_B":str(c.chains_in_interface_prot_B),"rmsd_prot_B":str(c.rmsd_prot_B),"stoichiometry_complex": c.stoichiometry_complex,
-            "method_complex":str(c.method_complex),"chains_in_interface_complex":str(c.chains_in_interface_complex),"indentical_complexes":str(c.indentical_complexes),"num_interface_residues_complex":str(c.num_interface_residues_complex)}
+            "method_prot_B":c.method_prot_B,"chains_in_interface_prot_B":str(c.chains_in_interface_prot_B),"rmsd_prot_B":str(c.rmsd_prot_B),"stoichiometry_complex": c.stoichiometry_complex,
+            "method_complex":str(c.method_complex),"chains_in_interface_complex":str(c.chains_in_interface_complex),"indentical_complexes":c.indentical_complexes,"num_interface_residues_complex":str(c.num_interface_residues_complex)}
             p.append(t)
 
     index.save_results=list(p)
 
-    return render_template("result6.html",result = p,exception="",theQuery=theQuery,count=len(p))
+    return render_template("result7.html",result = p,exception="",theQuery=theQuery,count=len(p))
 
 
 
@@ -141,26 +141,26 @@ def cdbindex():
     if request.method == "GET":
         return render_template("search.html")
 
-    #comments.append((request.form['complex_pdb']).strip())
-    complex_pdb=(request.form['complex_pdb']).strip()
-    com_year_from=request.form['complex_year_from']
-    com_year_to=request.form['complex_year_to']
-    name=request.form['prot_name'].strip()
-    is_antibody=request.form['antibody']
-    prot_pdb=request.form['prot_pdb'].strip()
-    prot_access=request.form['prot_access'].strip()
-    scop_family=request.form['scop']
-    pro_year_from=request.form['prot_year_from']
-    pro_year_to=request.form['prot_year_to']
-    len_A_from=request.form['lengthA_from']
-    len_A_to=request.form['lengthA_to']
-    len_B_from=request.form['lengthB_from']
-    len_B_to=request.form['lengthB_to']
-    res_from=request.form['res_from']
-    res_to=request.form['res_to']
-    ident_from=request.form['ident_from']
-    ident_to=request.form['ident_to']
-    flag=False
+    # #comments.append((request.form['complex_pdb']).strip())
+    # complex_pdb=(request.form['complex_pdb']).strip()
+    # #com_year_from=request.form['complex_year_from']
+    # #com_year_to=request.form['complex_year_to']
+    # name=request.form['prot_name'].strip()
+    # is_antibody=request.form['antibody']
+    # prot_pdb=request.form['prot_pdb'].strip()
+    # prot_access=request.form['prot_access'].strip()
+    # scop_family=request.form['scop']
+    # #pro_year_from=request.form['prot_year_from']
+    # #pro_year_to=request.form['prot_year_to']
+    # len_A_from=request.form['lengthA_from']
+    # len_A_to=request.form['lengthA_to']
+    # len_B_from=request.form['lengthB_from']
+    # len_B_to=request.form['lengthB_to']
+    # res_from=request.form['res_from']
+    # res_to=request.form['res_to']
+    # ident_from=request.form['ident_from']
+    # ident_to=request.form['ident_to']
+    # flag=False
 
 
 
@@ -208,7 +208,7 @@ def cdbindex():
 
 
                #text for download:
-            content = ""
+            #content = ""
             t={"pdb_entry":str(c.pdb_entry),"link":link,"year_pub":str(c.year_pub),"resolution":str(c.resolution),
             "pdb_prot_A":str(c.pdb_prot_A),"linkPA":str(linkPA),"linkAccessionPA_1":link_acc_A_1,
             "linkAccessionPA_2":link_acc_A_2,"name_prot_A":str(c.name_prot_A),"accession_prot_A_1":accession_prot_A_1,
@@ -221,12 +221,12 @@ def cdbindex():
             "reso_prot_B":str(c.reso_prot_B),"year_pub_prot_B":str(c.year_pub_prot_B),"res_num_prot_B":str(c.res_num_prot_B),
             "stoichiometry_prot_A":c.stoichiometry_prot_A,"method_prot_A":c.method_prot_A,"chains_in_interface_prot_A":str(c.chains_in_interface_prot_A),"rmsd_prot_A":str(c.rmsd_prot_A),"stoichiometry_prot_B":c.stoichiometry_prot_B,
             "method_prot_B":c.stoichiometry_prot_B,"chains_in_interface_prot_B":str(c.chains_in_interface_prot_B),"rmsd_prot_B":str(c.rmsd_prot_B),"stoichiometry_complex": c.stoichiometry_complex,
-            "method_complex":str(c.method_complex),"chains_in_interface_complex":str(c.chains_in_interface_complex),"indentical_complexes":str(c.indentical_complexes),"num_interface_residues_complex":str(c.num_interface_residues_complex)}
+            "method_complex":str(c.method_complex),"chains_in_interface_complex":str(c.chains_in_interface_complex),"indentical_complexes":c.indentical_complexes,"num_interface_residues_complex":str(c.num_interface_residues_complex)}
             t={}
             p.append(t)
 
     index.save_results=list(p)
-    return render_template("result6.html",result = p,exception="",theQuery=theQuery,count=len(p))
+    return render_template("result7.html",result = p,exception="",theQuery=theQuery,count=len(p))
 
 
 #@app.route("/tt", methods=["GET", "POST"])

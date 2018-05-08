@@ -40,15 +40,17 @@
     visibility: visible;
     opacity: 1;
 }
+
 </style>
 <head>
 <link rel="icon" type="image/png" href="static/favicon-16x16.png" sizes="16x16" />
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />-->
 <title>CDB - complex database</title>
 <link rel="stylesheet" href="/static/styles.css" type="text/css" />
 </head>
 <body>
-<div id="container">
+<div id="container" style="width:100%;">
     <header>
 				<img src="/static/images/logoCDB2.png" alt="logoCDB" style="width:250px;height:100px;">
 
@@ -84,12 +86,30 @@
 					    <input type = "text" placeholder = "1bvk" name = "complex_pdb" />
 					</p>
 					<p style="margin:4px;font-weight: bold">
-					    <font class="tooltip" color="#0d0d0d">Pub. year:  from
-					    <span class="tooltiptext">Pub. year:  from </span>
+					    <font class="tooltip" color="#0d0d0d">Method
+					    <span class="tooltiptext">Method</span>
 					    </font>
-					    <input type = "text" placeholder = "1996" name = "complex_year_from" />
-					    <font color="#0d0d0d"> to</font>
-					    <input type = "text" placeholder = "2000" name = "complex_year_to" />
+					    <select name="method">
+					        <option value=""></option>
+					        <option value="X-RAY DIFFRACTION">X-RAY DIFFRACTION</option>
+					        <option value="SOLUTION NMR">SOLUTION NMR</option>
+					        <option value="ELECTRON MICROSCOPY">ELECTRON MICROSCOPY</option>
+					    </select>
+					    <!--<input type = "text" placeholder = "X -Ray" name = "method" />-->
+					</p>
+					<p style="margin:4px;font-weight: bold">
+					    <font class="tooltip" color="#0d0d0d">Stoichiometry
+					    <span class="tooltiptext">stoichiometry</span>
+					    </font>
+					    <select name="stoichiometry">
+					        <option value=""></option>
+					        <option value="Hetero 2-mer - AB">Hetero 2-mer - AB</option>
+					        <option value="Hetero 3-mer - ABC">Hetero 3-mer - ABC</option>
+					        <option value="Hetero 4-mer - ABCD">Hetero 4-mer - ABCD</option>
+					        <option value="Hetero 5-mer - ABCDE">Hetero 5-mer - ABCDE</option>
+					        <option value="Hetero 6-mer - ABCDEF">Hetero 6-mer - ABCDEF</option>
+					    </select>
+					    <!--<input type = "text" placeholder = "Hetero 2-mer AB" name = "stoichiometry" />-->
 					</p>
 <!-- 						<p>Interface area:  from <input type = "text" name = "interface_from" /> to <input type = "text" name = "interface_to" /> (aa)</p>
 -->					<p style="margin:4px;font-weight: bold">
@@ -103,7 +123,7 @@
 					<p style="margin:4px;font-weight: bold">
 					    <font class = "tooltip" color="#0d0d0d">Only Antibodies:
 					    <span class="tooltiptext">Pub. year:  from </span></font>
-					    <select name="antibody">
+					<select name="antibody">
 					  <option value="no">no</option>
 					  <option value="yes">yes</option>
 					</select>
@@ -131,6 +151,11 @@
 					    <input type = "text" placeholder = "ANTI-LYSOZYME" name = "prot_name" />
 					</p>
 					<p style="margin:4px;font-weight: bold">
+					    <font class = "tooltip" color="#0d0d0d">RMSD interface chains
+					    <span class="tooltiptext">RMSD interface chains</span></font>
+					    <input type = "text" placeholder = "1.5" name = "cutoff" />
+					</p>
+					<p style="margin:4px;font-weight: bold">
 					    <font class = "tooltip" color="#0d0d0d">Length protein A:  from
 					    <span class="tooltiptext">Pub. year:  from </span></font>
 					    <input type = "text" placeholder = "70" name = "lengthA_from" />
@@ -150,13 +175,6 @@
 					    <span class="tooltiptext">Pub. year:  from </span></font>
 					    </font>
 					    <input type = "text" placeholder = "Lysozyme-like" name = "scop" />
-					</p>
-					<p style="margin:4px;font-weight: bold">
-					    <font class = "tooltip" color="#0d0d0d">Pub. year:  from
-					    <span class="tooltiptext">Pub. year:  from </span></font>
-					    <input type = "text" placeholder = "1996" name = "prot_year_from" />
-					    <font color="#0d0d0d"> to </font>
-					    <input type = "text" placeholder = "2000" name = "prot_year_to" />
 					</p>
 					<p style="margin:4px;font-weight: bold">
 					    <font class = "tooltip" color="#0d0d0d">Identity % :  from

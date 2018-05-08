@@ -188,6 +188,31 @@ def filterByInterface(prevList,interface_from,interface_to,theQuery):
                 listNew.append(c)
     return listNew,theQuery
 
+def filterByRMSD(prevList , cutoff , theQuery):
+    listNew=[]
+    theQuery +="RMS cutoff:" + cutoff + "   ;  "
+    for c in prevList:
+        if(c.rmsd_prot_A <= int(cutoff) and c.rmsd_prot_B <= int(cutoff)):
+            listNew.append(c)
+    return listNew,theQuery
+
+def filterByMethod(prevList , method , theQuery):
+    listNew=[]
+    theQuery +="Method (complex): " + method + "   ;  "
+    for c in prevList:
+        if(c.method_complex == method):
+            listNew.append(c)
+    return listNew,theQuery
+
+def filterByStoichiometry(prevList , stoichiometry , theQuery):
+    listNew=[]
+    theQuery +="Stoichiometry (complex):" + stoichiometry + "   ;  "
+    for c in prevList:
+        if(c.stoichiometry_complex == stoichiometry):
+            listNew.append(c)
+        elif(c.stoichiometry_complex  in stoichiometry):
+            listNew.append(c)
+    return listNew,theQuery
 
 def filterByIdentity(prevList,ident_from,ident_to,theQuery):
     listNew=[]
@@ -210,15 +235,15 @@ def filterByIdentity(prevList,ident_from,ident_to,theQuery):
 def search_results(request):
     #get the searched fields from the search form html:
     complex_pdb=(request.form['complex_pdb']).strip()
-    com_year_from=request.form['complex_year_from']
-    com_year_to=request.form['complex_year_to']
+    #com_year_from=request.form['complex_year_from']
+    #com_year_to=request.form['complex_year_to']
     name=request.form['prot_name'].strip()
     is_antibody=request.form['antibody']
     prot_pdb=request.form['prot_pdb'].strip()
     prot_access=request.form['prot_access'].strip()
     scop_family=request.form['scop']
-    pro_year_from=request.form['prot_year_from']
-    pro_year_to=request.form['prot_year_to']
+    #pro_year_from=request.form['prot_year_from']
+    #pro_year_to=request.form['prot_year_to']
     len_A_from=request.form['lengthA_from']
     len_A_to=request.form['lengthA_to']
     len_B_from=request.form['lengthB_from']
@@ -227,18 +252,23 @@ def search_results(request):
     res_to=request.form['res_to']
     ident_from=request.form['ident_from']
     ident_to=request.form['ident_to']
+
+    #addition 06.05.18
+    cutoff = request.form['cutoff']
+    stoichiometry = request.form['stoichiometry']
+    method = request.form['method']
     #listC=session.query(Complex).all()
     listC=Complex.query.all()
     session.close()
     theQuery="The query was -   "
     exception=""
-    if(com_year_from=="" and com_year_to=="" and ident_from=="" and ident_to=="" and is_antibody=="no" and complex_pdb=="" and prot_pdb=="" and prot_access=="" and name=="" and scop_family==""  and pro_year_from=="" and pro_year_to=="" and len_A_from=="" and len_A_to=="" and len_B_from=="" and len_B_to=="" and res_from=="" and res_to==""):
+    if(ident_from=="" and ident_to=="" and is_antibody=="no" and complex_pdb=="" and prot_pdb=="" and prot_access=="" and name=="" and scop_family==""  and len_A_from=="" and len_A_to=="" and len_B_from=="" and len_B_to=="" and res_from=="" and res_to=="" and cutoff=="" and stoichiometry=="" and method==""):
         exception="please insert search fields"
         return None,exception,theQuery
     if(complex_pdb!="" ):# complex pdb not null
         listC,theQuery=filterByComplexPDB(listC,complex_pdb,theQuery)
-    if(com_year_from!="" or com_year_to!="" ):# protein pub.year not null
-        listC,theQuery=filterByComplexPubYear(listC,com_year_from,com_year_to,theQuery)
+    # if(com_year_from!="" or com_year_to!="" ):# protein pub.year not null
+    #     listC,theQuery=filterByComplexPubYear(listC,com_year_from,com_year_to,theQuery)
     if(name!="" ):# protein name not null
         listC,theQuery=filterByProtName(listC,name,theQuery)
     if(is_antibody=="yes" ):# only antibodies
@@ -249,8 +279,14 @@ def search_results(request):
         listC,theQuery=filterByProtAccession(listC,prot_access,theQuery)
     if(scop_family!="" ):# protein name not null
         listC,theQuery=filterByProtScopFamily(listC,scop_family,theQuery)
-    if(pro_year_from!="" or pro_year_to!="" ):#protein pub.year not null
-        listC,theQuery=filterByProtPubYear(listC,pro_year_from,pro_year_to,theQuery)
+    # if(pro_year_from!="" or pro_year_to!="" ):#protein pub.year not null
+    #     listC,theQuery=filterByProtPubYear(listC,pro_year_from,pro_year_to,theQuery)
+    if(method!=''):
+        listC,theQuery=filterByMethod(listC, method ,theQuery)
+    if(stoichiometry!=''):
+        listC,theQuery=filterByStoichiometry(listC , stoichiometry , theQuery)
+    if(cutoff!=''):
+            listC,theQuery=filterByRMSD(listC , cutoff , theQuery)
     if(ident_from!="" or ident_to!="" ):#identity not null
         listC,theQuery=filterByIdentity(listC,ident_from,ident_to,theQuery)
     listC,theQuery=filterByLengths(listC,len_A_from,len_A_to,len_B_from,len_B_to,theQuery)
