@@ -26,30 +26,6 @@ theQuery,protdata=[],[]
 def index():
     if request.method == "GET":
         return render_template("search.html")
-
-#     #comments.append((request.form['complex_pdb']).strip())
-#     complex_pdb=(request.form['complex_pdb']).strip()
-#     #com_year_from=request.form['complex_year_from']
-#     #com_year_to=request.form['complex_year_to']
-#     name=request.form['prot_name'].strip()
-#     is_antibody=request.form['antibody']
-#     prot_pdb=request.form['prot_pdb'].strip()
-#     prot_access=request.form['prot_access'].strip()
-#     scop_family=request.form['scop']
-#   #pro_year_from=request.form['prot_year_from']
-#     #pro_year_to=request.form['prot_year_to']
-#     len_A_from=request.form['lengthA_from']
-#     len_A_to=request.form['lengthA_to']
-#     len_B_from=request.form['lengthB_from']
-#     len_B_to=request.form['lengthB_to']
-#     res_from=request.form['res_from']
-#     res_to=request.form['res_to']
-#     ident_from=request.form['ident_from']
-#     ident_to=request.form['ident_to']
-#     flag=False
-
-
-
        # pass the list of the results
     listC,exception,theQuery=sqlalchemy_query.search_results(request) #sending to search functions in class sqlalchemy_query
     # data=""
@@ -91,15 +67,15 @@ def index():
             "pdb_prot_A":str(c.pdb_prot_A),"linkPA":str(linkPA),"linkAccessionPA_1":link_acc_A_1,
             "linkAccessionPA_2":link_acc_A_2,"name_prot_A":str(c.name_prot_A),"accession_prot_A_1":accession_prot_A_1,
             "accession_prot_A_2":accession_prot_A_2,"chain_prot_A":str(c.chain_prot_A),"length_protein_A":str(c.length_protein_A),
-            "identity_prot_A":str(c.identity_prot_A),"scop_prot_A":str(c.scop_prot_A),"reso_prot_A":str(c.reso_prot_A),
+            "identity_prot_A":str(c.identity_prot_A),"scop_prot_A":str(c.scop_prot_A.replace(',',' ')),"reso_prot_A":str(c.reso_prot_A),
             "year_pub_prot_A":str(c.year_pub_prot_A),"res_num_prot_A":str(c.res_num_prot_A),"pdb_prot_B":str(c.pdb_prot_B),
             "linkPB":str(linkPB),"linkAccessionPB_1":link_acc_B_1,"linkAccessionPB_2":link_acc_B_2,
             "name_prot_B":str(c.name_prot_B),"accession_prot_B_1":accession_prot_B_1,"accession_prot_B_2":accession_prot_B_2,"chain_prot_B":str(c.chain_prot_B),
-            "length_protein_B":str(c.length_protein_B),"identity_prot_B":str(c.identity_prot_B),"scop_prot_B":str(c.scop_prot_B),
+            "length_protein_B":str(c.length_protein_B),"identity_prot_B":str(c.identity_prot_B),"scop_prot_B":str(c.scop_prot_B.replace(',',' ')),
             "reso_prot_B":str(c.reso_prot_B),"year_pub_prot_B":str(c.year_pub_prot_B),"res_num_prot_B":str(c.res_num_prot_B),
-            "stoichiometry_prot_A":c.stoichiometry_prot_A,"method_prot_A":c.method_prot_A,"chains_in_interface_prot_A":str(c.chains_in_interface_prot_A),"rmsd_prot_A":str(c.rmsd_prot_A),"stoichiometry_prot_B":c.stoichiometry_prot_B,
-            "method_prot_B":c.method_prot_B,"chains_in_interface_prot_B":str(c.chains_in_interface_prot_B),"rmsd_prot_B":str(c.rmsd_prot_B),"stoichiometry_complex": c.stoichiometry_complex,
-            "method_complex":str(c.method_complex),"chains_in_interface_complex":str(c.chains_in_interface_complex),"indentical_complexes":c.indentical_complexes,"num_interface_residues_complex":str(c.num_interface_residues_complex)}
+            "stoichiometry_prot_A":str(c.stoichiometry_prot_A.strip('\n')),"method_prot_A":c.method_prot_A,"chains_in_interface_prot_A":str(c.chains_in_interface_prot_A.replace('\n','')),"rmsd_prot_A":str(c.rmsd_prot_A),"stoichiometry_prot_B":str(c.stoichiometry_prot_B.strip()),
+            "method_prot_B":str(c.method_prot_B.strip()),"chains_in_interface_prot_B":str(c.chains_in_interface_prot_B.replace('\n','')),"rmsd_prot_B":str(c.rmsd_prot_B),"stoichiometry_complex": str(c.stoichiometry_complex.replace('\n','')),
+            "method_complex":str(c.method_complex),"chains_in_interface_complex":str(c.chains_in_interface_complex.strip('\n')),"indentical_complexes":str(c.indentical_complexes),"num_interface_residues_complex":str(c.num_interface_residues_complex)}
             p.append(t)
 
     index.save_results=list(p)
@@ -126,7 +102,11 @@ def help():
 
 @app.route("/result_txt")
 def result_txt():
-    return render_template("result2.html",result = index.save_results,exception="",theQuery="fgd",count=3)
+    return render_template("text_result.html",result = index.save_results,exception="",theQuery="fgd",count=3)
+
+@app.route("/result_txt")
+def result_table():
+    return render_template("table_result.html",result = index.save_results,exception="",theQuery="fgd",count=3)
 
 @app.route("/tt", methods=["GET", "POST"])
 def index1():
@@ -141,32 +121,8 @@ def cdbindex():
     if request.method == "GET":
         return render_template("search.html")
 
-    # #comments.append((request.form['complex_pdb']).strip())
-    # complex_pdb=(request.form['complex_pdb']).strip()
-    # #com_year_from=request.form['complex_year_from']
-    # #com_year_to=request.form['complex_year_to']
-    # name=request.form['prot_name'].strip()
-    # is_antibody=request.form['antibody']
-    # prot_pdb=request.form['prot_pdb'].strip()
-    # prot_access=request.form['prot_access'].strip()
-    # scop_family=request.form['scop']
-    # #pro_year_from=request.form['prot_year_from']
-    # #pro_year_to=request.form['prot_year_to']
-    # len_A_from=request.form['lengthA_from']
-    # len_A_to=request.form['lengthA_to']
-    # len_B_from=request.form['lengthB_from']
-    # len_B_to=request.form['lengthB_to']
-    # res_from=request.form['res_from']
-    # res_to=request.form['res_to']
-    # ident_from=request.form['ident_from']
-    # ident_to=request.form['ident_to']
-    # flag=False
-
-
-
        # pass the list of the results
     listC,exception,theQuery=sqlalchemy_query.search_results(request) #sending to search functions in class sqlalchemy_query
-    data=""
     i=0
     p=[]
     if(listC):
@@ -201,12 +157,6 @@ def cdbindex():
                 link_acc_B_1="http://www.uniprot.org/uniprot/"+accession_prot_B_1
                 link_acc_B_2=""
 
-
-
-
-
-
-
                #text for download:
             #content = ""
             t={"pdb_entry":str(c.pdb_entry),"link":link,"year_pub":str(c.year_pub),"resolution":str(c.resolution),
@@ -219,8 +169,8 @@ def cdbindex():
             "name_prot_B":str(c.name_prot_B),"accession_prot_B_1":accession_prot_B_1,"accession_prot_B_2":accession_prot_B_2,"chain_prot_B":str(c.chain_prot_B),
             "length_protein_B":str(c.length_protein_B),"identity_prot_B":str(c.identity_prot_B),"scop_prot_B":str(c.scop_prot_B),
             "reso_prot_B":str(c.reso_prot_B),"year_pub_prot_B":str(c.year_pub_prot_B),"res_num_prot_B":str(c.res_num_prot_B),
-            "stoichiometry_prot_A":c.stoichiometry_prot_A,"method_prot_A":c.method_prot_A,"chains_in_interface_prot_A":str(c.chains_in_interface_prot_A),"rmsd_prot_A":str(c.rmsd_prot_A),"stoichiometry_prot_B":c.stoichiometry_prot_B,
-            "method_prot_B":c.stoichiometry_prot_B,"chains_in_interface_prot_B":str(c.chains_in_interface_prot_B),"rmsd_prot_B":str(c.rmsd_prot_B),"stoichiometry_complex": c.stoichiometry_complex,
+            "stoichiometry_prot_A":c.stoichiometry_prot_A,"method_prot_A":c.method_prot_A,"chains_in_interface_prot_A":str(c.chains_in_interface_prot_A),"rmsd_prot_A":str(c.rmsd_prot_A),"stoichiometry_prot_B": str(c.stoichiometry_prot_B.replace('\n','')),
+            "method_prot_B":c.stoichiometry_prot_B.replace('\n',''),"chains_in_interface_prot_B":str(c.chains_in_interface_prot_B),"rmsd_prot_B":str(c.rmsd_prot_B),"stoichiometry_complex": c.stoichiometry_complex,
             "method_complex":str(c.method_complex),"chains_in_interface_complex":str(c.chains_in_interface_complex),"indentical_complexes":c.indentical_complexes,"num_interface_residues_complex":str(c.num_interface_residues_complex)}
             t={}
             p.append(t)
@@ -245,7 +195,11 @@ def cdbhelp():
 
 @app.route("/cdb/result_txt")
 def cdbresult_txt():
-    return render_template("result2.html",result = index.save_results,exception="",theQuery="fgd",count=3)
+    return render_template("text_result.html",result = index.save_results,exception="",theQuery="fgd",count=3)
+
+@app.route("/cdb/table_txt")
+def cdbresult_table():
+    return render_template("table_result.html",result = index.save_results,exception="",theQuery="fgd",count=3)
 
 @app.route("/tools")
 def tools():

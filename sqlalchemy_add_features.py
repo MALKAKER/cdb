@@ -42,7 +42,7 @@ def update_feature(feature, file_name, data_table):
     err = open('update_errors_' + feature + '.txt', 'w+')
     if(feature == 'indentical_complexes'):
         #just to be sure that the feature is added to the correct record, mapping the entry to the new feature
-        complex_grouping_dict = {(line.split('\t')[0]).split('_')[0]:(line.split('\t')[-1]) for line in data if(not_is_number(line.split('\t')[-1]))}
+        complex_grouping_dict = {(line.split('\t')[0]).strip('\n').split('_')[0]:(line.strip('\n').split('\t')[-1]) for line in data if(not_is_number(line.split('\t')[-1]))}
         #adding the feature to the table
         for cmplx in data_table:
             if(cmplx.pdb_entry in complex_grouping_dict):
@@ -52,9 +52,9 @@ def update_feature(feature, file_name, data_table):
         #print(data.readline())
         complex_methods_dict = {line.split(',')[0]:[line.split(',')[1], line.split(',')[3], line.split(',')[5]] for line in data}
         for cmplx in data_table:
-            cmplx.method_complex = complex_methods_dict[cmplx.pdb_entry][0]
-            cmplx.method_prot_A = complex_methods_dict[cmplx.pdb_entry][1]
-            cmplx.method_prot_B = complex_methods_dict[cmplx.pdb_entry][2]
+            cmplx.method_complex = complex_methods_dict[cmplx.pdb_entry][0].strip('\n')
+            cmplx.method_prot_A = complex_methods_dict[cmplx.pdb_entry][1].strip('\n')
+            cmplx.method_prot_B = complex_methods_dict[cmplx.pdb_entry][2].strip('\n')
         db.session.commit()
     elif(feature == 'chains_in_interface'):
         #print(data.readline())
@@ -62,21 +62,21 @@ def update_feature(feature, file_name, data_table):
         for line in data:
             tmp = line.split(',')
             if('!' not in line):
-                complex_chains_dict[tmp[0].split('_')[0]] = [tmp[0].split('_')[1], tmp[1].split(':')[1], tmp[2].split(':')[1]]
+                complex_chains_dict[tmp[0].strip('\n').split('_')[0]] = [tmp[0].strip('\n').split('_')[1], tmp[1].strip('\n').split(':')[1], tmp[2].strip('\n').split(':')[1]]
             else:
                 complex_chains_dict[tmp[0].split('_')[0]] = ['','','']
                 err.write(line)
         for cmplx in data_table:
-            cmplx.chains_in_interface_complex = complex_chains_dict[cmplx.pdb_entry][0]
-            cmplx.chains_in_interface_prot_A = complex_chains_dict[cmplx.pdb_entry][1]
-            cmplx.chains_in_interface_prot_B = complex_chains_dict[cmplx.pdb_entry][2]
+            cmplx.chains_in_interface_complex = complex_chains_dict[cmplx.pdb_entry][0].strip('\n')
+            cmplx.chains_in_interface_prot_A = complex_chains_dict[cmplx.pdb_entry][1].strip('\n')
+            cmplx.chains_in_interface_prot_B = complex_chains_dict[cmplx.pdb_entry][2].strip('\n')
         db.session.commit()
     elif(feature == 'stochiometry_complex'):
         complex_sto_dict = {line.split('\t')[0]:[line.split('\t')[1], line.split('\t')[3], line.split('\t')[5]] for line in data}
         for cmplx in data_table:
-            cmplx.stoichiometry_complex = complex_sto_dict[cmplx.pdb_entry][0]
-            cmplx.stoichiometry_prot_A = complex_sto_dict[cmplx.pdb_entry][1]
-            cmplx.stoichiometry_prot_B = complex_sto_dict[cmplx.pdb_entry][2]
+            cmplx.stoichiometry_complex = complex_sto_dict[cmplx.pdb_entry][0].strip('\n')
+            cmplx.stoichiometry_prot_A = complex_sto_dict[cmplx.pdb_entry][1].strip('\n')
+            cmplx.stoichiometry_prot_B = complex_sto_dict[cmplx.pdb_entry][2].strip('\n')
         db.session.commit()
     elif(feature == 'rmsd'):
         #to complete this task when my laptop will be repaired

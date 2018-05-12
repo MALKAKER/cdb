@@ -114,11 +114,6 @@
 </style>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <script src="jquery.js"></script>
-<script>
-    $(function(){
-        $("#includedContent").load("result6.html");
-    });
-</script>
 </head>
 <body>
 <div id="container">
@@ -155,19 +150,9 @@
                     	<script>alert("no results")</script>
                     {% else %}
 
-                        <script>
-                            function separate_names(complexes) {
-                                var res = str.split(";");
-                                var text = "";
-                                for (i = 0; i < res.length; i++) {
-                                    text += "<a href = http://www.rcsb.org/structure/" +  res[i] + ">"+ res[i] + ", <a>";
-                                }
-                                var popup = document.getElementById("myPopup");
-                                popup.classList.toggle("show");
-                            }
-                        </script>
-
-                    	<a href="/result_txt">Results in text format</a>
+                    	<a href="/result_txt" download="results.csv" >
+                    	    Results in text format
+                    	</a>
                         <ul>
                             <style>
                                 ul {
@@ -258,7 +243,7 @@
                                             </p>
                                             <p>
                                                 <strong>Chains in interface: </strong>
-                                                {{chains_in_interface_prot_A}}
+                                                {{prot["chains_in_interface_prot_A"]}}
                                             </p>
                                             <p>
                                                 <strong>Identity: </strong>
@@ -300,7 +285,7 @@
                                             </p>
                                             <p>
                                                 <strong>Chains in interface: </strong>
-                                                {{chains_in_interface_prot_B}}
+                                                {{prot["chains_in_interface_prot_B"]}}
                                             </p>
                                             <p>
                                                 <strong>Identity: </strong>

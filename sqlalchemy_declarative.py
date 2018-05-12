@@ -107,7 +107,7 @@ for c in f.readlines():
     new_complex.isAntiBody=bool(c[6])
     new_complex.link =c[7]
     new_complex.pdb_prot_A=c[8]
-    new_complex.name_prot_A=c[9]
+    new_complex.name_prot_A=c[9].replace(',',' ')
     new_complex.chain_prot_A=c[10]
     new_complex.length_protein_A = c[11]
     new_complex.scop_prot_A=c[12]
@@ -119,7 +119,7 @@ for c in f.readlines():
     new_complex.seq_prot_A=c[18]
     new_complex.res_num_prot_A = c[19]
     new_complex.pdb_prot_B=c[20]
-    new_complex.name_prot_B=c[21]
+    new_complex.name_prot_B=c[21].replace(',',' ')
     new_complex.chain_prot_B=c[22]
     new_complex.length_protein_B = c[23]
     new_complex.scop_prot_B=c[24]

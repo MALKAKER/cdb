@@ -65,6 +65,7 @@ class Complex(db.Model):
     identity_prot_B=db.Column(db.Integer)
     seq_prot_B=db.Column(db.String(100))
     res_num_prot_B = db.Column(db.Integer)#   not yet implemented
+
     stoichiometry_prot_A = db.Column(db.String(100))
     method_prot_A = db.Column(db.String(100))
     chains_in_interface_prot_A = db.Column(db.String(100))
