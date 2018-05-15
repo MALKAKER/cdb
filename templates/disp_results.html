@@ -1,0 +1,312 @@
+<!doctype html>
+<html>
+    <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link rel="stylesheet" href="/static/styles.css" type="text/css" />
+    <script src="/static/sorttable.js"></script>
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+
+        /*The collapsible show*/
+        .accordion {
+            background-color: #eee;
+            color: #444;
+            cursor: pointer;
+            padding: 18px;
+            width: 900px;
+            border: none;
+            text-align: left;
+            outline: none;
+            font-size: 15px;
+            transition: 0.4s;
+        }
+
+        .active, .accordion:hover {
+            background-color: #ccc;
+        }
+
+        .panel {
+
+            display: none;
+            width:900px;
+            overflow: hidden;
+        }
+
+        /*------------------------------------------------------------------*/
+
+        /* Create two equal columns that floats next to each other */
+        .column {
+            float: left;
+            width: 50%;
+            padding: 10px;
+            height: 100%; /* Should be removed. Only for demonstration */
+        }
+
+        /* Clear floats after the columns */
+        .row:after {
+            content: "";
+            display:  flex; /* equal height of the children */
+            clear: both;
+        }
+
+        /*------------------------------------------------------------------*/
+
+        /* Add animation (fade in the popup) */
+        @-webkit-keyframes fadeIn {
+            from {opacity: 0;}
+            to {opacity: 1;}
+        }
+
+        @keyframes fadeIn {
+            from {opacity: 0;}
+            to {opacity:1 ;}
+        }
+
+        /*------------------------------------------------------------------*/
+        .main {
+          float:left;
+          width:70%;
+          margin-top:10px;
+          margin-left:10px;
+        }
+
+        @media only screen and (max-width:620px) {
+          /* For mobile phones: */
+          * {
+            width:100%;
+          }
+        }
+        /*--------------------------------------------------*/
+
+    </style>
+    <script src="jquery.js"></script>
+</head>
+    <body>
+<div style="background-color:#ffffff;margin-top:0px;  align:center;">
+    <div id="body" >
+        <section id="content" style = "float:left;">
+            <div style="color:black; background-color: FBB0B0;padding: 0px;width: 900px;">
+                <div id="body" class="width" style="   margin-left: 20px;    margin-right: 20px;" >
+                    <section id="content" style=" width:70%; float:left;">
+                        <article style = "float:left;">
+                    	    <a href="/cdb/search" class="button">back to search</a>
+                    		<p></p>
+                    		<p></p>
+                    		<p style="text-align: left;"><span style="font-size:18px;"><span style="color:#0000cd;"><b>{{count}} results.</b></span></span></p>
+                    		<p style="text-align: left;"><span style="font-size:18px;"><span style="color:#0000cd;">{{theQuery}}</span></span></p>
+                    		<p></p>
+                    		<!--<container>-->
+                            {%if not result%}
+                            	<script>alert("no results")</script>
+                            {% else %}
+        
+        
+                                <a class ="button" href="/result_txt" download="results.csv" >
+                                    Results in text format
+                                </a>
+            
+                                <a class ="button" href="/result_table">
+                                    See results in table
+                                </a>
+                                <p></p>
+                                <p></p>
+
+                                <ul>
+                                    <style>
+                                        ul {
+                                           list-style: none;
+                                           margin: 0;
+                                           padding: 0;
+                                           width:70%;
+                                           float:left;
+                                        }
+                                        .row {
+                                          display: flex; /* equal height of the children */
+                                          float:left;
+                                          /*border: solid;*/
+                                        }
+                                        .col {
+                                          flex: 1; /* additionally, equal width */
+                                          float: left;
+                                          width:50%;
+                                          padding: 20px;
+                                          /*border: solid;*/
+                                        }
+                                        p {
+                                            margin-top:5px;
+                                            margin-bottom:5px;
+                                        }
+
+                                    </style>
+                                    {% for prot in result %}
+                                        <li>
+        
+                                        <button class="accordion" style="background-color:#ffffe6; ">
+                                            <h2 align="center">
+                                                    <a  href={{prot["link"]}}> {{ prot["pdb_entry"] }}  </a>
+                                            </h2>
+                                            <div class="row">
+                                                <div  style="background-color:#ffffe6; width:auto;">
+                                                    <img src="https://cdn.rcsb.org/images/rutgers/54/254l/254l.pdb1-	250.jpg"><img>
+                                                </div>
+                                                <div style="background-color:#ffffe6; padding-left:80px; ">
+                                                    <div class="col">
+                                                        <p></p>
+                                                        <p><strong>Resolution: </strong>
+                                                        {{prot["resolution"]}} Å</p>
+                                                        <p>
+                                                            <strong>Publication year: </strong>
+                                                            {{prot["year_pub"]}}
+                                                        </p>
+                                                        <p>
+                                                            <strong>Method: </strong>
+                                                            {{prot["method_complex"]}}
+                                                        </p>
+                                                        <p>
+                                                            <strong>Stoichimetry: </strong>
+                                                            {{prot["stoichiometry_complex"]}}
+                                                        </p>
+        
+                                                    </div>
+                                                    <div class="col" >
+                                                        <p></p>
+                                                        <p></p>
+                                                        <p>
+                                                            <strong>Interface chains: </strong>
+                                                            {{prot["chains_in_interface_complex"]}}
+                                                        </p>
+                                                        <p>
+                                                            <strong>Interface residues: </strong>
+                                                            {{prot["num_interface_residues_complex"]}}
+                                                        </p>
+        
+                                                        <p >
+                                                            <strong>See also; {{prot["indentical_complexes"]}}</strong>
+                                                        </p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </button>
+                                        <div class="panel">
+                                            <div class="row">
+                                                <div class="col" style="background-color:#ccccff;">
+                                                    <h1>
+                                                        <strong>Subunit 1:</strong>
+                                                        <a id="accA_1" href={{prot["pdb_prot_A"]}}> {{ prot["pdb_prot_A"]}}</a>
+                                                    </h1>
+                                                    <p>
+                                                        <strong>Name: </strong>
+                                                        {{prot["name_prot_A"]}}
+                                                    </p>
+                                                    <p>
+                                                        <strong>Accession: </strong>
+                                                        <a id="accA_1" href={{prot["linkAccessionPA_1"]}}> {{ prot["accession_prot_A_1"]}}</a>
+                                                    </p>
+                                                    <p>
+                                                        <strong>Length: </strong>
+                                                        {{prot["length_protein_A"]}}
+                                                    </p>
+                                                    <p>
+                                                        <strong>Method: </strong>
+                                                        {{prot["method_prot_A"]}}
+                                                    </p>
+                                                    <p>
+                                                        <strong>Stoichiometry: </strong>
+                                                        {{prot["stoichiometry_prot_A"]}}
+                                                    </p>
+                                                    <p>
+                                                        <strong>Chains in interface: </strong>
+                                                        {{prot["chains_in_interface_prot_A"]}}
+                                                    </p>
+                                                    <p>
+                                                        <strong>Identity: </strong>
+                                                        {{prot["identity_prot_A"]}}
+                                                    </p>
+                                                    <p>
+                                                        <strong>RMSD: </strong>
+                                                        {{prot["rmsd_prot_A"]}}
+                                                    </p>
+                                                    <p>
+                                                        <strong>Scope: </strong>
+                                                        {{prot["scop_prot_A"]}}
+                                                    </p>
+                                                </div>
+                                                <div class="col" style="background-color:#e6e6ff;">
+                                                    <h1>
+                                                        <strong>Subunit 2:</strong>
+                                                        <a id="accA_1" href={{prot["pdb_prot_B"]}}> {{ prot["pdb_prot_B"]}}</a>
+                                                    </h1>
+                                                    <p>
+                                                        <strong>Name: </strong>
+                                                        {{prot["name_prot_B"]}}
+                                                    </p>
+                                                    <p>
+                                                        <strong>Accession: </strong>
+                                                        <a id="accA_1" href={{prot["linkAccessionPA_1"]}}> {{ prot["accession_prot_B_1"]}}</a>
+                                                    </p>
+                                                    <p>
+                                                        <strong>Length: </strong>
+                                                        {{prot["length_protein_B"]}}
+                                                    </p>
+                                                    <p>
+                                                        <strong>Method: </strong>
+                                                        {{prot["method_prot_B"]}}
+                                                    </p>
+                                                    <p>
+                                                        <strong>Stoichiometry: </strong>
+                                                        {{prot["stoichiometry_prot_B"]}}
+                                                    </p>
+                                                    <p>
+                                                        <strong>Chains in interface: </strong>
+                                                        {{prot["chains_in_interface_prot_B"]}}
+                                                    </p>
+                                                    <p>
+                                                        <strong>Identity: </strong>
+                                                        {{prot["identity_prot_B"]}}
+                                                    </p>
+                                                    <p>
+                                                        <strong>RMSD: </strong>
+                                                        {{prot["rmsd_prot_B"]}}
+                                                    </p>
+                                                    <p>
+                                                        <strong>Scope: </strong>
+                                                        {{prot["scop_prot_B"]}}
+                                                    </p>
+                                          </div>
+                                            </div>
+                                        </div>
+                                        </li>
+                            	    {% endfor %}
+                                </ul>
+                                
+                                <!--<script type=text/javascript src="{{url_for('static', filename='js/main.js') }}"></script>-->
+        
+                                <script>
+                                var acc = document.getElementsByClassName("accordion");
+                                var i;
+            
+                                for (i = 0; i < acc.length; i++) {
+                                    acc[i].addEventListener("click", function() {
+                                        this.classList.toggle("active");
+                                        var panel = this.nextElementSibling;
+                                        if (panel.style.display === "block") {
+                                            panel.style.display = "none";
+                                        } else {
+                                            panel.style.display = "block";
+                                        }
+                                    });
+                                }
+                            </script>
+                            {% endif %}
+			            </article>
+			        </section>
+			    </div>
+			</div>
+        </section>
+    </div>
+</div>
+    </body>
+</html>

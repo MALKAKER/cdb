@@ -62,6 +62,7 @@ def index():
                 accession_prot_B_2=""
                 link_acc_B_1="http://www.uniprot.org/uniprot/"+accession_prot_B_1
                 link_acc_B_2=""
+            img_loc = "/static/images/"+str(c.pdb_entry)+".png"
             #text for download:
             t={"pdb_entry":str(c.pdb_entry),"link":link,"year_pub":str(c.year_pub),"resolution":str(c.resolution),
             "pdb_prot_A":str(c.pdb_prot_A),"linkPA":str(linkPA),"linkAccessionPA_1":link_acc_A_1,
@@ -75,7 +76,7 @@ def index():
             "reso_prot_B":str(c.reso_prot_B),"year_pub_prot_B":str(c.year_pub_prot_B),"res_num_prot_B":str(c.res_num_prot_B),
             "stoichiometry_prot_A":str(c.stoichiometry_prot_A.strip('\n')),"method_prot_A":c.method_prot_A,"chains_in_interface_prot_A":str(c.chains_in_interface_prot_A.replace('\n','')),"rmsd_prot_A":str(c.rmsd_prot_A),"stoichiometry_prot_B":str(c.stoichiometry_prot_B.strip()),
             "method_prot_B":str(c.method_prot_B.strip()),"chains_in_interface_prot_B":str(c.chains_in_interface_prot_B.replace('\n','')),"rmsd_prot_B":str(c.rmsd_prot_B),"stoichiometry_complex": str(c.stoichiometry_complex.replace('\n','')),
-            "method_complex":str(c.method_complex),"chains_in_interface_complex":str(c.chains_in_interface_complex.strip('\n')),"indentical_complexes":str(c.indentical_complexes),"num_interface_residues_complex":str(c.num_interface_residues_complex)}
+            "method_complex":str(c.method_complex),"chains_in_interface_complex":str(c.chains_in_interface_complex.strip('\n')),"indentical_complexes":str(c.indentical_complexes),"num_interface_residues_complex":str(c.num_interface_residues_complex),"cmplx_img":str(img_loc)}
             p.append(t)
 
     index.save_results=list(p)
@@ -99,12 +100,11 @@ def contactUs():
 @app.route("/help")
 def help():
     return render_template('help.html')
-
 @app.route("/result_txt")
 def result_txt():
     return render_template("text_result.html",result = index.save_results,exception="",theQuery="fgd",count=3)
 
-@app.route("/result_txt")
+@app.route("/result_table")
 def result_table():
     return render_template("table_result.html",result = index.save_results,exception="",theQuery="fgd",count=3)
 

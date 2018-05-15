@@ -1,11 +1,6 @@
 <!doctype html>
 <html>
 <style>
-.tooltip {
-    <!-- position:inherit; -->
-    display: inline-block;
-   <!--  border-bottom: 1px dotted black; -->
-}
 
 table.sortable thead {
     background-color:#eee;
@@ -13,27 +8,7 @@ table.sortable thead {
     font-weight: bold;
     cursor: default;
 }
-.tooltip .tooltiptext {
-    visibility: hidden;
-    width: 200px;
-    background-color:gray;
-    color: #fff;
-    text-align: center;
-    border-radius: 6px;
-    padding: 5px 0;
-    position: absolute;
-    z-index: 1;
-}
 
-.tooltip:hover .tooltiptext {
-    visibility: visible;
-}
-td.lower_case {
-    text-transform: lowercase;
-}
-td.lower_case:first-letter {
-    text-transform: capitalize;
-}
 </style>
 <head>
 <link rel="icon" type="image/png" href="static/favicon-16x16.png" sizes="16x16" />
@@ -46,17 +21,10 @@ td.lower_case:first-letter {
 		<section id="content">
 			<article>
 				<a href="/cdb/search" class="button">back to search</a>
-				<p></p>
-				<p></p>
-				<p style="text-align: left;"><span style="font-size:18px;"><span style="color:#0000cd;"><b>{{count}} results.</b></span></span></p>
-				<p style="text-align: left;"><span style="font-size:18px;"><span style="color:#0000cd;">{{theQuery}}</span></span></p>
-				<p></p>
 				<container>
 {%if not result%}
 	<script>alert("no results")</script>
 {% else %}
-
-	<a href="/result_txt">Results in text format</a>
 
 
 	<script type="text/javascript">
@@ -114,11 +82,11 @@ td.lower_case:first-letter {
 									<a id="accA_2" href={{prot["linkAccessionPA_2"]}}> {{ prot["accession_prot_A_2"]}}</a>
 							   </td>
 							   <td bgcolor="#e6e6ff"><font color="black"> {{ prot["length_protein_A"] }}</font> </td>
-							   <td style="color:black;">{{prot["method_prot_A"]}}</td>
-							   <td style="color:black;">{{prot["stoichiometry_prot_A"]}}</td>
-							   <td style="color:black;">{{chains_in_interface_prot_A}}</td>
+							   <td bgcolor="#e6e6ff">{{prot["method_prot_A"]}}</td>
+							   <td bgcolor="#e6e6ff">{{prot["stoichiometry_prot_A"]}}</td>
+							   <td bgcolor="#e6e6ff">{{prot["chains_in_interface_prot_A"]}}</td>
 							   <td bgcolor="#e6e6ff"><font color="black"> {{ prot["identity_prot_A"] }}% </font></td>
-							   <td style="color:black;">{{prot["rmsd_prot_A"]}}</td>
+							   <td bgcolor="#e6e6ff">{{prot["rmsd_prot_A"]}}</td>
 							   <td bgcolor="#e6e6ff" class="lower_case"><font color="black"> {{ prot["scop_prot_A"] }}</font> </td>
 							   <td bgcolor="#ffffe6"> <a href={{prot["linkPB"]}}> {{ prot["pdb_prot_B"] }}</a></td>
 							   <td bgcolor="#ffffe6" class="lower_case"><font color="black"> {{ prot["name_prot_B"] }}</font> </td>
@@ -127,11 +95,11 @@ td.lower_case:first-letter {
 									<a id="accB_2" href={{prot["linkAccessionPB_2"]}}> {{ prot["accession_prot_B_2"]}}</a>
 							   </td>
 							   <td bgcolor="#ffffe6"><font color="black"> {{ prot["length_protein_B"] }}</font> </td>
-							   <td style="color:black;">{{prot["method_prot_B"]}}</td>
-							   <td style="color:black;">{{prot["stoichiometry_prot_B"]}}</td>
-							   <td style="color:black;">{{chains_in_interface_prot_B}}</td>
+							   <td bgcolor="#ffffe6">{{prot["method_prot_B"]}}</td>
+							   <td bgcolor="#ffffe6">{{prot["stoichiometry_prot_B"]}}</td>
+							   <td bgcolor="#ffffe6">{{prot["chains_in_interface_prot_B"]}}</td>
 							   <td bgcolor="#ffffe6"><font color="black"> {{ prot["identity_prot_B"] }}% </font></td>
-							   <td style="color:black;">{{prot["rmsd_prot_B"]}}</td>
+							   <td bgcolor="#ffffe6">{{prot["rmsd_prot_B"]}}</td>
 							   <td bgcolor="#ffffe6" class="lower_case"><font color="black"> {{ prot["scop_prot_B"] }}</font> </td>
 							   <td style="color:black;">{{prot["indentical_complexes"]}}</td>
 							</tr>

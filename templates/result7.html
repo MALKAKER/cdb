@@ -1,367 +1,368 @@
-
 <!doctype html>
 <html>
 <head>
-<link rel="icon" type="image/png" href="static/favicon-16x16.png" sizes="16x16" />
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>CDB - complex database</title>
-<link rel="stylesheet" href="/static/styles.css" type="text/css" />
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="icon" type="image/png" href="static/favicon-16x16.png" sizes="16x16" />
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>CDB - complex database</title>
-<link rel="stylesheet" href="/static/styles.css"  type="text/css" />
-<script src="/static/sorttable.js"></script>
-<style>
-* {
-    box-sizing: border-box;
-}
+    <link rel="icon" type="image/png" href="static/favicon-16x16.png" sizes="16x16" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>CDB - complex database</title>
+    <link rel="stylesheet" href="/static/styles.css" type="text/css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" type="image/png" href="static/favicon-16x16.png" sizes="16x16" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>CDB - complex database</title>
+    <link rel="stylesheet" href="/static/styles.css"  type="text/css" />
+    <script src="/static/sorttable.js"></script>
+    <style>
+        * {
+            box-sizing: border-box;
+        }
 
-.accordion {
-    background-color: #eee;
-    color: #444;
-    cursor: pointer;
-    padding: 18px;
-    width: 100%;
-    border: none;
-    text-align: left;
-    outline: none;
-    font-size: 15px;
-    transition: 0.4s;
-}
+        /*The collapsible show*/
+        .accordion {
+            background-color: #eee;
+            color: #444;
+            cursor: pointer;
+            padding: 18px;
+            width: 70%;
+            height: auto;
+            border: none;
+            text-align: left;
+            outline: none;
+            font-size: 15px;
+            transition: 0.4s;
+        }
 
-.active, .accordion:hover {
-    background-color: #ccc;
-}
+        .active, .accordion:hover {
+            background-color: #ccc;
+        }
 
-.panel {
-    padding: 0 18px;
-    display: none;
-    background-color: white;
-    overflow: hidden;
-}
-/* Create two equal columns that floats next to each other */
-.column {
-    float: left;
-    width: 50%;
-    padding: 10px;
-    height: 100%; /* Should be removed. Only for demonstration */
-}
+        .panel {
 
-/* Clear floats after the columns */
-.row:after {
-    content: "";
-    display:  flex; /* equal height of the children */
-    clear: both;
-}
+            display: none;
+            width: 70%;
+            overflow: hidden;
+        }
 
-/* Popup container - can be anything you want */
-.popup {
-    position: relative;
-    display: inline-block;
-    cursor: pointer;
-    -webkit-user-select: none;
-    -moz-user-select: none;
-    -ms-user-select: none;
-    user-select: none;
-}
+        /*------------------------------------------------------------------*/
 
-/* The actual popup */
-.popup .popuptext {
-    visibility: hidden;
-    width: 160px;
-    background-color: #555;
-    color: #fff;
-    text-align: center;
-    border-radius: 6px;
-    padding: 8px 0;
-    position: absolute;
-    z-index: 1;
-    bottom: 125%;
-    left: 50%;
-    margin-left: -80px;
-}
+        /* Create two equal columns that floats next to each other */
+        .column {
+            float: left;
+            width: 50%;
+            padding: 10px;
+            height: 100%; /* Should be removed. Only for demonstration */
+        }
 
-/* Popup arrow */
-.popup .popuptext::after {
-    content: "";
-    position: absolute;
-    top: 100%;
-    left: 50%;
-    margin-left: -5px;
-    border-width: 5px;
-    border-style: solid;
-    border-color: #555 transparent transparent transparent;
-}
+        /* Clear floats after the columns */
+        .row:after {
+            content: "";
+            display:  flex; /* equal height of the children */
+            clear: both;
+        }
 
-/* Toggle this class - hide and show the popup */
-.popup .show {
-    visibility: visible;
-    -webkit-animation: fadeIn 1s;
-    animation: fadeIn 1s;
-}
+        /*------------------------------------------------------------------*/
 
-/* Add animation (fade in the popup) */
-@-webkit-keyframes fadeIn {
-    from {opacity: 0;}
-    to {opacity: 1;}
-}
+        /* Add animation (fade in the popup) */
+        @-webkit-keyframes fadeIn {
+            from {opacity: 0;}
+            to {opacity: 1;}
+        }
 
-@keyframes fadeIn {
-    from {opacity: 0;}
-    to {opacity:1 ;}
-}
-</style>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<script src="jquery.js"></script>
+        @keyframes fadeIn {
+            from {opacity: 0;}
+            to {opacity:1 ;}
+        }
+
+        /*------------------------------------------------------------------*/
+        .main {
+          float:left;
+          width:70%;
+          margin-top:20px;
+          margin-left:20px;
+          /*margin-right:20px;*/
+        }
+
+        @media only screen and (max-width:620px) {
+          /* For mobile phones: */
+          * {
+            width:100%;
+          }
+        }
+        @media only screen and (max-width:620px) {
+          /* For mobile phones: */
+          .sidebar, .footer-content, .panel, .accordion, .column, .row, .active, .col, .width, .main{
+            width:100%;
+          }
+        }
+        /*--------------------------------------------------*/
+
+    </style>
+    <script src="jquery.js"></script>
 </head>
 <body>
-<div id="container">
-    <header>
-				<img src="/static/images/logoCDB2.png" alt="logoCDB" style="width:250px;height:100px;">
-    </header>
-    <nav>
-	<div class="width">
-    		<ul>
-        		<li ><a href="/intro">Home</a></li>
-        		<li ><a href="/cdb/home">CDB</a></li>
-        	    <li class="selected"><a href="/cdb/search">Search</a></li>
-          	 	<li class="end"><a href="/cdb/citingUs">Citing Us</a></li>
-				<li ><a href="/cdb/help">Help</a></li>
-        	</ul>
-	</div>
-    </nav>
-			</div>
-			<div style="background-color:#ffffff;margin-top:0px;  align:center; ">
-                    			        <div id="body" class="width">
-                    		<section id="content">
-                    			<div style="color:black; background-color: FBB0B0;padding: 0px;width: 400px;">
-                                        <div id="body" class="width" style="   margin-left: 20px;    margin-right: 20px;" >
-                    		<section id="content">
-                    			<article>
-                    				<a href="/cdb/search" class="button">back to search</a>
-                    				<p></p>
-                    				<p></p>
-                    				<p style="text-align: left;"><span style="font-size:18px;"><span style="color:#0000cd;"><b>{{count}} results.</b></span></span></p>
-                    				<p style="text-align: left;"><span style="font-size:18px;"><span style="color:#0000cd;">{{theQuery}}</span></span></p>
-                    				<p></p>
-                    				<container>
-                    {%if not result%}
-                    	<script>alert("no results")</script>
-                    {% else %}
-
-                    	<a href="/result_txt" download="results.csv" >
-                    	    Results in text format
-                    	</a>
-                        <ul>
-                            <style>
-                                ul {
-                                   list-style: none;
-                                   margin: 0;
-                                   padding: 0;
-                                }
-                                .row {
-                                  display: flex; /* equal height of the children */
-                                  border: solid;
-                                }
-                                .col {
-                                  flex: 1; /* additionally, equal width */
-
-                                  padding: 1em;
-                                  border: solid;
-                                }
-                            </style>
-
-                            {% for prot in result %}
-
-                                <li>
-                                <button class="accordion" style="background-color:#ffffe6;">
-                                    <div class="row">
-                                        <div class="column" style="background-color:#ffffe6;">
-                                        <img src="https://cdn.rcsb.org/images/rutgers/54/254l/254l.pdb1-	250.jpg"><img>
-                                      </div>
-                                        <div class="column" style="background-color:#ffffe6;">
-                                        <h2>
-                                            <a  href={{prot["link"]}}> {{ prot["pdb_entry"] }}  </a>
-                                        </h2>
-                                        <p></p>
-                                        <p><strong>Resolution: </strong>
-                                        {{prot["resolution"]}} Å</p>
-                                        <p>
-                                            <strong>Publication year: </strong>
-                                            {{prot["year_pub"]}}
-                                        </p>
-                                        <p>
-                                            <strong>Method: </strong>
-                                            {{prot["method_complex"]}}
-                                        </p>
-                                        <p>
-                                            <strong>Stoichimetry: </strong>
-                                            {{prot["stoichiometry_complex"]}}
-                                        </p>
-                                        <p>
-                                            <strong>Interface chains: </strong>
-                                            {{prot["chains_in_interface_complex"]}}
-                                        </p>
-                                        <p>
-                                            <strong>Interface residues: </strong>
-                                            {{prot["num_interface_residues_complex"]}}
-                                        </p>
-
-                                        <p >
-                                            <strong>See also; {{prot["indentical_complexes"]}}</strong>
-                                        </p>
-                                      </div>
-                                    </div>
-                                </button>
-                                <div class="panel">
-                                    <div class="row">
-                                        <div class="col" style="background-color:#ccccff;">
-                                            <h1>
-                                                <strong>Subunit 1:</strong>
-                                                <a id="accA_1" href={{prot["pdb_prot_A"]}}> {{ prot["pdb_prot_A"]}}</a>
-                                            </h1>
-                                            <p>
-                                                <strong>Name: </strong>
-                                                {{prot["name_prot_A"]}}
-                                            </p>
-                                            <p>
-                                                <strong>Accession: </strong>
-                                                <a id="accA_1" href={{prot["linkAccessionPA_1"]}}> {{ prot["accession_prot_A_1"]}}</a>
-                                            </p>
-                                            <p>
-                                                <strong>Length: </strong>
-                                                {{prot["length_protein_A"]}}
-                                            </p>
-                                            <p>
-                                                <strong>Method: </strong>
-                                                {{prot["method_prot_A"]}}
-                                            </p>
-                                            <p>
-                                                <strong>Stoichiometry: </strong>
-                                                {{prot["stoichiometry_prot_A"]}}
-                                            </p>
-                                            <p>
-                                                <strong>Chains in interface: </strong>
-                                                {{prot["chains_in_interface_prot_A"]}}
-                                            </p>
-                                            <p>
-                                                <strong>Identity: </strong>
-                                                {{prot["identity_prot_A"]}}
-                                            </p>
-                                            <p>
-                                                <strong>RMSD: </strong>
-                                                {{prot["rmsd_prot_A"]}}
-                                            </p>
-                                            <p>
-                                                <strong>Scope: </strong>
-                                                {{prot["scop_prot_A"]}}
-                                            </p>
-                                        </div>
-                                    <div class="col" style="background-color:#e6e6ff;">
-                                            <h1>
-                                                <strong>Subunit 2:</strong>
-                                                <a id="accA_1" href={{prot["pdb_prot_B"]}}> {{ prot["pdb_prot_B"]}}</a>
-                                            </h1>
-                                            <p>
-                                                <strong>Name: </strong>
-                                                {{prot["name_prot_B"]}}
-                                            </p>
-                                            <p>
-                                                <strong>Accession: </strong>
-                                                <a id="accA_1" href={{prot["linkAccessionPA_1"]}}> {{ prot["accession_prot_B_1"]}}</a>
-                                            </p>
-                                            <p>
-                                                <strong>Length: </strong>
-                                                {{prot["length_protein_B"]}}
-                                            </p>
-                                            <p>
-                                                <strong>Method: </strong>
-                                                {{prot["method_prot_B"]}}
-                                            </p>
-                                            <p>
-                                                <strong>Stoichiometry: </strong>
-                                                {{prot["stoichiometry_prot_B"]}}
-                                            </p>
-                                            <p>
-                                                <strong>Chains in interface: </strong>
-                                                {{prot["chains_in_interface_prot_B"]}}
-                                            </p>
-                                            <p>
-                                                <strong>Identity: </strong>
-                                                {{prot["identity_prot_B"]}}
-                                            </p>
-                                            <p>
-                                                <strong>RMSD: </strong>
-                                                {{prot["rmsd_prot_B"]}}
-                                            </p>
-                                            <p>
-                                                <strong>Scope: </strong>
-                                                {{prot["scop_prot_B"]}}
-                                            </p>
-                                  </div>
-                                    </div>
-                                </div>
-                                </li>
-                    	    {% endfor %}
-                        </ul>
-                        <!--<script type=text/javascript src="{{url_for('static', filename='js/main.js') }}"></script>-->
-
-                    <script>
-                    var acc = document.getElementsByClassName("accordion");
-                    var i;
-
-                    for (i = 0; i < acc.length; i++) {
-                        acc[i].addEventListener("click", function() {
-                            this.classList.toggle("active");
-                            var panel = this.nextElementSibling;
-                            if (panel.style.display === "block") {
-                                panel.style.display = "none";
-                            } else {
-                                panel.style.display = "block";
-                            }
-                        });
-                    }
-                    </script>
-                    {% endif %}
-			</div>
-        </section>
-		<aside  class="sidebar">
-
-            <ul>
-               <li>
-                    <h4>menu</h4>
-                    <ul>
-                        <li><a href="/cdb/home"><font color="black">Home Page</a></li>
-                        <li><a href="/cdb/search"><font color="black">Search</a></li>
-						<li><a href="/cdb/help"><font color="black">Help</a></li>
-                    </ul>
-                </li>
-
-                <li>
-                    <h4>About us</h4>
-                    <ul>
-                        <li class="text">
-                        	<li><a href="http://www.jct.ac.il/en/"><font color="black">Jerusalem College of Technology </a></li>
-                        </li>
-                    </ul>
-                </li>
-
-
-                <li>
-                    <h4>Links</h4>
-                    <ul>
-                        <li><a href="https://zlab.umassmed.edu/benchmark/" ><font color="black">Protein-Protein Docking Benchmark 5.0</a></li>
-                        <li><a href="http://dockground.compbio.ku.edu/" ><font color="black">Dockground</a></li>
-                    </ul>
-                </li>
-
-            </ul>
-
-        </aside>
-
-    	<div class="clear"></div>
+    <div id="container">
+        <header>
+    				<img src="/static/images/logoCDB2.png" alt="logoCDB" style="width:250px;height:100px;">
+        </header>
+        <nav>
+    	    <div class="width">
+        		<ul>
+            		<li ><a href="/intro">Home</a></li>
+            		<li ><a href="/cdb/home">CDB</a></li>
+            	    <li class="selected"><a href="/cdb/search">Search</a></li>
+              	 	<li class="end"><a href="/cdb/citingUs">Citing Us</a></li>
+    				<li ><a href="/cdb/help">Help</a></li>
+            	</ul>
+    	    </div>
+        </nav>
     </div>
+    <div class=main>
+                            	    <a href="/cdb/search" class="button">back to search</a>
+                            		<p></p>
+                            		<p></p>
+                            		<p style="text-align: left;"><span style="font-size:2vw;"><span style="color:#0000cd;"><b>{{count}} results.</b></span></span></p>
+                            		<p style="text-align: left;"><span style="font-size:2vw;"><span style="color:#0000cd;">{{theQuery}}</span></span></p>
+                            		<p></p>
+                            		<!--<container>-->
+                                    {%if not result%}
+                                    	<script>alert("no results")</script>
+                                    {% else %}
+                                        <a href="/result_txt" class = "button" style="font-size:1vw; float:left;background:#2e5cb8; color:white; border-style: solid;"  download="results.csv" >
+                                            Results in text format
+                                        </a>
+                                        <a href="/result_table" class = "button" style="font-size:1vw; float:left; background:#ffffff; color:black; border-style: solid; ">
+                                            See results in table
+                                        </a>
+                                        <br>
+                                        <br>
+
+                                        <ul>
+                                            <style>
+                                                ul {
+                                                   list-style: none;
+                                                   margin: 0;
+                                                   padding: 0;
+                                                   float:left;
+                                                }
+                                                .row {
+                                                  display: flex; /* equal height of the children */
+                                                  border-bottom: solid ;
+                                                  /*border: solid;*/
+                                                }
+                                                .col {
+                                                  flex: 1; /* additionally, equal width */
+                                                  float: left;
+                                                  width:50%;
+                                                  padding: 20px;
+                                                  /*border: solid;*/
+                                                }
+                                                p {
+                                                    margin-top:5px;
+                                                    margin-bottom:5px;
+                                                    font-size:1vw;
+                                                }
+                                                h1,h2 {
+                                                    margin-top:0px;
+                                                    margin-bottom:7px;
+                                                    font-size:2vw;
+                                                }
+
+                                            </style>
+                                            {% for prot in result %}
+                                                <li>
+
+                                                <button class="accordion" style="background-color:#ffffe6; ">
+                                                    <h2 align="center">
+                                                            <a  href={{prot["link"]}}> {{ prot["pdb_entry"] }}  </a>
+                                                    </h2>
+                                                    <div class="row">
+                                                        <div style="background-color:#ffffe6; width:30%;float:left;">
+                                                            <img class="img-responsive center-block" src={{prot["cmplx_img"]}} alt="/static/images/1A0O.png" height = "80%" width = "80%" style = "margin-left: auto; margin-right: auto; margin-top: auto;"><img>
+                                                        </div>
+                                                        <div style="background-color:#ffffe6; width:70%;">
+                                                            <div class="col">
+                                                                <p></p>
+                                                                <p><strong>Resolution: </strong>
+                                                                {{prot["resolution"]}} Å</p>
+                                                                <p>
+                                                                    <strong>Publication year: </strong>
+                                                                    {{prot["year_pub"]}}
+                                                                </p>
+                                                                <p>
+                                                                    <strong>Method: </strong>
+                                                                    {{prot["method_complex"]}}
+                                                                </p>
+                                                                <p>
+                                                                    <strong>Stoichimetry: </strong>
+                                                                    {{prot["stoichiometry_complex"]}}
+                                                                </p>
+
+                                                            </div>
+                                                            <div class="col" >
+                                                                <p></p>
+                                                                <p></p>
+                                                                <p>
+                                                                    <strong>Interface chains: </strong>
+                                                                    {{prot["chains_in_interface_complex"]}}
+                                                                </p>
+                                                                <p>
+                                                                    <strong>Interface residues: </strong>
+                                                                    {{prot["num_interface_residues_complex"]}}
+                                                                </p>
+
+                                                                <p >
+                                                                    <strong>See also; {{prot["indentical_complexes"]}}</strong>
+                                                                </p>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </button>
+                                                <div class="panel">
+                                                    <div class="row">
+                                                        <div class="col" style="background-color:#ccccff;">
+                                                            <h1>
+                                                                <strong>Subunit 1:</strong>
+                                                                <a id="accA_1" href={{prot["pdb_prot_A"]}}> {{ prot["pdb_prot_A"]}}</a>
+                                                            </h1>
+                                                            <p>
+                                                                <strong>Name: </strong>
+                                                                {{prot["name_prot_A"]}}
+                                                            </p>
+                                                            <p>
+                                                                <strong>Accession: </strong>
+                                                                <a id="accA_1" href={{prot["linkAccessionPA_1"]}}> {{ prot["accession_prot_A_1"]}}</a>
+                                                            </p>
+                                                            <p>
+                                                                <strong>Length: </strong>
+                                                                {{prot["length_protein_A"]}}
+                                                            </p>
+                                                            <p>
+                                                                <strong>Method: </strong>
+                                                                {{prot["method_prot_A"]}}
+                                                            </p>
+                                                            <p>
+                                                                <strong>Stoichiometry: </strong>
+                                                                {{prot["stoichiometry_prot_A"]}}
+                                                            </p>
+                                                            <p>
+                                                                <strong>Chains in interface: </strong>
+                                                                {{prot["chains_in_interface_prot_A"]}}
+                                                            </p>
+                                                            <p>
+                                                                <strong>Identity: </strong>
+                                                                {{prot["identity_prot_A"]}}
+                                                            </p>
+                                                            <p>
+                                                                <strong>RMSD: </strong>
+                                                                {{prot["rmsd_prot_A"]}}
+                                                            </p>
+                                                            <p>
+                                                                <strong>Scope: </strong>
+                                                                {{prot["scop_prot_A"]}}
+                                                            </p>
+                                                        </div>
+                                                        <div class="col" style="background-color:#e6e6ff;">
+                                                            <h1>
+                                                                <strong>Subunit 2:</strong>
+                                                                <a id="accA_1" href={{prot["pdb_prot_B"]}}> {{ prot["pdb_prot_B"]}}</a>
+                                                            </h1>
+                                                            <p>
+                                                                <strong>Name: </strong>
+                                                                {{prot["name_prot_B"]}}
+                                                            </p>
+                                                            <p>
+                                                                <strong>Accession: </strong>
+                                                                <a id="accA_1" href={{prot["linkAccessionPA_1"]}}> {{ prot["accession_prot_B_1"]}}</a>
+                                                            </p>
+                                                            <p>
+                                                                <strong>Length: </strong>
+                                                                {{prot["length_protein_B"]}}
+                                                            </p>
+                                                            <p>
+                                                                <strong>Method: </strong>
+                                                                {{prot["method_prot_B"]}}
+                                                            </p>
+                                                            <p>
+                                                                <strong>Stoichiometry: </strong>
+                                                                {{prot["stoichiometry_prot_B"]}}
+                                                            </p>
+                                                            <p>
+                                                                <strong>Chains in interface: </strong>
+                                                                {{prot["chains_in_interface_prot_B"]}}
+                                                            </p>
+                                                            <p>
+                                                                <strong>Identity: </strong>
+                                                                {{prot["identity_prot_B"]}}
+                                                            </p>
+                                                            <p>
+                                                                <strong>RMSD: </strong>
+                                                                {{prot["rmsd_prot_B"]}}
+                                                            </p>
+                                                            <p>
+                                                                <strong>Scope: </strong>
+                                                                {{prot["scop_prot_B"]}}
+                                                            </p>
+                                                  </div>
+                                                    </div>
+                                                </div>
+                                                </li>
+                                    	    {% endfor %}
+                                        </ul>
+
+                                        <!--<script type=text/javascript src="{{url_for('static', filename='js/main.js') }}"></script>-->
+
+                                        <script>
+                                        var acc = document.getElementsByClassName("accordion");
+                                        var i;
+
+                                        for (i = 0; i < acc.length; i++) {
+                                            acc[i].addEventListener("click", function() {
+                                                this.classList.toggle("active");
+                                                var panel = this.nextElementSibling;
+                                                if (panel.style.display === "block") {
+                                                    panel.style.display = "none";
+                                                } else {
+                                                    panel.style.display = "block";
+                                                }
+                                            });
+                                        }
+                                    </script>
+                                    {% endif %}
+
+    </div>
+	<aside  class="sidebar">
+        <ul>
+            <li>
+                <h4>menu</h4>
+                <ul>
+                    <li><a href="/cdb/home"><font color="black">Home Page</a></li>
+                    <li><a href="/cdb/search"><font color="black">Search</a></li>
+					<li><a href="/cdb/help"><font color="black">Help</a></li>
+                </ul>
+            </li>
+
+            <li>
+                <h4>About us</h4>
+                <ul>
+                    <li class="text">
+                    <li><a href="http://www.jct.ac.il/en/"><font color="black">Jerusalem College of Technology </a></li>
+                    </li>
+                </ul>
+            </li>
+
+
+            <li>
+                <h4>Links</h4>
+                <ul>
+                    <li><a href="https://zlab.umassmed.edu/benchmark/" ><font color="black">Protein-Protein Docking Benchmark 5.0</a></li>
+                    <li><a href="http://dockground.compbio.ku.edu/" ><font color="black">Dockground</a></li>
+                </ul>
+            </li>
+
+        </ul>
+
+    </aside>
+
+    <div class="clear"></div>
     <footer>
         <div class="footer-content width">
             <ul>
@@ -379,15 +380,13 @@
             	<li><h4>contact</h4></li>
                 <li><a href="/citingUs">citing us</a></li>
 			    <li><a href="/help">help</a></li>
-
             </ul>
 
             <div class="clear"></div>
         </div>
         <div class="footer-bottom">
             <p>&copy; JCT 2017. <a href="http://www.jct.ac.il/">Bioinformatic</a> by JCT</p>
-         </div>
+        </div>
     </footer>
-</div>
 </body>
 </html>
