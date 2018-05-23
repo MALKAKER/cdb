@@ -192,7 +192,9 @@ def filterByRMSD(prevList , cutoff , theQuery):
     listNew=[]
     theQuery +="RMS cutoff:" + cutoff + "   ;  "
     for c in prevList:
-        if(c.rmsd_prot_A <= int(cutoff) and c.rmsd_prot_B <= int(cutoff)):
+        if(c.rmsd_prot_A == '-' or c.rmsd_prot_B == '-'  ):
+            continue
+        elif(float(c.rmsd_prot_A) <= float(cutoff) and float(c.rmsd_prot_B) <= float(cutoff)):
             listNew.append(c)
     return listNew,theQuery
 

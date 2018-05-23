@@ -74,9 +74,9 @@ def index():
             "name_prot_B":str(c.name_prot_B),"accession_prot_B_1":accession_prot_B_1,"accession_prot_B_2":accession_prot_B_2,"chain_prot_B":str(c.chain_prot_B),
             "length_protein_B":str(c.length_protein_B),"identity_prot_B":str(c.identity_prot_B),"scop_prot_B":str(c.scop_prot_B.replace(',',' ')),
             "reso_prot_B":str(c.reso_prot_B),"year_pub_prot_B":str(c.year_pub_prot_B),"res_num_prot_B":str(c.res_num_prot_B),
-            "stoichiometry_prot_A":str(c.stoichiometry_prot_A.strip('\n')),"method_prot_A":c.method_prot_A,"chains_in_interface_prot_A":str(c.chains_in_interface_prot_A.replace('\n','')),"rmsd_prot_A":str(c.rmsd_prot_A),"stoichiometry_prot_B":str(c.stoichiometry_prot_B.strip()),
-            "method_prot_B":str(c.method_prot_B.strip()),"chains_in_interface_prot_B":str(c.chains_in_interface_prot_B.replace('\n','')),"rmsd_prot_B":str(c.rmsd_prot_B),"stoichiometry_complex": str(c.stoichiometry_complex.replace('\n','')),
-            "method_complex":str(c.method_complex),"chains_in_interface_complex":str(c.chains_in_interface_complex.strip('\n')),"indentical_complexes":str(c.indentical_complexes),"num_interface_residues_complex":str(c.num_interface_residues_complex),"cmplx_img":str(img_loc)}
+            "stoichiometry_prot_A":str(c.stoichiometry_prot_A),"method_prot_A":c.method_prot_A,"chains_in_interface_prot_A":str(c.chains_in_interface_prot_A),"rmsd_prot_A":str(c.rmsd_prot_A),"stoichiometry_prot_B":str(c.stoichiometry_prot_B),
+            "method_prot_B":str(c.method_prot_B),"chains_in_interface_prot_B":str(c.chains_in_interface_prot_B),"rmsd_prot_B":str(c.rmsd_prot_B),"stoichiometry_complex": str(c.stoichiometry_complex),
+            "method_complex":str(c.method_complex),"chains_in_interface_complex":str(c.chains_in_interface_complex),"indentical_complexes":str(c.indentical_complexes),"num_interface_residues_complex":str(c.num_interface_residues_complex),"cmplx_img":str(img_loc)}
             p.append(t)
 
     index.save_results=list(p)
