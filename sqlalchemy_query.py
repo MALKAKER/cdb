@@ -11,6 +11,21 @@ session = db.session()
 
 
 
+
+# return all posiible stoichiometry
+def stoichiometry_options():
+    listC=Complex.query.all()
+    s_opt = []
+    for co in listC:
+        #take only the stoichiometry of the complex
+        tmp = co.stoichiometry_complex
+        if (len(tmp.split(' ')) != 1):
+            s_opt = s_opt +[tmp]
+    # remove duplicates and sort alphabeticly
+    s_opt = list(set(s_opt))
+    session.close()
+    return s_opt
+
 # filter the complex results by the aearch query fields:
 
 def filterByComplexPDB(prevList,complex_pdb,theQuery):

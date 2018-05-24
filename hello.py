@@ -25,7 +25,8 @@ theQuery,protdata=[],[]
 @app.route("/search", methods=["GET", "POST"])
 def index():
     if request.method == "GET":
-        return render_template("search.html")
+        s_opt = sqlalchemy_query.stoichiometry_options()
+        return render_template("search.html", opt_list = s_opt)
        # pass the list of the results
     listC,exception,theQuery=sqlalchemy_query.search_results(request) #sending to search functions in class sqlalchemy_query
     # data=""
@@ -119,7 +120,8 @@ def index1():
 @app.route("/cdb/search", methods=["GET", "POST"])
 def cdbindex():
     if request.method == "GET":
-        return render_template("search.html")
+        s_opt = sqlalchemy_query.stoichiometry_options()
+        return render_template("search.html", opt_list = s_opt)
 
        # pass the list of the results
     listC,exception,theQuery=sqlalchemy_query.search_results(request) #sending to search functions in class sqlalchemy_query

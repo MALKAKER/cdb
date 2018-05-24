@@ -16,6 +16,7 @@
     text-align: center;
     border-radius: 6px;
     padding: 5px 0;
+    font-size:1vw;
     position: absolute;
     z-index: 1;
     bottom: 125%;
@@ -81,40 +82,52 @@
 					<p style="margin-left: 0px;"><span style="font-size:18px;"><span style="color:#4da6ff;"><u><strong>Search By Complex:</strong></u></span></span></p>
 					<p style="margin:4px; font-weight: bold">
 					    <font class="tooltip" color="#0d0d0d">PDB entry:
-					    <span class="tooltiptext">Enter pdb entry, for example: 1bvk</span>
+					    <span class="tooltiptext">
+					        Search by pdb entry, a 4-character unique identifier of every entry in the PDB.
+					    </span>
 					    </font>
 					    <input type = "text" placeholder = "1bvk" name = "complex_pdb" />
 					</p>
 					<p style="margin:4px;font-weight: bold">
 					    <font class="tooltip" color="#0d0d0d">Method
-					    <span class="tooltiptext">Method</span>
+					    <span class="tooltiptext">
+					        Search by the experimental method used to determine the structure.
+					    </span>
 					    </font>
 					    <select name="method">
 					        <option value=""></option>
-					        <option value="X-RAY DIFFRACTION">X-RAY DIFFRACTION</option>
-					        <option value="SOLUTION NMR">SOLUTION NMR</option>
+					        <option value="X-RAY DIFFRACTION">X-RAY</option>
+					        <option value="SOLUTION NMR">NMR</option>
 					        <!--<option value="ELECTRON MICROSCOPY">ELECTRON MICROSCOPY</option>-->
 					    </select>
 					    <!--<input type = "text" placeholder = "X -Ray" name = "method" />-->
 					</p>
 					<p style="margin:4px;font-weight: bold">
 					    <font class="tooltip" color="#0d0d0d">Stoichiometry
-					    <span class="tooltiptext">stoichiometry</span>
+					    <span class="tooltiptext">
+					        Search by the stoichiometry of the complexes.
+					    </span>
 					    </font>
 					    <select name="stoichiometry">
 					        <option value=""></option>
-					        <option value="Hetero 2-mer - AB">Hetero 2-mer - AB</option>
+					        <!--<option value={{opt_list}}>{{opt_list}}</option>-->
+					        {% for s in opt_list %}
+					            <option value="{{s}}">{{s}}</option>
+					        {% endfor %}
+					        <!--<option value="Hetero 2-mer - AB">Hetero 2-mer - AB</option>
 					        <option value="Hetero 3-mer - ABC">Hetero 3-mer - ABC</option>
 					        <option value="Hetero 4-mer - ABCD">Hetero 4-mer - ABCD</option>
 					        <option value="Hetero 5-mer - ABCDE">Hetero 5-mer - ABCDE</option>
-					        <option value="Hetero 6-mer - ABCDEF">Hetero 6-mer - ABCDEF</option>
+					        <option value="Hetero 6-mer - ABCDEF">Hetero 6-mer - ABCDEF</option>-->
 					    </select>
 					    <!--<input type = "text" placeholder = "Hetero 2-mer AB" name = "stoichiometry" />-->
 					</p>
 <!-- 						<p>Interface area:  from <input type = "text" name = "interface_from" /> to <input type = "text" name = "interface_to" /> (aa)</p>
 -->					<p style="margin:4px;font-weight: bold">
                         <font class = "tooltip" color="#0d0d0d">Resolution:  from
-                        <span class="tooltiptext">resulation from</span>
+                        <span class="tooltiptext">
+                            Select cutoff resolution.
+                        </span>
                         </font>
                         <input type = "text" placeholder = "2.0" name = "res_from" />
 						<font color="#0d0d0d"> to </font>
@@ -122,7 +135,9 @@
 					</p>
 					<p style="margin:4px;font-weight: bold">
 					    <font class = "tooltip" color="#0d0d0d">Only Antibodies:
-					    <span class="tooltiptext">Pub. year:  from </span></font>
+					    <span class="tooltiptext">
+					        Search only antibodies.
+					    </span></font>
 					<select name="antibody">
 					  <option value="no">no</option>
 					  <option value="yes">yes</option>
@@ -136,35 +151,53 @@
 					</p>
 					<p style="margin:4px;font-weight: bold">
 					    <font class = "tooltip" color="#0d0d0d">PDB entry:
-					    <span class="tooltiptext">Entry</span></font>
+					        <span class="tooltiptext">
+					            Search subunits by pdb entry, a 4-character unique identifier of every entry in the PDB.
+					        </span>
+					    </font>
 					    <input type = "text" placeholder = "1bvk" name = "prot_pdb" />
 					</p>
 					<p style="margin:4px;font-weight: bold">
 					    <font class = "tooltip" color="#0d0d0d">Accession num:
-					    <span class="tooltiptext">Pub. year:  from </span>
+					    <span class="tooltiptext">
+					        Search by UniProt  accession number.
+					    </span>
 					    </font>
 					    <input type = "text" placeholder = "9463398" name = "prot_access" />
 					</p>
 					<p style="margin:4px;font-weight: bold">
 					    <font class = "tooltip" color="#0d0d0d">Name:
-					    <span class="tooltiptext">Pub. year:  from </span></font>
+					        <span class="tooltiptext">
+					            Search by subunit name.
+					        </span>
+					    </font>
 					    <input type = "text" placeholder = "ANTI-LYSOZYME" name = "prot_name" />
 					</p>
 					<p style="margin:4px;font-weight: bold">
 					    <font class = "tooltip" color="#0d0d0d">RMSD interface chains
-					    <span class="tooltiptext">RMSD interface chains</span></font>
+					        <span class="tooltiptext">
+					            Determine a cutoff for maximum RMS value between the interface chains in the complex,
+					            and the chains in the individual subunit.
+					        </span>
+					    </font>
 					    <input type = "text" placeholder = "1.5" name = "cutoff" />
 					</p>
 					<p style="margin:4px;font-weight: bold">
 					    <font class = "tooltip" color="#0d0d0d">Length protein A:  from
-					    <span class="tooltiptext">Pub. year:  from </span></font>
+					        <span class="tooltiptext">
+					            Determine the range of the first protein length
+					        </span>
+					    </font>
 					    <input type = "text" placeholder = "70" name = "lengthA_from" />
 					    <font color="#0d0d0d">to</font>
 					    <input type = "text" placeholder = "130" name = "lengthA_to" /><font color="#0d0d0d"> (aa)</font>
 					</p>
 					<p style="margin:4px;font-weight: bold">
 					    <font class = "tooltip" color="#0d0d0d">Length protein B:  from
-					    <span class="tooltiptext">Pub. year:  from </span></font>
+					        <span class="tooltiptext">
+					            Determine the range of the second protein length
+					        </span>
+					    </font>
 					    <input type = "text" placeholder = "70" name = "lengthB_from" />
 					    <font color="#0d0d0d"> to </font>
 					    <input type = "text" placeholder = "130" name = "lengthB_to" />
@@ -172,13 +205,18 @@
 					</p>
 					<p style="margin:4px;font-weight: bold">
 					    <font class = "tooltip" color="#0d0d0d">Scop family:
-					    <span class="tooltiptext">Pub. year:  from </span></font>
+					        <span class="tooltiptext">
+					            Search by SCOP terms.
+					        </span>
 					    </font>
 					    <input type = "text" placeholder = "Lysozyme-like" name = "scop" />
 					</p>
 					<p style="margin:4px;font-weight: bold">
 					    <font class = "tooltip" color="#0d0d0d">Identity % :  from
-					    <span class="tooltiptext">Pub. year:  from </span></font>
+					        <span class="tooltiptext">
+					            Determine optinal identity range.
+					        </span>
+					    </font>
 
 					    <input type = "text" placeholder = "80" name = "ident_from" />
 					    <font color="#0d0d0d">% to </font>
